@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bulls by 6.2
+## Prediction with Player Minutes: Bulls by 7.3
 
 
-Bulls by 10.2 on a neutral field
+Bulls by 11.3 on a neutral field
 
 There were 7 large changes in win probability in this match
-## Prediction without Player Minutes: Bulls by 4.6
+## Prediction without Player Minutes: Bulls by 5.4
 
 
-Bulls by 8.6 on a neutral pitch
+Bulls by 9.4 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                  |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                  |   Home Minutes |
 |---------------:|:-----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------------|---------------:|
-|             62 | Gerhardus Cornelis Steenkamp |      79.95 |                59 |        1 |                53 |      77.73 | Steven Kitshoff              |             72 |
-|             71 | Cornelis Johannes Grobbelaar |      93.37 |                82 |        2 |                62 |      82.73 | Joseph Dweba                 |             62 |
-|             62 | Dylan Thomas Smith           |      72.11 |                29 |        3 |                47 |      75.83 | Jozua Francois Malherbe      |             68 |
-|             72 | Ruan Stefan Vermaak          |      89.43 |                74 |        4 |                46 |      74.38 | Ruben van Heerden            |             72 |
-|             80 | Ruan Nortje                  |      99.03 |                86 |        5 |                60 |      81.7  | Marvin Orie                  |             80 |
-|             52 | Marco Gerhardt van Staden    |      96.21 |                84 |        6 |                73 |      87.54 | Deon Fourie                  |             45 |
-|             80 | Cyle Justin Brink            |      87.02 |                72 |        7 |                62 |      82.4  | Hacjivah Dayimani            |             55 |
-|             80 | Elrigh Louw                  |      97.09 |                84 |        8 |                46 |      76.42 | Evan Roos                    |             80 |
-|             62 | Embrose Cheldon Papier       |      77.99 |                53 |        9 |                55 |      77.48 | Herschel Jerome Jantjies     |             71 |
-|             80 | Chris Smith                  |      86.52 |                63 |       10 |                60 |      83.18 | Immanuel Libbok              |             80 |
-|             80 | David Kriel                  |      84.33 |                66 |       11 |               nan |      76.08 | Leolin Lucien Zas            |             71 |
-|             80 | Harold William Vorster       |      95.61 |                79 |       12 |                57 |      81.33 | Daniel Michael du Plessis    |             80 |
-|             75 | Stedman-Gee Rivett Gans      |      93.65 |                76 |       13 |                15 |      57.43 | Adriaan Ruhan Nel            |             80 |
-|             80 | Kurt-Lee Arendse             |      86.91 |                66 |       14 |                93 |     108.19 | Angelo Davids                |             80 |
-|             42 | Johannes Lodewikus Goosen    |      68.71 |                32 |       15 |                57 |      81.37 | Damian Willemse              |             80 |
-|             38 | Sibongile Vukile Novuka      |      85.39 |                68 |       16 |                34 |      69.16 | Willem Gerhardus Engelbrecht |             35 |
-|             28 | Nizaam Carr                  |      68.03 |                29 |       17 |                88 |     101.56 | Ben-Jason Dixon              |             25 |
-|             18 | Keagan Johannes              |      92.27 |                77 |       18 |                48 |      74.84 | JJ Kotze                     |             18 |
-|             18 | Francois Klopper             |      72.58 |                41 |       19 |                57 |      79.47 | Johan Neethling Fouche       |             12 |
-|             18 | Simphiwe Matanzima           |      72.4  |                37 |       20 |                49 |      76.49 | Albertus Paul de Wet         |              9 |
-|              9 | Bismarck du Plessis          |      71.96 |               nan |       21 |                65 |      85.87 | Sacha Mngomezulu             |              9 |
-|              8 | Janko Swanepoel              |      77.4  |                52 |       22 |                48 |      77.77 | Gary Porter                  |              8 |
-|              5 | Lionel Granton Mapoe         |      70.03 |                34 |       23 |                32 |      68.92 | Alistair Fernando Vermaak    |              8 |
+|             62 | Gerhardus Cornelis Steenkamp |      79.61 |                58 |        1 |                51 |      77.02 | Steven Kitshoff              |             72 |
+|             71 | Cornelis Johannes Grobbelaar |      97.28 |                86 |        2 |                54 |      78.49 | Joseph Dweba                 |             62 |
+|             62 | Dylan Thomas Smith           |      72.22 |                28 |        3 |                47 |      75.75 | Jozua Francois Malherbe      |             68 |
+|             72 | Ruan Stefan Vermaak          |      89.1  |                74 |        4 |                50 |      76.7  | Ruben van Heerden            |             72 |
+|             80 | Ruan Nortje                  |      99.14 |                86 |        5 |                59 |      81.34 | Marvin Orie                  |             80 |
+|             52 | Marco Gerhardt van Staden    |      90.31 |                76 |        6 |                74 |      88.57 | Deon Fourie                  |             45 |
+|             80 | Cyle Justin Brink            |      90.64 |                76 |        7 |                62 |      82.46 | Hacjivah Dayimani            |             55 |
+|             80 | Elrigh Louw                  |      97.36 |                83 |        8 |                46 |      76.28 | Evan Roos                    |             80 |
+|             62 | Embrose Cheldon Papier       |      78.78 |                54 |        9 |                56 |      77.82 | Herschel Jerome Jantjies     |             71 |
+|             80 | Chris Smith                  |      92.15 |                72 |       10 |                61 |      83.64 | Immanuel Libbok              |             80 |
+|             80 | David Kriel                  |      84.66 |                66 |       11 |               nan |      76.04 | Leolin Lucien Zas            |             71 |
+|             80 | Harold William Vorster       |      95.87 |                79 |       12 |                56 |      80.27 | Daniel Michael du Plessis    |             80 |
+|             75 | Stedman-Gee Rivett Gans      |      92.93 |                75 |       13 |                16 |      59.18 | Adriaan Ruhan Nel            |             80 |
+|             80 | Kurt-Lee Arendse             |      87.33 |                67 |       14 |                93 |     108.09 | Angelo Davids                |             80 |
+|             42 | Johannes Lodewikus Goosen    |      68.99 |                32 |       15 |                57 |      80.84 | Damian Willemse              |             80 |
+|             38 | Sibongile Vukile Novuka      |      85.96 |                69 |       16 |                30 |      66.95 | Willem Gerhardus Engelbrecht |             35 |
+|             28 | Nizaam Carr                  |      66.61 |                26 |       17 |                88 |     101.49 | Ben-Jason Dixon              |             25 |
+|             18 | Keagan Johannes              |      93.01 |                78 |       18 |                47 |      74.7  | JJ Kotze                     |             18 |
+|             18 | Francois Klopper             |      71.36 |                38 |       19 |                48 |      75.33 | Johan Neethling Fouche       |             12 |
+|             18 | Simphiwe Matanzima           |      71.03 |                33 |       20 |                55 |      79.29 | Albertus Paul de Wet         |              9 |
+|              9 | Bismarck du Plessis          |      72.08 |               nan |       21 |                66 |      85.94 | Sacha Mngomezulu             |              9 |
+|              8 | Janko Swanepoel              |      77.52 |                52 |       22 |                48 |      78    | Gary Porter                  |              8 |
+|              5 | Lionel Granton Mapoe         |      70.54 |                36 |       23 |                40 |      72.66 | Alistair Fernando Vermaak    |              8 |
 

@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Doncaster by 1.8
+## Prediction with Player Minutes: Doncaster by 2.7
 
 
-Ealing Trailfinders by 2.2 on a neutral field
+Ealing Trailfinders by 1.3 on a neutral field
 
-There were 11 large changes in win probability in this match
-## Prediction without Player Minutes: Ealing Trailfinders by 1.5
+There were 5 large changes in win probability in this match
+## Prediction without Player Minutes: Ealing Trailfinders by 0.5
 
 
-Ealing Trailfinders by 5.5 on a neutral pitch
+Ealing Trailfinders by 4.5 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             46 | James Gibbons       |      63.98 |                23 |        1 |                63 |      80.42 | Kai Owen                 |             50 |
-|             65 | Shaun Malton        |      86.55 |               nan |        2 |                42 |      72.37 | Will Holling             |             80 |
-|             53 | Lewis Thiede        |      81.07 |               nan |        3 |                31 |      66.59 | Jake Armstrong           |             54 |
-|             80 | David O'Connor      |      76.63 |                50 |        4 |                98 |     133.21 | Evan Mintern             |             65 |
-|             20 | Andrew Davidson     |      87.4  |                74 |        5 |               nan |      73.03 | Ben Murphy               |             55 |
-|             80 | Adam Korczyk        |      76.03 |                49 |        6 |                28 |      66.08 | Martin Sigren Molina     |             80 |
-|             53 | Simon Uzokwe        |      97.52 |                86 |        7 |                34 |      70.41 | Sam Daly                 |             40 |
-|             40 | Will Montgomery     |      84.69 |                64 |        8 |                41 |      72.77 | Thom Smith               |             80 |
-|             65 | Craig Hampson       |      84.44 |                64 |        9 |               nan |      77.55 | Will Yarnell             |             80 |
-|             80 | Dan Lancaster       |      51.33 |                 8 |       10 |                43 |      74.72 | Billy McBryde            |             74 |
-|             80 | Nathan Earle        |      79.93 |                58 |       11 |                51 |      79.39 | Robbie Smith             |             80 |
-|             80 | Reuben Bird-Tulloch |      64.62 |                24 |       12 |               nan |      77.59 | Alexander Lloyd-Seed     |             80 |
-|             71 | Max Bodilly         |      89.48 |                71 |       13 |                88 |     102.24 | Harry Davey              |             80 |
-|             80 | Luke Daniels        |      83.45 |                64 |       14 |                60 |      80.72 | George Simpson           |             80 |
-|             80 | Cian Kelleher       |      85.98 |                69 |       15 |                42 |      72.32 | Westleigh Alleyne Holden |             80 |
-|             60 | Arhur Bobby de Wee  |      77.11 |               nan |       16 |                 4 |      42.6  | Jared Cardew             |             40 |
-|             40 | Ollie Newman        |      98.19 |                86 |       17 |                48 |      76.85 | Jake Pope                |             30 |
-|             34 | Will Davis          |     113.5  |                97 |       18 |                26 |      67.26 | Karl Garside             |             26 |
-|             27 | Jack Digby          |      76.59 |                47 |       19 |                56 |      80.84 | John Kelly               |             25 |
-|             27 | Jimmy Roots         |      59.01 |               nan |       20 |                38 |      70.27 | George Roberts           |             15 |
-|             15 | Jordan Burns        |      99.14 |                87 |       21 |               nan |      73.21 | Thomas Parkin            |              6 |
-|             15 | Cameron Terry       |      69.03 |                29 |       22 |               nan |     nan    | nan                      |            nan |
-|              9 | Steve Shingler      |      77.23 |                50 |       23 |               nan |     nan    | nan                      |            nan |
+|             46 | James Gibbons       |      62.56 |                21 |        1 |                62 |      80.5  | Kai Owen                 |             50 |
+|             65 | Shaun Malton        |      86.09 |               nan |        2 |                44 |      74.21 | Will Holling             |             80 |
+|             53 | Lewis Thiede        |      80.43 |               nan |        3 |                30 |      66.3  | Jake Armstrong           |             54 |
+|             80 | David O'Connor      |      76.11 |                48 |        4 |                99 |     134.58 | Evan Mintern             |             65 |
+|             20 | Andrew Davidson     |      88.37 |                74 |        5 |               nan |      73.73 | Ben Murphy               |             55 |
+|             80 | Adam Korczyk        |      77.16 |                51 |        6 |                29 |      66.52 | Martin Sigren Molina     |             80 |
+|             53 | Simon Uzokwe        |      97.3  |                86 |        7 |                34 |      70.33 | Sam Daly                 |             40 |
+|             40 | Will Montgomery     |      84.07 |                63 |        8 |                44 |      73.44 | Thom Smith               |             80 |
+|             65 | Craig Hampson       |      83.76 |                62 |        9 |               nan |      77.48 | Will Yarnell             |             80 |
+|             80 | Dan Lancaster       |      52.64 |                 8 |       10 |                43 |      74.54 | Billy McBryde            |             74 |
+|             80 | Nathan Earle        |      80.05 |                58 |       11 |                48 |      77.87 | Robbie Smith             |             80 |
+|             80 | Reuben Bird-Tulloch |      64.65 |                24 |       12 |               nan |      77.41 | Alexander Lloyd-Seed     |             80 |
+|             71 | Max Bodilly         |      87.71 |                69 |       13 |                90 |     104.09 | Harry Davey              |             80 |
+|             80 | Luke Daniels        |      82.04 |                62 |       14 |                60 |      80.78 | George Simpson           |             80 |
+|             80 | Cian Kelleher       |      87.2  |                71 |       15 |                42 |      72.86 | Westleigh Alleyne Holden |             80 |
+|             60 | Arhur Bobby de Wee  |      76.79 |               nan |       16 |                 4 |      44.27 | Jared Cardew             |             40 |
+|             40 | Ollie Newman        |      98.59 |                86 |       17 |                48 |      76.81 | Jake Pope                |             30 |
+|             34 | Will Davis          |     115    |                98 |       18 |                28 |      68.3  | Karl Garside             |             26 |
+|             27 | Jack Digby          |      77.8  |                50 |       19 |                49 |      77.34 | John Kelly               |             25 |
+|             27 | Jimmy Roots         |      59.59 |               nan |       20 |                51 |      76.93 | George Roberts           |             15 |
+|             15 | Jordan Burns        |      91.43 |                79 |       21 |               nan |      73.54 | Thomas Parkin            |              6 |
+|             15 | Cameron Terry       |      68.56 |                28 |       22 |               nan |     nan    | nan                      |            nan |
+|              9 | Steve Shingler      |      77.29 |                50 |       23 |               nan |     nan    | nan                      |            nan |
 

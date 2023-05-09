@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Natal Sharks by 11.7
+## Prediction with Player Minutes: Natal Sharks by 10.6
 
 
-Natal Sharks by 7.7 on a neutral field
+Natal Sharks by 6.6 on a neutral field
 
 There were 1 large changes in win probability in this match
-## Prediction without Player Minutes: Natal Sharks by 11.2
+## Prediction without Player Minutes: Natal Sharks by 10.2
 
 
-Natal Sharks by 7.2 on a neutral pitch
+Natal Sharks by 6.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                   |   Home Minutes |
 |---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------|---------------:|
-|             60 | Cebolenkosi Dlamini        |      72.29 |                41 |        1 |                36 |      70.23 | Khwezi Jongamazizi Mona       |             65 |
-|             56 | Janco Uys                  |      72.47 |                43 |        2 |               nan |      72.71 | Kerron van Vuuren             |             56 |
-|             69 | Janu Botha                 |      79.53 |                57 |        3 |                72 |      86.76 | Khuthuzani Kingdom Mchunu     |             56 |
-|             80 | Johan Retief               |      71.08 |                39 |        4 |                73 |      88.46 | Ockie Barnard                 |             60 |
-|             51 | Albert Liebenberg          |      76.64 |                51 |        5 |                46 |      74.08 | Daniel Pieter (Reniel) Hugo   |             80 |
-|             80 | Stephan Smit               |      63.79 |                24 |        6 |                37 |      70.82 | Tinotenda Blithe Mavesere     |             80 |
-|             80 | Hanru Sirgel               |      86.29 |                70 |        7 |                41 |      72.47 | Thembelani Bholi              |             69 |
-|             64 | Carl Els                   |      61.39 |                20 |        8 |                90 |     103.14 | Hendrik Petrus (Henco) Venter |             80 |
-|             61 | Johan Mulder               |      62.82 |                23 |        9 |                64 |      84.38 | Bradley Davids                |             61 |
-|             56 | Eduard (Eddie) Fouche      |      94.04 |                76 |       10 |                32 |      68.9  | Lionel Cronje                 |             80 |
-|             80 | Luther Obi                 |      66.99 |                31 |       11 |                77 |      91.6  | Marnus Potgieter              |             78 |
-|             80 | Tertius Kruger             |      70.46 |                34 |       12 |                93 |     109.94 | Alwayno Visagie               |             80 |
-|             44 | Sango (Saida) Xamlashe     |      73.19 |                43 |       13 |                37 |      72.01 | Josh Jonas                    |             47 |
-|             80 | Sakoyisa Makata            |      70.61 |               nan |       14 |                28 |      65.03 | Yaw Osei Penxe                |             80 |
-|             80 | Jay Cee Nel                |      97.15 |                81 |       15 |                51 |      80.88 | Thaakir Abrahams              |             80 |
-|             36 | George Alexander Whitehead |      77.33 |                53 |       16 |                36 |      71.89 | Murray Koster                 |             33 |
-|             29 | Dylan Sjoblom              |      68.67 |               nan |       17 |                76 |      91.8  | Daniel Viljoen Jooste         |             24 |
-|             24 | Sean Swart                 |      74.34 |               nan |       18 |                32 |      71.16 | Hanro Jacobs                  |             24 |
-|             24 | Ashlon Davids              |      96.44 |                81 |       19 |               nan |      75.12 | Marco De Witt                 |             20 |
-|             20 | Edward Davids              |      78.53 |                55 |       20 |                66 |      83.16 | Tiaan Fourie                  |             19 |
-|             19 | Raegan Oranje              |      87.03 |                73 |       21 |                53 |      79.39 | Dian Bleuler                  |             15 |
-|             16 | Niel Otto                  |      98.37 |                85 |       22 |               nan |      69.06 | Damon Royle                   |             11 |
-|             11 | Junior Banda               |      69.95 |                39 |       23 |                41 |      72.28 | Frederik Johannes Zeilinga    |              2 |
+|             60 | Cebolenkosi Dlamini        |      72.63 |                42 |        1 |                34 |      69.91 | Khwezi Jongamazizi Mona       |             65 |
+|             56 | Janco Uys                  |      72.75 |                43 |        2 |               nan |      72.7  | Kerron van Vuuren             |             56 |
+|             69 | Janu Botha                 |      79.29 |                57 |        3 |                68 |      84.75 | Khuthuzani Kingdom Mchunu     |             56 |
+|             80 | Johan Retief               |      71.92 |                40 |        4 |                73 |      88.41 | Ockie Barnard                 |             60 |
+|             51 | Albert Liebenberg          |      76.43 |                49 |        5 |                45 |      73.55 | Daniel Pieter (Reniel) Hugo   |             80 |
+|             80 | Stephan Smit               |      63.81 |                24 |        6 |                38 |      71.22 | Tinotenda Blithe Mavesere     |             80 |
+|             80 | Hanru Sirgel               |      86.83 |                71 |        7 |                42 |      72.83 | Thembelani Bholi              |             69 |
+|             64 | Carl Els                   |      61.65 |                20 |        8 |                85 |      98.88 | Hendrik Petrus (Henco) Venter |             80 |
+|             61 | Johan Mulder               |      64.54 |                25 |        9 |                64 |      84.35 | Bradley Davids                |             61 |
+|             56 | Eduard (Eddie) Fouche      |      93.95 |                77 |       10 |                32 |      68.59 | Lionel Cronje                 |             80 |
+|             80 | Luther Obi                 |      66.35 |                30 |       11 |                76 |      91.07 | Marnus Potgieter              |             78 |
+|             80 | Tertius Kruger             |      70.66 |                35 |       12 |                93 |     110.31 | Alwayno Visagie               |             80 |
+|             44 | Sango (Saida) Xamlashe     |      72.9  |                43 |       13 |                38 |      72.21 | Josh Jonas                    |             47 |
+|             80 | Sakoyisa Makata            |      70.65 |               nan |       14 |                27 |      64.82 | Yaw Osei Penxe                |             80 |
+|             80 | Jay Cee Nel                |      97.02 |                80 |       15 |                44 |      77.25 | Thaakir Abrahams              |             80 |
+|             36 | George Alexander Whitehead |      76.21 |                51 |       16 |                36 |      72.04 | Murray Koster                 |             33 |
+|             29 | Dylan Sjoblom              |      68.71 |               nan |       17 |                76 |      91.8  | Daniel Viljoen Jooste         |             24 |
+|             24 | Sean Swart                 |      74.12 |               nan |       18 |                31 |      71.19 | Hanro Jacobs                  |             24 |
+|             24 | Ashlon Davids              |      95.06 |                79 |       19 |               nan |      75.46 | Marco De Witt                 |             20 |
+|             20 | Edward Davids              |      79.28 |                57 |       20 |                65 |      83.21 | Tiaan Fourie                  |             19 |
+|             19 | Raegan Oranje              |      85.92 |                72 |       21 |                53 |      79.6  | Dian Bleuler                  |             15 |
+|             16 | Niel Otto                  |      97.85 |                85 |       22 |               nan |      69.96 | Damon Royle                   |             11 |
+|             11 | Junior Banda               |      70.68 |                40 |       23 |                38 |      71.57 | Frederik Johannes Zeilinga    |              2 |
 

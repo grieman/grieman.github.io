@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Biarritz Olympique by 0.7
+## Prediction with Player Minutes: Aurillac by 1.0
 
 
-Biarritz Olympique by 4.7 on a neutral field
+Biarritz Olympique by 3.0 on a neutral field
 
-There were 2 large changes in win probability in this match
-## Prediction without Player Minutes: Biarritz Olympique by 0.1
+There were 3 large changes in win probability in this match
+## Prediction without Player Minutes: Aurillac by 1.9
 
 
-Biarritz Olympique by 4.1 on a neutral pitch
+Biarritz Olympique by 2.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                           |   Home Minutes |
 |---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------------------|---------------:|
-|             80 | Baptiste Erdocio   |      79.41 |                57 |        1 |                41 |      70.73 | Alexandre Plantier                    |             59 |
-|             58 | Clément Renaud     |      83.13 |                66 |        2 |                72 |      86.47 | Adrian Smith                          |             59 |
-|             41 | Guy Millar         |      68.72 |                32 |        3 |                14 |      53.08 | Henzo Kiteau                          |             55 |
-|             80 | Adrian Motoc       |      64.85 |                27 |        4 |                69 |      86.1  | Georgi Javakhia                       |             55 |
-|             55 | Josh Tyrell        |      81.64 |                60 |        5 |                44 |      73.41 | Jean-Baptiste Singer                  |             66 |
-|             72 | Charlie Francoz    |      74.54 |               nan |        6 |                50 |      76.8  | Didier Tison                          |             80 |
-|             80 | Thomas Hebert      |      83.95 |                65 |        7 |                32 |      67.83 | Beka Shvangiradze                     |             80 |
-|             80 | Temo Matiu         |      94.13 |                80 |        8 |                 2 |      37.61 | Latuka Maituku                        |             55 |
-|             55 | Barnabé Couilloud  |      81.15 |                59 |        9 |                44 |      74.31 | Mikheil Alania                        |             56 |
-|             80 | Gilles Bosch       |      67.7  |               nan |       10 |                53 |      79.15 | Marc Palmier                          |             80 |
-|             80 | Tyler Morgan       |      80.39 |                56 |       11 |                67 |      84.86 | Adriaan Jocobus van der Berg Coertzen |             80 |
-|             80 | Francois Vergnaud  |      69.56 |                33 |       12 |                46 |      75.68 | Christa Powell                        |             80 |
-|             80 | Auguste Cadot      |      74.31 |                52 |       13 |                34 |      70.33 | Jimmy Yobo                            |             80 |
-|             63 | Henry Speight      |      75.12 |                48 |       14 |                46 |      74.49 | Albert Valentin                       |             63 |
-|             55 | Ilian Perraux      |      77.37 |                50 |       15 |                88 |     102.46 | Anderson Neisen                       |             80 |
-|             39 | Quentin Samaran    |      73.71 |                47 |       16 |                57 |      79.88 | Martial Rolland                       |             25 |
-|             25 | Vincent Martin     |      72.97 |                43 |       17 |                35 |      69.59 | Hugo Huurman                          |             25 |
-|             25 | Kerman Aurrekoetea |      82.13 |                61 |       18 |                39 |      71.41 | Tim Daniel-Meissen                    |             25 |
-|             25 | Simon Augry        |      68.97 |                34 |       19 |                13 |      51.03 | Hugo Bouyssou                         |             24 |
-|             22 | Leo Carella        |      84.47 |               nan |       20 |                36 |      70.4  | Robert Rodgers                        |             21 |
-|             17 | Ewan Bertheau      |      81.73 |                60 |       21 |                50 |      75.19 | Luka Nioradze                         |             21 |
-|              8 | Johan Aliouat      |      73.48 |                42 |       22 |                 2 |      35.06 | Simeli Yabaki                         |             17 |
-|            nan | nan                |     nan    |               nan |       23 |               nan |      68.75 | Mehdi Slamani                         |             14 |
+|             80 | Baptiste Erdocio   |      74.59 |                46 |        1 |                40 |      70.75 | Alexandre Plantier                    |             59 |
+|             58 | Clément Renaud     |      75.34 |                49 |        2 |                68 |      85.07 | Adrian Smith                          |             59 |
+|             41 | Guy Millar         |      66.79 |                28 |        3 |                14 |      52.74 | Henzo Kiteau                          |             55 |
+|             80 | Adrian Motoc       |      63.04 |                23 |        4 |                76 |      91.16 | Georgi Javakhia                       |             55 |
+|             55 | Josh Tyrell        |      77.11 |                51 |        5 |                35 |      69.43 | Jean-Baptiste Singer                  |             66 |
+|             72 | Charlie Francoz    |      73.14 |               nan |        6 |                48 |      75.77 | Didier Tison                          |             80 |
+|             80 | Thomas Hebert      |      82.1  |                61 |        7 |                33 |      68.3  | Beka Shvangiradze                     |             80 |
+|             80 | Temo Matiu         |      96.9  |                83 |        8 |                 1 |      34.76 | Latuka Maituku                        |             55 |
+|             55 | Barnabé Couilloud  |      79.77 |                57 |        9 |                45 |      74.88 | Mikheil Alania                        |             56 |
+|             80 | Gilles Bosch       |      65.9  |               nan |       10 |                60 |      83.08 | Marc Palmier                          |             80 |
+|             80 | Tyler Morgan       |      83.35 |                61 |       11 |                67 |      85.12 | Adriaan Jocobus van der Berg Coertzen |             80 |
+|             80 | Francois Vergnaud  |      69.62 |                33 |       12 |                46 |      75.44 | Christa Powell                        |             80 |
+|             80 | Auguste Cadot      |      75.34 |                51 |       13 |                33 |      69.65 | Jimmy Yobo                            |             80 |
+|             63 | Henry Speight      |      75.67 |                48 |       14 |                47 |      75.2  | Albert Valentin                       |             63 |
+|             55 | Ilian Perraux      |      76.4  |                48 |       15 |                90 |     104.83 | Anderson Neisen                       |             80 |
+|             39 | Quentin Samaran    |      76.02 |                52 |       16 |                58 |      80.74 | Martial Rolland                       |             25 |
+|             25 | Vincent Martin     |      73.26 |                44 |       17 |                34 |      68.73 | Hugo Huurman                          |             25 |
+|             25 | Kerman Aurrekoetea |      79.11 |                56 |       18 |                37 |      71.01 | Tim Daniel-Meissen                    |             25 |
+|             25 | Simon Augry        |      70.32 |                37 |       19 |                 8 |      46.57 | Hugo Bouyssou                         |             24 |
+|             22 | Leo Carella        |      84.97 |               nan |       20 |                38 |      71.65 | Robert Rodgers                        |             21 |
+|             17 | Ewan Bertheau      |      81.74 |                60 |       21 |                54 |      77.45 | Luka Nioradze                         |             21 |
+|              8 | Johan Aliouat      |      71.47 |                36 |       22 |                 1 |      33.27 | Simeli Yabaki                         |             17 |
+|            nan | nan                |     nan    |               nan |       23 |               nan |      68.63 | Mehdi Slamani                         |             14 |
 

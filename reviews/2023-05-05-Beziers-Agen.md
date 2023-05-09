@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Agen by 5.3
+## Prediction with Player Minutes: Agen by 4.5
 
 
-Agen by 9.3 on a neutral field
+Agen by 8.5 on a neutral field
 
 There were 3 large changes in win probability in this match
-## Prediction without Player Minutes: Agen by 4.6
+## Prediction without Player Minutes: Agen by 4.0
 
 
-Agen by 8.6 on a neutral pitch
+Agen by 8.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                 |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------|---------------:|
-|             54 | Richard Barrington    |      81.73 |                59 |        1 |                22 |      62.77 | Francisco Fernandes         |             46 |
-|             54 | Mike Sosene-Feagai    |      85.1  |                66 |        2 |                49 |      74.24 | Marco Pinto Ferrer          |             46 |
-|             46 | Walter Desmaison      |      62.62 |                19 |        3 |                29 |      66.22 | Jamie Hagan                 |             52 |
-|             65 | Joe Maksymiw          |      84.83 |                67 |        4 |                 9 |      50.97 | Gillian Benoy               |             80 |
-|             80 | Zak Farrance          |      80.83 |                54 |        5 |                35 |      69.5  | John Madigan                |             62 |
-|             46 | Antoine Erbani        |      68.52 |                40 |        6 |                20 |      57.67 | Jean-Baptiste Barrère       |             55 |
-|             80 | Evan Olmstead         |      72.61 |                46 |        7 |                25 |      63.94 | Éloi Massot                 |             80 |
-|             80 | Martin Devergie       |      89.11 |                74 |        8 |                35 |      71    | Thomas Hoarau               |             80 |
-|             54 | Dorian Bellot         |      88.2  |                70 |        9 |                30 |      67.08 | Josh Valentine              |             55 |
-|             80 | Elton Thomas Jantjies |      90.2  |                72 |       10 |               nan |      70.5  | Adrien Latorre              |             52 |
-|             80 | Jefferson Joseph      |      86.36 |                65 |       11 |                72 |      89.07 | Gabin Lorre                 |             80 |
-|              4 | Harry Sloan           |      70.68 |                35 |       12 |                29 |      67.11 | Watisoni Votu               |             80 |
-|             80 | Baptiste Lafond       |      61.3  |                20 |       13 |                96 |     117.42 | Maxime Espeut               |             57 |
-|             54 | Timilai Rokoduru      |      75.91 |                42 |       14 |                41 |      72.02 | Paul Reau                   |             80 |
-|             80 | Jean-Marcellin Buttin |      89.15 |                69 |       15 |                42 |      74.95 | Charly Malié                |             80 |
-|             76 | Loris Tolot           |      84.93 |                67 |       16 |                64 |      80.27 | Giorgi Akhaladze            |             34 |
-|             34 | Beau Farrance         |      73.93 |                52 |       17 |                71 |      85.88 | Clément Esteriola           |             34 |
-|             34 | Julien Lebian         |      75.64 |                48 |       18 |               nan |      75.75 | John-Hubert Meyer           |             28 |
-|             26 | Raphaël Lagarde       |      72.64 |               nan |       19 |                60 |      84.14 | Victor Dreuille             |             28 |
-|             26 | Theo Idjellidaine     |      70.84 |                46 |       20 |                40 |      72.31 | Mitchell Short              |             25 |
-|             26 | Clément Martinez      |      64.03 |                26 |       21 |                41 |      71.21 | Maxence Lemardelet          |             25 |
-|             26 | Florent Guion         |      46.14 |                 3 |       22 |                31 |      68.62 | Andries Ebenaezer Swanepoel |             23 |
-|             15 | Corentin Vernet       |      79.45 |                56 |       23 |               nan |      81.92 | Steyl Barnard               |             18 |
+|             54 | Richard Barrington    |      80.91 |                57 |        1 |                19 |      60.48 | Francisco Fernandes         |             46 |
+|             54 | Mike Sosene-Feagai    |      84.32 |                64 |        2 |                46 |      72.94 | Marco Pinto Ferrer          |             46 |
+|             46 | Walter Desmaison      |      62.1  |                18 |        3 |                25 |      64.48 | Jamie Hagan                 |             52 |
+|             65 | Joe Maksymiw          |      84.19 |                65 |        4 |                11 |      52.61 | Gillian Benoy               |             80 |
+|             80 | Zak Farrance          |      77.72 |                48 |        5 |                32 |      68.06 | John Madigan                |             62 |
+|             46 | Antoine Erbani        |      67.9  |                39 |        6 |                23 |      60.37 | Jean-Baptiste Barrère       |             55 |
+|             80 | Evan Olmstead         |      71.26 |                42 |        7 |                25 |      64.29 | Éloi Massot                 |             80 |
+|             80 | Martin Devergie       |      89.42 |                74 |        8 |                38 |      71.61 | Thomas Hoarau               |             80 |
+|             54 | Dorian Bellot         |      88.33 |                70 |        9 |                28 |      66.23 | Josh Valentine              |             55 |
+|             80 | Elton Thomas Jantjies |      88.65 |                69 |       10 |               nan |      69.82 | Adrien Latorre              |             52 |
+|             80 | Jefferson Joseph      |      88.13 |                67 |       11 |                73 |      89.37 | Gabin Lorre                 |             80 |
+|              4 | Harry Sloan           |      69.87 |                33 |       12 |                33 |      69.5  | Watisoni Votu               |             80 |
+|             80 | Baptiste Lafond       |      58.78 |                16 |       13 |                96 |     117.17 | Maxime Espeut               |             57 |
+|             54 | Timilai Rokoduru      |      75.96 |                42 |       14 |                40 |      71.85 | Paul Reau                   |             80 |
+|             80 | Jean-Marcellin Buttin |      88.64 |                68 |       15 |                41 |      73.48 | Charly Malié                |             80 |
+|             76 | Loris Tolot           |      84.92 |                67 |       16 |                65 |      81.05 | Giorgi Akhaladze            |             34 |
+|             34 | Beau Farrance         |      74.89 |                53 |       17 |                66 |      83.35 | Clément Esteriola           |             34 |
+|             34 | Julien Lebian         |      74.38 |                46 |       18 |               nan |      73.84 | John-Hubert Meyer           |             28 |
+|             26 | Raphaël Lagarde       |      72.04 |               nan |       19 |                61 |      85.08 | Victor Dreuille             |             28 |
+|             26 | Theo Idjellidaine     |      70.39 |                43 |       20 |                39 |      72.03 | Mitchell Short              |             25 |
+|             26 | Clément Martinez      |      63.37 |                25 |       21 |                37 |      69.33 | Maxence Lemardelet          |             25 |
+|             26 | Florent Guion         |      44.76 |                 3 |       22 |                26 |      65.16 | Andries Ebenaezer Swanepoel |             23 |
+|             15 | Corentin Vernet       |      79.37 |                56 |       23 |               nan |      82.06 | Steyl Barnard               |             18 |
 

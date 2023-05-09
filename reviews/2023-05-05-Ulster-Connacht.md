@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Ulster by 8.0
+## Prediction with Player Minutes: Ulster by 7.5
 
 
-Ulster by 4.0 on a neutral field
+Ulster by 3.5 on a neutral field
 
-There were 10 large changes in win probability in this match
-## Prediction without Player Minutes: Ulster by 7.8
+There were 9 large changes in win probability in this match
+## Prediction without Player Minutes: Ulster by 7.6
 
 
-Ulster by 3.8 on a neutral pitch
+Ulster by 3.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             65 | Dennis Buckley        |      85.55 |                70 |        1 |                88 |      97.14 | Rory Sutherland        |             78 |
-|             56 | David Heffernan       |      74.01 |                47 |        2 |                54 |      78.3  | Rob Herring            |             58 |
-|             56 | Finlay Bealham        |      91.1  |                80 |        3 |                81 |      91.87 | Jeffery To'omaga-Allen |             40 |
-|             80 | Joshua Daniel Murphy  |      82.9  |                63 |        4 |                78 |      92.33 | Alan O'Connor          |             80 |
-|             56 | Niall Murray          |      82.28 |                61 |        5 |                76 |      91.28 | Kieran Treadwell       |             58 |
-|             80 | Shamus Hurley-Langton |      81.31 |               nan |        6 |                49 |      76.38 | David McCann           |             80 |
-|             80 | Conor Oliver          |      83.01 |                63 |        7 |                86 |      98.54 | Nick Timoney           |             58 |
-|             62 | Cian Prendergast      |      83.79 |                64 |        8 |                53 |      79.12 | Duane Vermeulen        |             80 |
-|             65 | Caolin Blade          |      85.44 |                65 |        9 |                74 |      91.35 | John Cooney            |             72 |
-|             80 | Jack Carty            |      90.89 |                73 |       10 |                55 |      80.27 | Billy Burns            |             80 |
-|             80 | Mack Hansen           |      74.02 |                46 |       11 |                74 |      89.73 | Jacob Stockdale        |             80 |
-|             80 | Bundee Aki            |     121.57 |                97 |       12 |                93 |     110.66 | Stuart McCloskey       |             80 |
-|             78 | Thomas Farrell        |      82.44 |                60 |       13 |                58 |      81.72 | James Hume             |             65 |
-|             80 | John Porch            |      78.71 |                56 |       14 |                67 |      85.23 | Robert Baloucoune      |             80 |
-|             68 | Tiernan O'Halloran    |      78.41 |                51 |       15 |                50 |      77.76 | Michael Lowry          |             18 |
-|             24 | Dylan Tierney-Martin  |      84.42 |                67 |       16 |                76 |      93.17 | Stewart Moore          |             62 |
-|             24 | Jack Aungier          |      82.43 |                64 |       17 |               nan |      69.7  | Gareth Milasinovich    |             40 |
-|             24 | Oisin Dowling         |      83.56 |                64 |       18 |                61 |      86.24 | Tom Stewart            |             22 |
-|             18 | Jarrad Butler         |      82.27 |                60 |       19 |                62 |      82.51 | Jordi Murphy           |             22 |
-|             15 | Kieran Marmion        |      77.21 |               nan |       20 |                38 |      72.86 | Sam Carter             |             22 |
-|             15 | Jordan Duggan         |      79.86 |               nan |       21 |                45 |      79.55 | Craig Gilroy           |             15 |
-|             12 | Byron Ralston         |      81.23 |                60 |       22 |                63 |      86.78 | Nathan Doak            |              8 |
-|              2 | Tom Daly              |      80.68 |               nan |       23 |                39 |      71.71 | Eric O'Sullivan        |              2 |
+|             65 | Dennis Buckley        |      85.12 |                69 |        1 |                89 |      97.96 | Rory Sutherland        |             78 |
+|             56 | David Heffernan       |      73.31 |                44 |        2 |                60 |      81.18 | Rob Herring            |             58 |
+|             56 | Finlay Bealham        |      87.86 |                74 |        3 |                75 |      88.11 | Jeffery To'omaga-Allen |             40 |
+|             80 | Joshua Daniel Murphy  |      83.92 |                65 |        4 |                80 |      93.69 | Alan O'Connor          |             80 |
+|             56 | Niall Murray          |      82.4  |                62 |        5 |                74 |      89.46 | Kieran Treadwell       |             58 |
+|             80 | Shamus Hurley-Langton |      81.25 |               nan |        6 |                50 |      76.99 | David McCann           |             80 |
+|             80 | Conor Oliver          |      86.79 |                71 |        7 |                85 |      97.55 | Nick Timoney           |             58 |
+|             62 | Cian Prendergast      |      83.43 |                63 |        8 |                54 |      79.68 | Duane Vermeulen        |             80 |
+|             65 | Caolin Blade          |      82.7  |                60 |        9 |                71 |      89.29 | John Cooney            |             72 |
+|             80 | Jack Carty            |      92.1  |                75 |       10 |                59 |      82.8  | Billy Burns            |             80 |
+|             80 | Mack Hansen           |      75.45 |                48 |       11 |                68 |      85.81 | Jacob Stockdale        |             80 |
+|             80 | Bundee Aki            |     123.24 |                98 |       12 |                91 |     108.11 | Stuart McCloskey       |             80 |
+|             78 | Thomas Farrell        |      81.49 |                58 |       13 |                53 |      78.83 | James Hume             |             65 |
+|             80 | John Porch            |      76.85 |                52 |       14 |                67 |      85.23 | Robert Baloucoune      |             80 |
+|             68 | Tiernan O'Halloran    |      77.61 |                50 |       15 |                51 |      78.84 | Michael Lowry          |             18 |
+|             24 | Dylan Tierney-Martin  |      88.22 |                75 |       16 |                76 |      93.42 | Stewart Moore          |             62 |
+|             24 | Jack Aungier          |      82.62 |                64 |       17 |               nan |      70.42 | Gareth Milasinovich    |             40 |
+|             24 | Oisin Dowling         |      83.64 |                64 |       18 |                63 |      87.15 | Tom Stewart            |             22 |
+|             18 | Jarrad Butler         |      82.4  |                60 |       19 |                60 |      81.85 | Jordi Murphy           |             22 |
+|             15 | Kieran Marmion        |      78.24 |               nan |       20 |                38 |      73.34 | Sam Carter             |             22 |
+|             15 | Jordan Duggan         |      74.8  |               nan |       21 |                59 |      86.45 | Craig Gilroy           |             15 |
+|             12 | Byron Ralston         |      81.31 |                61 |       22 |                59 |      85.11 | Nathan Doak            |              8 |
+|              2 | Tom Daly              |      78.46 |               nan |       23 |                53 |      78.08 | Eric O'Sullivan        |              2 |
 

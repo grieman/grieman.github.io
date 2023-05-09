@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Hartpury College by 16.1
+## Prediction with Player Minutes: Hartpury College by 15.9
 
 
-Hartpury College by 12.1 on a neutral field
+Hartpury College by 11.9 on a neutral field
 
 There were 2 large changes in win probability in this match
 ## Prediction without Player Minutes: Hartpury College by 17.6
@@ -43,27 +43,27 @@ Hartpury College by 13.6 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:-----------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             43 | Nathan Rushton   |      61.05 |                19 |        1 |                26 |      65.86 | Joe Wrafter       |             48 |
-|             63 | Oliver Hearn     |      65.91 |                30 |        2 |               nan |      63.57 | Ethan Hunt        |             72 |
-|             43 | Joe Jones        |      58.48 |                19 |        3 |                31 |      68.73 | Mikey Summerfield |             72 |
-|             63 | Josiah Dickinson |      64    |                25 |        4 |                16 |      59.92 | Freddie Clarke    |             80 |
-|             80 | Thomas Sanders   |      59.91 |                18 |        5 |                23 |      67.28 | Dale Lemon        |             80 |
-|             80 | Harrison Crowe   |      52.63 |                14 |        6 |                17 |      58.35 | Sam Lewis         |             72 |
-|             35 | Callum Ridgway   |      55.24 |                12 |        7 |                76 |      90.13 | Harry Short       |             48 |
-|             80 | Sam Dickinson    |      58.72 |                17 |        8 |                12 |      54.26 | Jack Davies       |             80 |
-|             46 | Joseph Murray    |      63    |                25 |        9 |                30 |      66.18 | Oscar Lennon      |             56 |
-|             48 | Rhys Hayes       |      58.2  |                15 |       10 |                28 |      66.33 | George Barton     |             80 |
-|             80 | Dan Bibby        |      49.93 |                 8 |       11 |                64 |      86.09 | Alex Morgan       |             72 |
-|             63 | Lewis Barker     |      57.69 |                15 |       12 |                47 |      76.36 | Harry Tarling     |             72 |
-|             80 | Michael Cartmill |      59.43 |                22 |       13 |                24 |      62.29 | Jack Reeves       |             80 |
-|             80 | Nick Royle       |      63.36 |                25 |       14 |                19 |      60.6  | Jack Bates        |             80 |
-|             80 | Elliott Gourlay  |      54.37 |                15 |       15 |                75 |      92.23 | Noah Heward       |             80 |
-|             45 | Thomas Parry     |      74.47 |               nan |       16 |                11 |      52.84 | Alex Gibson       |             32 |
-|             37 | Adam Aigbokhae   |      62.76 |                22 |       17 |               nan |      64.46 | Harry Taylor      |             32 |
-|             34 | Chris Pilgrim    |      56.8  |                15 |       18 |                31 |      67.09 | Matty Jones       |             24 |
-|             32 | Ezra Hinchcliffe |      69.48 |                37 |       19 |                74 |      87.97 | Sam Rodman        |              8 |
-|             17 | Thomas Clarke    |      57.47 |               nan |       20 |                30 |      68.37 | Jake Holcombe     |              8 |
-|             17 | Michael Barlow   |      70.43 |                38 |       21 |                 4 |      42.28 | Matthew McNab     |              8 |
-|             17 | Sam Olyott       |      58.39 |                18 |       22 |                35 |      70    | Tommy Mathews     |              8 |
-|             37 | Ryan Higginson   |      70.2  |                41 |       23 |               nan |      65.97 | William Goffey    |              8 |
+|             43 | Nathan Rushton   |      61.99 |                20 |        1 |                25 |      65.1  | Joe Wrafter       |             48 |
+|             63 | Oliver Hearn     |      66.23 |                30 |        2 |               nan |      63.87 | Ethan Hunt        |             72 |
+|             43 | Joe Jones        |      58.83 |                19 |        3 |                31 |      68.76 | Mikey Summerfield |             72 |
+|             63 | Josiah Dickinson |      65.39 |                28 |        4 |                15 |      58.54 | Freddie Clarke    |             80 |
+|             80 | Thomas Sanders   |      58.55 |                17 |        5 |                21 |      66.27 | Dale Lemon        |             80 |
+|             80 | Harrison Crowe   |      53.42 |                15 |        6 |                18 |      58.81 | Sam Lewis         |             72 |
+|             35 | Callum Ridgway   |      56.12 |                13 |        7 |                81 |      93.69 | Harry Short       |             48 |
+|             80 | Sam Dickinson    |      59.63 |                19 |        8 |                13 |      55.08 | Jack Davies       |             80 |
+|             46 | Joseph Murray    |      63.2  |                25 |        9 |                30 |      66.69 | Oscar Lennon      |             56 |
+|             48 | Rhys Hayes       |      54.52 |                12 |       10 |                29 |      67    | George Barton     |             80 |
+|             80 | Dan Bibby        |      51.43 |                 9 |       11 |                63 |      85.85 | Alex Morgan       |             72 |
+|             63 | Lewis Barker     |      58.28 |                15 |       12 |                49 |      76.84 | Harry Tarling     |             72 |
+|             80 | Michael Cartmill |      60.45 |                23 |       13 |                24 |      62.4  | Jack Reeves       |             80 |
+|             80 | Nick Royle       |      64.09 |                26 |       14 |                19 |      61.23 | Jack Bates        |             80 |
+|             80 | Elliott Gourlay  |      55.55 |                15 |       15 |                76 |      93.26 | Noah Heward       |             80 |
+|             45 | Thomas Parry     |      72.81 |               nan |       16 |                17 |      58.16 | Alex Gibson       |             32 |
+|             37 | Adam Aigbokhae   |      63.88 |                23 |       17 |               nan |      65.01 | Harry Taylor      |             32 |
+|             34 | Chris Pilgrim    |      57.9  |                17 |       18 |                31 |      67.76 | Matty Jones       |             24 |
+|             32 | Ezra Hinchcliffe |      75.37 |                49 |       19 |                71 |      86.37 | Sam Rodman        |              8 |
+|             17 | Thomas Clarke    |      57.64 |               nan |       20 |                31 |      69.15 | Jake Holcombe     |              8 |
+|             17 | Michael Barlow   |      74.74 |                48 |       21 |                 5 |      43.13 | Matthew McNab     |              8 |
+|             17 | Sam Olyott       |      59.15 |                19 |       22 |                36 |      70.93 | Tommy Mathews     |              8 |
+|             37 | Ryan Higginson   |      67.27 |                35 |       23 |               nan |      66.62 | William Goffey    |              8 |
 

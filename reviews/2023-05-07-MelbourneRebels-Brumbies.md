@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Brumbies by 7.3
+## Prediction with Player Minutes: Brumbies by 7.4
 
 
-Brumbies by 11.3 on a neutral field
+Brumbies by 11.4 on a neutral field
 
-There were 10 large changes in win probability in this match
-## Prediction without Player Minutes: Brumbies by 9.9
+There were 11 large changes in win probability in this match
+## Prediction without Player Minutes: Brumbies by 10.0
 
 
-Brumbies by 13.9 on a neutral pitch
+Brumbies by 14.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player      |   Home Minutes |
 |---------------:|:-----------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------|---------------:|
-|             50 | James Slipper    |     141.42 |               100 |        1 |                81 |      91.74 | Matt Gibbon      |             65 |
-|             71 | Lachlan Lonergan |      66.61 |                32 |        2 |                72 |      86.28 | Alex Mafi        |             60 |
-|             56 | Allan Alaalatoa  |     123.28 |                98 |        3 |                80 |      90.58 | Sam Talakai      |             58 |
-|             80 | Darcy Swain      |      77.03 |                51 |        4 |                60 |      81.23 | Angelo Smith     |             53 |
-|             61 | Nick Frost       |      71.53 |                40 |        5 |                57 |      79.83 | Trevor Hosea     |             80 |
-|             80 | Rob Valetini     |      99.71 |                87 |        6 |                40 |      71.84 | Josh Kemeny      |             80 |
-|             56 | Jahrome Brown    |     113.43 |                94 |        7 |                71 |      86.71 | Brad Wilkin      |             46 |
-|             80 | Pete Samu        |      87.94 |                72 |        8 |                66 |      85.2  | Richard Hardwick |             80 |
-|             56 | Nic White        |     123    |                98 |        9 |                88 |     103.99 | Ryan Louwrens    |             72 |
-|             56 | Noah Lolesio     |      96.15 |                80 |       10 |                69 |      88.73 | Carter Gordon    |             80 |
-|             80 | Corey Toole      |      83.65 |                65 |       11 |                97 |     118.35 | Monty Ioane      |             80 |
-|             73 | Tamati Tua       |      92.67 |                75 |       12 |                62 |      84.07 | Stacey Ili       |             46 |
-|             80 | Len Ikitau       |     104.35 |                88 |       13 |                87 |     103.21 | Reece Hodge      |             80 |
-|             80 | Andy Muirhead    |     110.05 |                93 |       14 |                52 |      77.17 | Lachie Anderson  |             65 |
-|             80 | Tom Wright       |     103.49 |                86 |       15 |                83 |      99.98 | Andrew Kellaway  |             80 |
-|              9 | Billy Pollard    |      85.6  |                71 |       16 |                63 |      82.14 | Jordan Uelese    |             20 |
-|             30 | Blake Schoupp    |      92.88 |                78 |       17 |                42 |      74.26 | Cabous Eloff     |             15 |
-|             24 | Rhys Van Nek     |      98.87 |                86 |       18 |                69 |      85.05 | Pone Fa'amausili |             22 |
-|             19 | Tom Hooper       |      92.74 |               nan |       19 |               nan |     106.28 | Tim Cardall      |             27 |
-|             24 | Luke Reimer      |     101.37 |                88 |       20 |                53 |      79.3  | Vaiolini Ekuasi  |             34 |
-|             24 | Ryan Lonergan    |      98.9  |                84 |       21 |                83 |      99.12 | James Tuttle     |              8 |
-|             24 | Jack Debreczeni  |      93.94 |                79 |       22 |                70 |      89.25 | David Feliuai    |             34 |
-|              7 | Ollie Sapsford   |      81.77 |                58 |       23 |                55 |      81.69 | Joe Pincus       |             15 |
+|             50 | James Slipper    |     142.21 |               100 |        1 |                82 |      91.67 | Matt Gibbon      |             65 |
+|             71 | Lachlan Lonergan |      67.37 |                33 |        2 |                73 |      86.55 | Alex Mafi        |             60 |
+|             56 | Allan Alaalatoa  |     123.84 |                98 |        3 |                80 |      90.78 | Sam Talakai      |             58 |
+|             80 | Darcy Swain      |      77.13 |                51 |        4 |                59 |      81.31 | Angelo Smith     |             53 |
+|             61 | Nick Frost       |      72.11 |                40 |        5 |                57 |      80.22 | Trevor Hosea     |             80 |
+|             80 | Rob Valetini     |      99.94 |                87 |        6 |                43 |      73.1  | Josh Kemeny      |             80 |
+|             56 | Jahrome Brown    |     112.58 |                94 |        7 |                74 |      88.48 | Brad Wilkin      |             46 |
+|             80 | Pete Samu        |      87.81 |                70 |        8 |                66 |      85.24 | Richard Hardwick |             80 |
+|             56 | Nic White        |     124.3  |                98 |        9 |                89 |     103.4  | Ryan Louwrens    |             72 |
+|             56 | Noah Lolesio     |      96.93 |                81 |       10 |                70 |      88.95 | Carter Gordon    |             80 |
+|             80 | Corey Toole      |      83.03 |                63 |       11 |                96 |     117.26 | Monty Ioane      |             80 |
+|             73 | Tamati Tua       |      96.48 |                80 |       12 |                63 |      84.27 | Stacey Ili       |             46 |
+|             80 | Len Ikitau       |     105.63 |                89 |       13 |                87 |     103.42 | Reece Hodge      |             80 |
+|             80 | Andy Muirhead    |     109.41 |                93 |       14 |                53 |      77.8  | Lachie Anderson  |             65 |
+|             80 | Tom Wright       |      99.76 |                82 |       15 |                81 |      99.1  | Andrew Kellaway  |             80 |
+|              9 | Billy Pollard    |      85.67 |                70 |       16 |                64 |      82.33 | Jordan Uelese    |             20 |
+|             30 | Blake Schoupp    |      93.1  |                79 |       17 |                45 |      75.16 | Cabous Eloff     |             15 |
+|             24 | Rhys Van Nek     |      98.92 |                86 |       18 |                70 |      85.43 | Pone Fa'amausili |             22 |
+|             19 | Tom Hooper       |      92.98 |               nan |       19 |               nan |     105.08 | Tim Cardall      |             27 |
+|             24 | Luke Reimer      |     101.76 |                88 |       20 |                54 |      79.98 | Vaiolini Ekuasi  |             34 |
+|             24 | Ryan Lonergan    |      99.96 |                86 |       21 |                84 |      99.82 | James Tuttle     |              8 |
+|             24 | Jack Debreczeni  |      93.88 |                79 |       22 |                71 |      89.31 | David Feliuai    |             34 |
+|              7 | Ollie Sapsford   |      81.34 |                57 |       23 |                55 |      81.97 | Joe Pincus       |             15 |
 

@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bedford by 2.1
+## Prediction with Player Minutes: Bedford by 1.6
 
 
-Coventry by 1.9 on a neutral field
+Coventry by 2.4 on a neutral field
 
 There were 5 large changes in win probability in this match
-## Prediction without Player Minutes: Bedford by 1.6
+## Prediction without Player Minutes: Bedford by 0.9
 
 
-Coventry by 2.4 on a neutral pitch
+Coventry by 3.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             57 | Toby Trinder       |      90.36 |                79 |        1 |                37 |      70.76 | Joey Conway          |             60 |
-|             63 | Suva Ma'asi        |      75.9  |                50 |        2 |                27 |      64.29 | James Fish           |             53 |
-|             54 | Ollie Andrews      |      76.93 |                51 |        3 |                32 |      69.1  | Osman Dimen          |             40 |
-|             74 | James Tyas         |      62.82 |                24 |        4 |                53 |      77.86 | Robin Williams       |             53 |
-|             80 | Adam Peters        |      72.42 |                42 |        5 |                18 |      58.18 | Alex Woolford        |             40 |
-|             80 | Tom Dodd           |      71.36 |                36 |        6 |                46 |      74.47 | Luke Frost           |             80 |
-|             80 | Josh Bainbridge    |      85.54 |                68 |        7 |                31 |      67.84 | Kayde Sylvester      |             53 |
-|             68 | Senitiki Nayalo    |     105.4  |                92 |        8 |                21 |      61.86 | Tui Uru              |             80 |
-|             70 | Will Chudley       |      69.83 |                36 |        9 |                93 |     108.72 | Alex Day             |             56 |
-|             80 | Evan Mitchell      |      41.71 |                 6 |       10 |                38 |      70.98 | Louis Grimoldby      |             56 |
-|             80 | James Martin       |      67.94 |                32 |       11 |                 4 |      41.19 | Dean Adamson         |             80 |
-|             63 | Lucas Titherington |      83.69 |                62 |       12 |                97 |     121.99 | William Maisey       |             80 |
-|             80 | Will Rigg          |      75.73 |                46 |       13 |                57 |      81.44 | Michael Le Bourgeois |             80 |
-|             57 | Tobi Wilson        |      72.02 |               nan |       14 |                30 |      66.72 | Sean French          |             80 |
-|             80 | Louis Brown        |      67.54 |                30 |       15 |                29 |      66.31 | Richard Lane         |             80 |
-|             26 | Jake Bridges       |      55.09 |                15 |       16 |                17 |      59.67 | Corrie Barrett       |             40 |
-|             23 | James Kenny        |      69.5  |                44 |       17 |                13 |      53.46 | Jordan Onojaife      |             40 |
-|             23 | Louis James        |      73.1  |                44 |       18 |                22 |      52.77 | Charles Rylands      |             27 |
-|             17 | Will Biggs         |      69.99 |                45 |       19 |                26 |      65.08 | Emeka Atuanya        |             27 |
-|             17 | Fred Betteridge    |      60.93 |                24 |       20 |                60 |      75.1  | Jack Hughes          |             27 |
-|             12 | Tom Ball           |      84.39 |                66 |       21 |                57 |      78.69 | Patrick Tapley       |             24 |
-|             10 | Will Lane          |      78.34 |                59 |       22 |                43 |      69.22 | Jake Garside         |             24 |
-|              6 | George Smith       |      70.28 |                42 |       23 |               nan |      71.94 | Monty Royston        |             20 |
+|             57 | Toby Trinder       |      93.15 |                84 |        1 |                35 |      70.28 | Joey Conway          |             60 |
+|             63 | Suva Ma'asi        |      75.56 |                49 |        2 |                27 |      64.3  | James Fish           |             53 |
+|             54 | Ollie Andrews      |      78    |                53 |        3 |                32 |      69.57 | Osman Dimen          |             40 |
+|             74 | James Tyas         |      62.82 |                23 |        4 |                52 |      77.71 | Robin Williams       |             53 |
+|             80 | Adam Peters        |      77.08 |                51 |        5 |                12 |      53.26 | Alex Woolford        |             40 |
+|             80 | Tom Dodd           |      71.55 |                37 |        6 |                39 |      71.41 | Luke Frost           |             80 |
+|             80 | Josh Bainbridge    |      85.28 |                68 |        7 |                31 |      67.92 | Kayde Sylvester      |             53 |
+|             68 | Senitiki Nayalo    |     106.7  |                93 |        8 |                26 |      66.64 | Tui Uru              |             80 |
+|             70 | Will Chudley       |      70.33 |                35 |        9 |                91 |     106.31 | Alex Day             |             56 |
+|             80 | Evan Mitchell      |      41.32 |                 6 |       10 |                40 |      72.54 | Louis Grimoldby      |             56 |
+|             80 | James Martin       |      61.58 |                22 |       11 |                 5 |      43    | Dean Adamson         |             80 |
+|             63 | Lucas Titherington |      84.47 |                63 |       12 |                97 |     124.36 | William Maisey       |             80 |
+|             80 | Will Rigg          |      76.26 |                47 |       13 |                59 |      82.06 | Michael Le Bourgeois |             80 |
+|             57 | Tobi Wilson        |      72.26 |               nan |       14 |                29 |      66.09 | Sean French          |             80 |
+|             80 | Louis Brown        |      70.74 |                37 |       15 |                28 |      66.43 | Richard Lane         |             80 |
+|             26 | Jake Bridges       |      54.69 |                14 |       16 |                17 |      59.82 | Corrie Barrett       |             40 |
+|             23 | James Kenny        |      70.28 |                47 |       17 |                12 |      52.35 | Jordan Onojaife      |             40 |
+|             23 | Louis James        |      75.96 |                49 |       18 |                23 |      52.6  | Charles Rylands      |             27 |
+|             17 | Will Biggs         |      69.21 |                42 |       19 |                28 |      66.09 | Emeka Atuanya        |             27 |
+|             17 | Fred Betteridge    |      63.94 |                29 |       20 |                61 |      75.39 | Jack Hughes          |             27 |
+|             12 | Tom Ball           |      83.65 |                64 |       21 |                55 |      77.63 | Patrick Tapley       |             24 |
+|             10 | Will Lane          |      77.14 |                57 |       22 |                43 |      69.17 | Jake Garside         |             24 |
+|              6 | George Smith       |      70.07 |                41 |       23 |               nan |      72.03 | Monty Royston        |             20 |
 

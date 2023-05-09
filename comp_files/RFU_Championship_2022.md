@@ -1,6 +1,6 @@
 ---  
 title: "RFU Championship Status"  
-date: 2023-05-07 6:00:00 -0500  
+date: 2023-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -38,6 +38,6 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 74.2% | 14.7 |
-| Player Level: Lineup | 68.9% | 15.7 |
-| Player Level: Minutes | 68.2% | 15.8 |
+| Player Level: Lineup | 69.7% | 15.7 |
+| Player Level: Minutes | 67.4% | 15.8 |
 
