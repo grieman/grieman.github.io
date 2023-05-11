@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Stade Toulousain by 34.8
+## Prediction with Player Minutes: Stade Toulousain by 31.0
 
 
-Stade Toulousain by 30.8 on a neutral field
+Stade Toulousain by 27.0 on a neutral field
 
 There were 4 large changes in win probability in this match
-## Prediction without Player Minutes: Stade Toulousain by 33.9
+## Prediction without Player Minutes: Stade Toulousain by 30.7
 
 
-Stade Toulousain by 29.9 on a neutral pitch
+Stade Toulousain by 26.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             51 | Jefferson Poirot     |      74.39 |                45 |        1 |                92 |     102.35 | Cyril Baille        |             59 |
-|             51 | Gabriel Oghre        |      65.54 |                30 |        2 |                87 |      97.92 | Julien Marchand     |             58 |
-|             51 | Ben Tameifuna        |      76.08 |                50 |        3 |                66 |      83.92 | Dorian Aldegheri    |             59 |
-|             80 | Kane Douglas         |      62.96 |                23 |        4 |                55 |      78.77 | Richie Arnold       |             66 |
-|             51 | Cyril Cazeaux        |      55.44 |                12 |        5 |                10 |      52.57 | Emmanuel Meafou     |             69 |
-|             80 | Pierre Bochaton      |      57.19 |                16 |        6 |                99 |     155.16 | Francois Cros       |             80 |
-|             58 | Caleb Timu           |      64.16 |               nan |        7 |                92 |     107.36 | Jack Willis         |             66 |
-|             80 | Tom Willis           |      53.51 |                 9 |        8 |                 2 |      35.72 | Alexandre Roumat    |             80 |
-|             59 | Maxime Lucu          |      54.52 |                11 |        9 |                98 |     122.73 | Antoine Dupont      |             73 |
-|             73 | Mateo Garcia         |      68.51 |                32 |       10 |                93 |     109.82 | Romain Ntamack      |             80 |
-|             80 | Santiago Cordero     |      61    |                21 |       11 |                10 |      51.6  | Matthis Lebel       |             41 |
-|             80 | Yoram Moefana        |      81.95 |                58 |       12 |                27 |      65.63 | Pita Ahki           |             80 |
-|             59 | Jean-Baptiste Dubié  |      60.17 |                18 |       13 |                17 |      58.9  | Santiago Chocobares |             80 |
-|             80 | Louis Bielle Biarrey |      64.83 |                27 |       14 |                54 |      76.38 | Arthur Retière      |             80 |
-|             80 | Nans Ducuing         |      66.04 |                26 |       15 |                96 |     124.52 | Thomas Ramos        |             80 |
-|             29 | Lesko Kaulashvili    |      69.65 |                42 |       16 |                32 |      67.72 | Juan Cruz Mallia    |             39 |
-|             29 | Maxime Lamothe       |      71.46 |                48 |       17 |                 7 |      46.04 | Peato Mauvaka       |             22 |
-|             29 | Vadim Cobilas        |      67.96 |                41 |       18 |                22 |      61.9  | David Ainu'u        |             21 |
-|             29 | Jan Andre Marais     |      68.26 |                44 |       19 |                11 |      53.15 | Rodrigue Neti       |             21 |
-|             22 | Mahamadou Diaby      |      68.45 |                33 |       20 |                29 |      66.4  | Joshua Brennan      |             14 |
-|             21 | Yann Lesgourgues     |      69.25 |               nan |       21 |                54 |      78.29 | Alban Placines      |             14 |
-|             21 | Nicolas Depoortere   |      85    |                66 |       22 |                36 |      68.99 | Rynhard Elstadt     |             11 |
-|              7 | Matthieu Jalibert    |      81.39 |                56 |       23 |                59 |      79.63 | Paul Graou          |              7 |
+|             51 | Jefferson Poirot     |      75.75 |                47 |        1 |                92 |     103.11 | Cyril Baille        |             59 |
+|             51 | Gabriel Oghre        |      65.62 |                29 |        2 |                84 |      95.17 | Julien Marchand     |             58 |
+|             51 | Ben Tameifuna        |      74.56 |                44 |        3 |                67 |      84.18 | Dorian Aldegheri    |             59 |
+|             80 | Kane Douglas         |      63.89 |                23 |        4 |                39 |      71.59 | Richie Arnold       |             66 |
+|             51 | Cyril Cazeaux        |      55.73 |                12 |        5 |                11 |      54.24 | Emmanuel Meafou     |             69 |
+|             80 | Pierre Bochaton      |      57.65 |                14 |        6 |                99 |     148.17 | Francois Cros       |             80 |
+|             58 | Caleb Timu           |      64.09 |               nan |        7 |                95 |     114.8  | Jack Willis         |             66 |
+|             80 | Tom Willis           |      55.09 |                11 |        8 |                 1 |      32.45 | Alexandre Roumat    |             80 |
+|             59 | Maxime Lucu          |      54.86 |                10 |        9 |                96 |     115.95 | Antoine Dupont      |             73 |
+|             73 | Mateo Garcia         |      67.49 |                29 |       10 |                92 |     108.06 | Romain Ntamack      |             80 |
+|             80 | Santiago Cordero     |      67.61 |                31 |       11 |                16 |      58.25 | Matthis Lebel       |             41 |
+|             80 | Yoram Moefana        |      85.97 |                65 |       12 |                24 |      64.92 | Pita Ahki           |             80 |
+|             59 | Jean-Baptiste Dubié  |      61.2  |                19 |       13 |                16 |      58.5  | Santiago Chocobares |             80 |
+|             80 | Louis Bielle Biarrey |      63.77 |                25 |       14 |                57 |      78.64 | Arthur Retière      |             80 |
+|             80 | Nans Ducuing         |      66.12 |                26 |       15 |                94 |     118.52 | Thomas Ramos        |             80 |
+|             29 | Lesko Kaulashvili    |      70.72 |                44 |       16 |                28 |      65.89 | Juan Cruz Mallia    |             39 |
+|             29 | Maxime Lamothe       |      73.24 |                52 |       17 |                 6 |      46.2  | Peato Mauvaka       |             22 |
+|             29 | Vadim Cobilas        |      68.35 |                43 |       18 |                13 |      56.42 | David Ainu'u        |             21 |
+|             29 | Jan Andre Marais     |      69.96 |                48 |       19 |                 9 |      52.81 | Rodrigue Neti       |             21 |
+|             22 | Mahamadou Diaby      |      71.37 |                39 |       20 |                31 |      67.51 | Joshua Brennan      |             14 |
+|             21 | Yann Lesgourgues     |      69.6  |               nan |       21 |                49 |      75.81 | Alban Placines      |             14 |
+|             21 | Nicolas Depoortere   |      84.66 |                65 |       22 |                18 |      59.91 | Rynhard Elstadt     |             11 |
+|              7 | Matthieu Jalibert    |      80.88 |                55 |       23 |                64 |      81.98 | Paul Graou          |              7 |
 

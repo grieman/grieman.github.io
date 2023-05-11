@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Sale Sharks by 17.7
+## Prediction with Player Minutes: Sale Sharks by 20.5
 
 
-Sale Sharks by 13.7 on a neutral field
+Sale Sharks by 16.5 on a neutral field
 
 There were 3 large changes in win probability in this match
-## Prediction without Player Minutes: Sale Sharks by 22.6
+## Prediction without Player Minutes: Sale Sharks by 23.5
 
 
-Sale Sharks by 18.6 on a neutral pitch
+Sale Sharks by 19.5 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:-----------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|              9 | Adam Brocklebank                   |      89.59 |                83 |        1 |                94 |     106.43 | Bevan Rodd        |             48 |
-|             75 | Jamie Blamire                      |      86.12 |                72 |        2 |                78 |      88.61 | Ewan Ashman       |             63 |
-|             50 | Mark Tampin                        |      75.84 |                49 |        3 |                97 |     111.85 | Coenie Oosthuizen |             48 |
-|             80 | Greg Peterson                      |      83.34 |                63 |        4 |                89 |     102.62 | Jean-Luc du Preez |             48 |
-|             80 | Sebastian de Chaves                |      47.33 |                 6 |        5 |                75 |      90.38 | Jonny Hill        |             63 |
-|             80 | Pedro Rubiolo                      |      79.41 |                55 |        6 |                68 |      81.76 | Sam Dugdale       |             80 |
-|             59 | Philip van der Walt                |      89.41 |                77 |        7 |                58 |      80.57 | Ben Curry         |             80 |
-|             29 | Callum Chick                       |      62.89 |                21 |        8 |                62 |      83.24 | Jono Ross         |             55 |
-|             59 | Sam Stuart                         |      76.56 |               nan |        9 |                91 |     105.86 | Raffi Quirke      |             63 |
-|             70 | Brett Connon                       |      84.05 |                61 |       10 |                87 |     101.8  | George Ford       |             80 |
-|             80 | Mateo Carreras                     |      67.53 |                32 |       11 |                86 |      99.68 | Tom O'Flaherty    |             80 |
-|             55 | Matias Orlando                     |      62.58 |                22 |       12 |                97 |     121.16 | Manu Tuilagi      |             15 |
-|             80 | Matias Moroni                      |      83.6  |                62 |       13 |                78 |      94.84 | Robert du Preez   |             80 |
-|             80 | Adam Radwan                        |     123.49 |                97 |       14 |                63 |      82.86 | Tom Roebuck       |             80 |
-|             80 | Elliott Obatoyinbo                 |      89.98 |                70 |       15 |                19 |      61.59 | Joe Carpenter     |             80 |
-|             71 | Phil Brantingham                   |      76.75 |               nan |       16 |                92 |     108.49 | Sam James         |             65 |
-|             51 | Carl Fearns                        |      97.79 |                85 |       17 |                15 |      58.26 | James Harper      |             32 |
-|             30 | Richard Palframan                  |      87.19 |                73 |       18 |                26 |      64.88 | Tom Ellis         |             32 |
-|             25 | Christian (Tian) Francois Schoeman |      76.95 |               nan |       19 |                92 |     102.5  | Simon McIntyre    |             32 |
-|             21 | Freddie Lockwood                   |      74.05 |                45 |       20 |               nan |      81.24 | Josh Beaumont     |             25 |
-|             21 | Josh Barton                        |      76.2  |               nan |       21 |               nan |      85.15 | Alex Groves       |             17 |
-|             10 | Josh Thomas                        |      76.37 |               nan |       22 |               nan |      85.34 | Will Cliff        |             17 |
-|              5 | Conrad Cade                        |      73.81 |                47 |       23 |                17 |      57.95 | Ethan Caine       |             17 |
+|              9 | Adam Brocklebank                   |      83.91 |                72 |        1 |                92 |     102.44 | Bevan Rodd        |             48 |
+|             75 | Jamie Blamire                      |      93.79 |                82 |        2 |                86 |      95    | Ewan Ashman       |             63 |
+|             50 | Mark Tampin                        |      73.17 |                42 |        3 |                95 |     108.04 | Coenie Oosthuizen |             48 |
+|             80 | Greg Peterson                      |      82.59 |                62 |        4 |                89 |     101.78 | Jean-Luc du Preez |             48 |
+|             80 | Sebastian de Chaves                |      45.24 |                 5 |        5 |                66 |      84.18 | Jonny Hill        |             63 |
+|             80 | Pedro Rubiolo                      |      78.68 |                54 |        6 |                57 |      75.85 | Sam Dugdale       |             80 |
+|             59 | Philip van der Walt                |      85.61 |                71 |        7 |                75 |      89.69 | Ben Curry         |             80 |
+|             29 | Callum Chick                       |      70.09 |                32 |        8 |                61 |      82.89 | Jono Ross         |             55 |
+|             59 | Sam Stuart                         |      76.35 |               nan |        9 |                90 |     104.14 | Raffi Quirke      |             63 |
+|             70 | Brett Connon                       |      85.52 |                63 |       10 |                94 |     111.14 | George Ford       |             80 |
+|             80 | Mateo Carreras                     |      73.23 |                43 |       11 |                85 |      98.89 | Tom O'Flaherty    |             80 |
+|             55 | Matias Orlando                     |      63.6  |                22 |       12 |                92 |     109.29 | Manu Tuilagi      |             15 |
+|             80 | Matias Moroni                      |      75.77 |                45 |       13 |                77 |      93.95 | Robert du Preez   |             80 |
+|             80 | Adam Radwan                        |     111.64 |                94 |       14 |                73 |      88.03 | Tom Roebuck       |             80 |
+|             80 | Elliott Obatoyinbo                 |      88.16 |                68 |       15 |                21 |      62.34 | Joe Carpenter     |             80 |
+|             71 | Phil Brantingham                   |      75.78 |               nan |       16 |                97 |     117.8  | Sam James         |             65 |
+|             51 | Carl Fearns                        |      93.38 |                80 |       17 |                11 |      55.89 | James Harper      |             32 |
+|             30 | Richard Palframan                  |      93.94 |                84 |       18 |                27 |      66.01 | Tom Ellis         |             32 |
+|             25 | Christian (Tian) Francois Schoeman |      75.61 |               nan |       19 |                90 |     100    | Simon McIntyre    |             32 |
+|             21 | Freddie Lockwood                   |      73.42 |                43 |       20 |               nan |      80.88 | Josh Beaumont     |             25 |
+|             21 | Josh Barton                        |      76.15 |               nan |       21 |               nan |      85.26 | Alex Groves       |             17 |
+|             10 | Josh Thomas                        |      75.96 |               nan |       22 |               nan |      85.07 | Will Cliff        |             17 |
+|              5 | Conrad Cade                        |      74.89 |                48 |       23 |                14 |      56.51 | Ethan Caine       |             17 |
 

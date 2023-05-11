@@ -1,15 +1,11 @@
 ---  
-title: "RFU Championship Status"  
+title: "RFU Championship 2022 Status"  
 date: 2023-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
-# Current Team Rankings
-
-
-![Club Rankings](plots/rankings_RFU-Championship-2022.png)
 # Standings
 
 ## Current Standings
@@ -38,6 +34,6 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 74.2% | 14.7 |
-| Player Level: Lineup | 69.7% | 15.7 |
-| Player Level: Minutes | 67.4% | 15.8 |
+| Player Level: Lineup | 69.7% | 15.6 |
+| Player Level: Minutes | 70.5% | 15.6 |
 

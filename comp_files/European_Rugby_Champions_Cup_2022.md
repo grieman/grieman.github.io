@@ -1,15 +1,11 @@
 ---  
-title: "European Rugby Champions Cup Status"  
-date: 2023-05-09 6:00:00 -0500  
+title: "European Rugby Champions Cup 2022 Status"  
+date: 2023-05-11 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
-# Current Team Rankings
-
-
-![Club Rankings](plots/rankings_European-Rugby-Champions-Cup-2022.png)
 # Standings
 
 ## Current Standings
@@ -49,8 +45,8 @@ aside:
 
 |             | Reach Final   | Win Final   |
 |:------------|:--------------|:------------|
-| Leinster    | 100.0 %       | 99.8 %      |
-| La Rochelle | 100.0 %       | 0.2 %       |
+| Leinster    | 100.0 %       | 99.6 %      |
+| La Rochelle | 100.0 %       | 0.4 %       |
 
 
 
@@ -60,6 +56,21 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 71.0% | 12.4 |
-| Player Level: Lineup | 72.6% | 14.2 |
-| Player Level: Minutes | 67.7% | 13.7 |
+| Player Level: Lineup | 74.2% | 14.2 |
+| Player Level: Minutes | 72.6% | 13.7 |
 
+
+# Future Predictions
+
+## Final
+
+### Leinster V La Rochelle on 2023/05/20
+
+
+Average Margin: Leinster by 8.9
+
+<p float="left">
+<img src="plots/performances_Leinster_V_La Rochelle_8.png" width="32%" />
+<img src="plots/resultbar_Leinster_V_La Rochelle_8.png" width="32%" />
+<img src="plots/spreads_Leinster_V_La Rochelle_8.png" width="32%" />
+</p>

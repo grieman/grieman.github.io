@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Crusaders by 23.4
+## Prediction with Player Minutes: Crusaders by 27.7
 
 
-Crusaders by 19.4 on a neutral field
+Crusaders by 23.7 on a neutral field
 
 There were 4 large changes in win probability in this match
-## Prediction without Player Minutes: Crusaders by 23.1
+## Prediction without Player Minutes: Crusaders by 28.1
 
 
-Crusaders by 19.1 on a neutral pitch
+Crusaders by 24.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             28 | Charlie Hancock       |      78.6  |                55 |        1 |                68 |      84.55 | Joe Moody              |             52 |
-|             54 | Tom Horton            |     100.01 |                89 |        2 |                89 |     101.26 | Brodie McAlister       |             52 |
-|             44 | Santiago Medrano      |      88.56 |                75 |        3 |                78 |      89.55 | Tamaiti Williams       |             44 |
-|             64 | Felix Kalapu          |      33.86 |                 1 |        4 |                96 |     117.74 | Scott Barrett          |             62 |
-|             80 | Jeremy Williams       |      73.24 |                43 |        5 |                46 |      75    | Quinten Strange        |             80 |
-|             80 | Michael Wells         |      86.06 |                68 |        6 |                67 |      84.96 | Dom Gardiner           |             54 |
-|             80 | Carlo Tizzano         |      86.4  |                71 |        7 |                82 |      94.48 | Tom Christie           |             80 |
-|             52 | Isi Naisarani         |      78.26 |               nan |        8 |                94 |     108.68 | Cullen Grace           |             80 |
-|             69 | Issak Fines-Leleiwasa |      90.62 |                74 |        9 |                85 |     100.06 | Noah Hotham            |             62 |
-|             69 | Max Burey             |      78.44 |               nan |       10 |                98 |     133.21 | Richie Mo'unga         |             80 |
-|             58 | Manasa Mataele        |     104.52 |                90 |       11 |                52 |      77.07 | Leicester Fainga'anuku |             80 |
-|             80 | Hamish Stewart        |     121.93 |                97 |       12 |                93 |     110.58 | David Havili           |             63 |
-|             80 | Sam Spink             |      92.92 |                75 |       13 |                87 |     103.82 | Braydon Ennor          |             80 |
-|             80 | Zach Kibirige         |      69.02 |                35 |       14 |                73 |      88.78 | Macca Springer         |             80 |
-|             80 | Chase Tiatia          |      88.58 |                68 |       15 |               nan |      90.55 | Will Jordan            |             57 |
-|             26 | Feleti Kaitu'u        |      70.69 |                36 |       16 |                86 |      97.71 | Codie Taylor           |             28 |
-|             52 | Marley Pearce         |      81.56 |               nan |       17 |               nan |      95.52 | Andrew Turner          |             28 |
-|             36 | Bo Abra               |      74.45 |               nan |       18 |                93 |     103.43 | Oli Jager              |             36 |
-|             16 | Ryan McCauley         |      90.52 |                69 |       19 |                67 |      84.61 | Zach Gallagher         |             18 |
-|             28 | Jackson Pugh          |      76.94 |                55 |       20 |                50 |      77.44 | Christian Lio-Willie   |             26 |
-|             11 | Ian Prior             |      93.14 |                79 |       21 |                62 |      83.7  | Mitchell Drummond      |             18 |
-|             11 | Nikolai Foliaki       |      46    |                 5 |       22 |                53 |      80.15 | Fergus Burke           |             17 |
-|             22 | George Poolman        |      86.24 |               nan |       23 |                86 |     104.74 | Chay Fihaki            |             23 |
+|             28 | Charlie Hancock       |      78.61 |                54 |        1 |                64 |      82.8  | Joe Moody              |             52 |
+|             54 | Tom Horton            |      98.59 |                87 |        2 |                88 |     100.2  | Brodie McAlister       |             52 |
+|             44 | Santiago Medrano      |      89.66 |                78 |        3 |                84 |      93.8  | Tamaiti Williams       |             44 |
+|             64 | Felix Kalapu          |      41.45 |                 3 |        4 |                98 |     125.61 | Scott Barrett          |             62 |
+|             80 | Jeremy Williams       |      67.84 |                31 |        5 |                47 |      75.03 | Quinten Strange        |             80 |
+|             80 | Michael Wells         |      93.35 |                79 |        6 |                64 |      83.55 | Dom Gardiner           |             54 |
+|             80 | Carlo Tizzano         |      87.1  |                71 |        7 |                83 |      96.32 | Tom Christie           |             80 |
+|             52 | Isi Naisarani         |      73.44 |               nan |        8 |                95 |     112.3  | Cullen Grace           |             80 |
+|             69 | Issak Fines-Leleiwasa |      91.49 |                75 |        9 |                85 |      99.4  | Noah Hotham            |             62 |
+|             69 | Max Burey             |      77.7  |               nan |       10 |                99 |     139.04 | Richie Mo'unga         |             80 |
+|             58 | Manasa Mataele        |     103.73 |                90 |       11 |                50 |      76.16 | Leicester Fainga'anuku |             80 |
+|             80 | Hamish Stewart        |     122.04 |                98 |       12 |                96 |     116.12 | David Havili           |             63 |
+|             80 | Sam Spink             |      91.27 |                73 |       13 |                85 |     100.91 | Braydon Ennor          |             80 |
+|             80 | Zach Kibirige         |      63.88 |                26 |       14 |                72 |      87.74 | Macca Springer         |             80 |
+|             80 | Chase Tiatia          |      87.11 |                65 |       15 |                98 |     124.78 | Will Jordan            |             57 |
+|             26 | Feleti Kaitu'u        |      70.96 |                36 |       16 |                79 |      90.69 | Codie Taylor           |             28 |
+|             52 | Marley Pearce         |      81.09 |               nan |       17 |               nan |      94.73 | Andrew Turner          |             28 |
+|             36 | Bo Abra               |      74.19 |               nan |       18 |                93 |     103.93 | Oli Jager              |             36 |
+|             16 | Ryan McCauley         |      89.81 |                69 |       19 |                67 |      84.62 | Zach Gallagher         |             18 |
+|             28 | Jackson Pugh          |      74.3  |                50 |       20 |                46 |      76.4  | Christian Lio-Willie   |             26 |
+|             11 | Ian Prior             |      91.31 |                76 |       21 |                62 |      82.9  | Mitchell Drummond      |             18 |
+|             11 | Nikolai Foliaki       |      42.79 |                 2 |       22 |                51 |      79.48 | Fergus Burke           |             17 |
+|             22 | George Poolman        |      85.35 |               nan |       23 |                87 |     105.02 | Chay Fihaki            |             23 |
 

@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Blues by 27.8
+## Prediction with Player Minutes: Blues by 25.6
 
 
-Blues by 23.8 on a neutral field
+Blues by 21.6 on a neutral field
 
 There were 15 large changes in win probability in this match
-## Prediction without Player Minutes: Blues by 26.5
+## Prediction without Player Minutes: Blues by 24.8
 
 
-Blues by 22.5 on a neutral pitch
+Blues by 20.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                   |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------|---------------:|
-|             60 | Abraham Pole          |      79.53 |                58 |        1 |                93 |     103.54 | Ofa Tu'ungafasi               |             81 |
-|             60 | Samiuela Moli         |      57.65 |                16 |        2 |                98 |     118.61 | Kurt Eklund                   |             81 |
-|             60 | Chris Apoua           |      70.12 |                41 |        3 |                65 |      83.21 | Marcel Renata                 |             60 |
-|             81 | Michael Curry         |      87.22 |                71 |        4 |                78 |      92.7  | James Tucker                  |             63 |
-|             50 | Mike McKee            |      72.53 |                42 |        5 |                90 |     103.06 | Sam Darry                     |             81 |
-|             63 | Miracle Faiilagi      |      65.79 |                27 |        6 |                95 |     115.05 | Akira Ioane                   |             81 |
-|             81 | Alamanda Motuga       |      72.38 |                41 |        7 |                92 |     106.64 | Dalton Papali'i               |             81 |
-|             81 | Solomone Funaki       |      78.15 |                51 |        8 |                89 |     101.97 | Cameron Suafoa                |             69 |
-|             55 | Ere Enari             |      98.7  |                83 |        9 |                50 |      75.12 | Taufa Funaki                  |             41 |
-|             81 | Christian Leali'ifano |     100.5  |                86 |       10 |                93 |     112.42 | Harry Plummer                 |             81 |
-|             59 | Neria Fomai           |      76.32 |                50 |       11 |                91 |     105.89 | Caleb Clarke                  |             81 |
-|             70 | D'Angelo Leuila       |     102.94 |                88 |       12 |                40 |      72.86 | Roger Tuivasa-Sheck           |             48 |
-|             81 | Levi Aumua            |     109.73 |                92 |       13 |                83 |      99.79 | Bryce Heem                    |             77 |
-|             81 | Timoci Tavatavanawai  |      73.22 |                43 |       14 |                61 |      81.83 | AJ Lam                        |             81 |
-|             81 | William Havili        |     101.48 |                85 |       15 |                97 |     118.99 | Jacob Ratumaitavuki-Kneepkens |             40 |
-|             21 | Luteru Tolai          |     101.19 |                89 |       16 |                70 |      85.59 | Soane Vikena                  |              0 |
-|             21 | Ezekiel Lindenmuth    |      72.25 |                40 |       17 |                73 |      87.52 | Josh Fusitua                  |              0 |
-|             21 | Tau Koloamatangi      |     112.16 |                96 |       18 |                67 |      85.49 | James Lay                     |             34 |
-|             31 | Alex McRobbie         |      63.55 |                27 |       19 |                88 |      98.05 | Tom Robinson                  |             18 |
-|             18 | Jonah Mau'u           |      82.05 |                61 |       20 |                48 |      75.61 | Anton Segner                  |              4 |
-|             26 | Jonathan Taumateine   |      64.21 |                24 |       21 |                84 |      99.13 | Finlay Christie               |             40 |
-|             11 | Lincoln McClutchie    |      87    |                68 |       22 |                50 |      77.51 | Rieko Ioane                   |             33 |
-|             22 | Fine Inisi            |      71.99 |                42 |       23 |                70 |      90.12 | Zarn Sullivan                 |             41 |
+|             60 | Abraham Pole          |      79.92 |                57 |        1 |                92 |     102.55 | Ofa Tu'ungafasi               |             81 |
+|             60 | Samiuela Moli         |      55.57 |                13 |        2 |                98 |     119.47 | Kurt Eklund                   |             81 |
+|             60 | Chris Apoua           |      69.76 |                40 |        3 |                71 |      86.24 | Marcel Renata                 |             60 |
+|             81 | Michael Curry         |      88.93 |                73 |        4 |                79 |      92.43 | James Tucker                  |             63 |
+|             50 | Mike McKee            |      71.07 |                38 |        5 |                87 |      99.68 | Sam Darry                     |             81 |
+|             63 | Miracle Faiilagi      |      63.67 |                23 |        6 |                94 |     112.66 | Akira Ioane                   |             81 |
+|             81 | Alamanda Motuga       |      68.51 |                32 |        7 |                91 |     105.35 | Dalton Papali'i               |             81 |
+|             81 | Solomone Funaki       |      77.94 |                49 |        8 |                86 |      98.84 | Cameron Suafoa                |             69 |
+|             55 | Ere Enari             |      99.96 |                85 |        9 |                45 |      72.84 | Taufa Funaki                  |             41 |
+|             81 | Christian Leali'ifano |     101.32 |                86 |       10 |                91 |     107.16 | Harry Plummer                 |             81 |
+|             59 | Neria Fomai           |      75.32 |                49 |       11 |                83 |      96.68 | Caleb Clarke                  |             81 |
+|             70 | D'Angelo Leuila       |      96.93 |                81 |       12 |                48 |      76.55 | Roger Tuivasa-Sheck           |             48 |
+|             81 | Levi Aumua            |     110.05 |                93 |       13 |                84 |     101.35 | Bryce Heem                    |             77 |
+|             81 | Timoci Tavatavanawai  |      74.76 |                47 |       14 |                41 |      72.7  | AJ Lam                        |             81 |
+|             81 | William Havili        |     102.81 |                85 |       15 |                97 |     118.65 | Jacob Ratumaitavuki-Kneepkens |             40 |
+|             21 | Luteru Tolai          |     101.23 |                89 |       16 |                75 |      88.84 | Soane Vikena                  |              0 |
+|             21 | Ezekiel Lindenmuth    |      75.6  |                48 |       17 |                74 |      87.82 | Josh Fusitua                  |              0 |
+|             21 | Tau Koloamatangi      |     111.61 |                96 |       18 |                67 |      84.77 | James Lay                     |             34 |
+|             31 | Alex McRobbie         |      66.45 |                31 |       19 |                85 |      95.32 | Tom Robinson                  |             18 |
+|             18 | Jonah Mau'u           |      81.02 |                59 |       20 |                36 |      70.23 | Anton Segner                  |              4 |
+|             26 | Jonathan Taumateine   |      63.95 |                23 |       21 |                84 |      98.69 | Finlay Christie               |             40 |
+|             11 | Lincoln McClutchie    |      90.04 |                73 |       22 |                64 |      85.49 | Rieko Ioane                   |             33 |
+|             22 | Fine Inisi            |      69.23 |                35 |       23 |                68 |      88.15 | Zarn Sullivan                 |             41 |
 
