@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Oyonnax by 26.2
+## Prediction with Player Minutes: Oyonnax by 24.4
 
 
-Oyonnax by 22.2 on a neutral field
+Oyonnax by 20.4 on a neutral field
 
-There were 6 large changes in win probability in this match
-## Prediction without Player Minutes: Oyonnax by 25.8
+There were 7 large changes in win probability in this match
+## Prediction without Player Minutes: Oyonnax by 23.5
 
 
-Oyonnax by 21.8 on a neutral pitch
+Oyonnax by 19.5 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:---------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             57 | Yassin Boutemani                 |      71.78 |                38 |        1 |                65 |      85.56 | Tommy Raynaud       |             52 |
-|             53 | Ole Avei                         |      72.61 |                51 |        2 |                13 |      55.5  | Teddy Durand        |             57 |
-|             53 | Michael Masimba Tingini Kumbirai |      99.36 |                90 |        3 |                68 |      84.43 | Thomas Laclayat     |             52 |
-|             80 | Ian Kitwanga                     |      60.62 |                16 |        4 |                67 |      84.54 | Phoenix Battye      |             80 |
-|             34 | Sikeli Nabou                     |      69.48 |                34 |        5 |                25 |      64.58 | Hugo Fabregue       |             57 |
-|             80 | Nicolas Martins                  |      77.53 |                51 |        6 |                98 |     127.59 | Kevin Lebreton      |             80 |
-|             58 | Germain Burgaud                  |      92.74 |                79 |        7 |                92 |     107.39 | Loïc Credoz         |             80 |
-|             80 | Yassine Jarmouni                 |      77.78 |                56 |        8 |                49 |      77.31 | Filimo Taofifenua   |             49 |
-|             58 | Adrien Bau                       |      66.76 |                31 |        9 |                66 |      85.76 | Charlie Cassang     |             63 |
-|             80 | Benjamin Botica                  |      63.6  |                23 |       10 |                87 |     101.87 | Justin Bouraux      |             80 |
-|             80 | Marvin Lestremau                 |      78    |                53 |       11 |                56 |      78.88 | Gavin Stark         |             80 |
-|             80 | Inaki Ayarza Saporta             |      63.49 |                22 |       12 |                78 |      95.96 | Théo Millet         |             57 |
-|             80 | Ledua Mau                        |      80.21 |                55 |       13 |                69 |      88.31 | Chris Farrell       |             80 |
-|             58 | Maxime Laforgue                  |      79.58 |                57 |       14 |                86 |      99.84 | Joe Ravouvou        |             80 |
-|             80 | Pierre Lafitte                   |      69.25 |                32 |       15 |                86 |     103.89 | Aurelien Callandret |             49 |
-|             46 | Robin Copeland                   |      70.32 |                36 |       16 |                58 |      81.95 | Rory Grice          |             31 |
-|             27 | Rayne Barka                      |      72.81 |                43 |       17 |               nan |      81.89 | Darren Sweetnam     |             31 |
-|             27 | Omar Dahir                       |      93.31 |                83 |       18 |                45 |      74.97 | Adrien Bordenave    |             28 |
-|             23 | Shota Gogisvanidze               |      79.57 |                46 |       19 |                62 |      85.34 | Thibault Berthaud   |             28 |
-|             22 | Emmanuel Saubusse                |      75.39 |                46 |       20 |                80 |      95.08 | Steve Mafi          |             23 |
-|             22 | Matthieu Ugalde                  |      78.81 |                53 |       21 |                38 |      73.39 | Florian Vialelle    |             23 |
-|             22 | Gautier Gibouin                  |      51.68 |                 8 |       22 |                67 |      84.52 | Benjamin Geledan    |             23 |
-|            nan | nan                              |     nan    |               nan |       23 |                14 |      59.82 | Ilan El Khattabi    |             17 |
+|             57 | Yassin Boutemani                 |      70.62 |                36 |        1 |                63 |      84.34 | Tommy Raynaud       |             52 |
+|             53 | Ole Avei                         |      66.71 |                38 |        2 |                 6 |      46.25 | Teddy Durand        |             57 |
+|             53 | Michael Masimba Tingini Kumbirai |     101.02 |                91 |        3 |                63 |      82.24 | Thomas Laclayat     |             52 |
+|             80 | Ian Kitwanga                     |      58.67 |                14 |        4 |                58 |      81.09 | Phoenix Battye      |             80 |
+|             34 | Sikeli Nabou                     |      64.66 |                27 |        5 |                35 |      69.53 | Hugo Fabregue       |             57 |
+|             80 | Nicolas Martins                  |      73.45 |                43 |        6 |                97 |     125.81 | Kevin Lebreton      |             80 |
+|             58 | Germain Burgaud                  |      92.87 |                79 |        7 |                95 |     116.91 | Loïc Credoz         |             80 |
+|             80 | Yassine Jarmouni                 |      79.97 |                61 |        8 |                36 |      71.98 | Filimo Taofifenua   |             49 |
+|             58 | Adrien Bau                       |      74.99 |                47 |        9 |                63 |      83.78 | Charlie Cassang     |             63 |
+|             80 | Benjamin Botica                  |      66.95 |                29 |       10 |                81 |      96.93 | Justin Bouraux      |             80 |
+|             80 | Marvin Lestremau                 |      70.88 |                38 |       11 |                46 |      74.32 | Gavin Stark         |             80 |
+|             80 | Inaki Ayarza Saporta             |      62.43 |                21 |       12 |                73 |      91.39 | Théo Millet         |             57 |
+|             80 | Ledua Mau                        |      76.47 |                47 |       13 |                67 |      86.41 | Chris Farrell       |             80 |
+|             58 | Maxime Laforgue                  |      82.62 |                63 |       14 |                78 |      92.63 | Joe Ravouvou        |             80 |
+|             80 | Pierre Lafitte                   |      65.72 |                26 |       15 |                79 |      96.78 | Aurelien Callandret |             49 |
+|             46 | Robin Copeland                   |      68.2  |                32 |       16 |                57 |      80.68 | Rory Grice          |             31 |
+|             27 | Rayne Barka                      |      69.52 |                37 |       17 |               nan |      79.62 | Darren Sweetnam     |             31 |
+|             27 | Omar Dahir                       |      91.63 |                80 |       18 |                41 |      72.49 | Adrien Bordenave    |             28 |
+|             23 | Shota Gogisvanidze               |      79.36 |                49 |       19 |                58 |      83.35 | Thibault Berthaud   |             28 |
+|             22 | Emmanuel Saubusse                |      70.55 |                36 |       20 |                72 |      89.58 | Steve Mafi          |             23 |
+|             22 | Matthieu Ugalde                  |      75.65 |                50 |       21 |                38 |      73.22 | Florian Vialelle    |             23 |
+|             22 | Gautier Gibouin                  |      52.09 |                 8 |       22 |                63 |      82.68 | Benjamin Geledan    |             23 |
+|            nan | nan                              |     nan    |               nan |       23 |                16 |      61.41 | Ilan El Khattabi    |             17 |
 

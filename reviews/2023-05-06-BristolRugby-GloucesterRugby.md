@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bristol Rugby by 17.4
+## Prediction with Player Minutes: Bristol Rugby by 16.7
 
 
-Bristol Rugby by 13.4 on a neutral field
+Bristol Rugby by 12.7 on a neutral field
 
 There were 5 large changes in win probability in this match
-## Prediction without Player Minutes: Bristol Rugby by 15.5
+## Prediction without Player Minutes: Bristol Rugby by 15.0
 
 
-Bristol Rugby by 11.5 on a neutral pitch
+Bristol Rugby by 11.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player     |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------|---------------:|
-|             41 | Mayco Vivas         |      60.48 |                17 |        1 |                68 |      84.48 | Yann Thomas     |             60 |
-|             61 | George McGuigan     |      89.78 |                78 |        2 |                49 |      75.56 | Harry Thacker   |             82 |
-|             61 | Kirill Gotovtsev    |      99.33 |                89 |        3 |                91 |     100.03 | Kyle Sinckler   |             54 |
-|             84 | Freddie Clarke      |      70.24 |                36 |        4 |                94 |     111.14 | Joe Batley      |             84 |
-|             61 | Matias Alemanno     |      99.18 |                87 |        5 |                59 |      81.04 | Chris Vui       |             84 |
-|             84 | Jack Clement        |      88.13 |                74 |        6 |                97 |     123.48 | Steven Luatua   |             72 |
-|             84 | Lewis Ludlow        |      80.71 |                58 |        7 |                91 |     105.84 | Sam Jeffries    |             84 |
-|             56 | Ben Morgan          |     100.57 |                87 |        8 |                73 |      88.78 | Fitz Harding    |             34 |
-|             84 | Stephen Varney      |      60.54 |                18 |        9 |                85 |      99.08 | Harry Randall   |             64 |
-|             84 | Adam Hastings       |     103.06 |                88 |       10 |                96 |     121.06 | AJ MacGinty     |             84 |
-|             84 | Ollie Thorley       |     102.34 |                89 |       11 |                82 |      89.71 | Ioan Lloyd      |             69 |
-|             84 | Sebastien Atkinson  |      46.12 |                 4 |       12 |                45 |      75.33 | James Williams  |             62 |
-|             78 | Chris Harris        |      98.05 |                81 |       13 |                95 |     114.94 | Semi Radradra   |             84 |
-|             84 | Jonny May           |     101.83 |                88 |       14 |                78 |      92.63 | Ratu Naulago    |             84 |
-|             61 | Santiago Carreras   |     123.15 |                96 |       15 |                82 |     100.33 | Charles Piutau  |             84 |
-|             23 | Sebastian Blake     |      65.73 |                27 |       16 |                54 |      77.72 | Will Capon      |              2 |
-|             43 | Val Rapava-Ruskin   |      79.95 |                57 |       17 |                68 |      90.27 | Jake Woolmore   |             24 |
-|             23 | Jamal Ford-Robinson |      65.36 |                24 |       18 |                89 |      98.81 | Max Lahiff      |             30 |
-|             23 | Cameron Jordan      |     104.65 |                91 |       19 |                34 |      71.25 | Magnus Bradbury |             50 |
-|             28 | Freddie Thomas      |      85.5  |               nan |       20 |                73 |      89.7  | Jake Heenan     |             12 |
-|              0 | Ben Meehan          |      87.52 |                69 |       21 |                21 |      65.69 | Andy Uren       |             20 |
-|             23 | Billy Twelvetrees   |     127.14 |                97 |       22 |                88 |     107.14 | Sam Bedlow      |             22 |
-|              6 | Alex Hearle         |     103.47 |                90 |       23 |               nan |      89.13 | Piers O'Conor   |             15 |
+|             41 | Mayco Vivas         |      55.14 |                10 |        1 |                71 |      86.26 | Yann Thomas     |             60 |
+|             61 | George McGuigan     |      90.42 |                78 |        2 |                48 |      75.15 | Harry Thacker   |             82 |
+|             61 | Kirill Gotovtsev    |      99.88 |                90 |        3 |                91 |     100.6  | Kyle Sinckler   |             54 |
+|             84 | Freddie Clarke      |      68.7  |                33 |        4 |                93 |     110.21 | Joe Batley      |             84 |
+|             61 | Matias Alemanno     |     105.89 |                91 |        5 |                57 |      80.33 | Chris Vui       |             84 |
+|             84 | Jack Clement        |      90.05 |                74 |        6 |                97 |     121.11 | Steven Luatua   |             72 |
+|             84 | Lewis Ludlow        |      85.2  |                67 |        7 |                87 |     100.74 | Sam Jeffries    |             84 |
+|             56 | Ben Morgan          |      99.06 |                86 |        8 |                76 |      91.41 | Fitz Harding    |             34 |
+|             84 | Stephen Varney      |      60.01 |                18 |        9 |                85 |     100.19 | Harry Randall   |             64 |
+|             84 | Adam Hastings       |     102.35 |                87 |       10 |                97 |     124.12 | AJ MacGinty     |             84 |
+|             84 | Ollie Thorley       |      96.85 |                82 |       11 |                78 |      86.67 | Ioan Lloyd      |             69 |
+|             84 | Sebastien Atkinson  |      48.7  |                 6 |       12 |                46 |      75.42 | James Williams  |             62 |
+|             78 | Chris Harris        |      97.94 |                81 |       13 |                94 |     113.45 | Semi Radradra   |             84 |
+|             84 | Jonny May           |     100.92 |                87 |       14 |                78 |      92.81 | Ratu Naulago    |             84 |
+|             61 | Santiago Carreras   |     123.81 |                96 |       15 |                81 |     100.56 | Charles Piutau  |             84 |
+|             23 | Sebastian Blake     |      67.9  |                32 |       16 |                55 |      78.1  | Will Capon      |              2 |
+|             43 | Val Rapava-Ruskin   |      80.29 |                58 |       17 |                73 |      93.25 | Jake Woolmore   |             24 |
+|             23 | Jamal Ford-Robinson |      67.65 |                28 |       18 |                87 |      96.7  | Max Lahiff      |             30 |
+|             23 | Cameron Jordan      |     102.79 |                90 |       19 |                35 |      71.75 | Magnus Bradbury |             50 |
+|             28 | Freddie Thomas      |      84.5  |               nan |       20 |                65 |      85.63 | Jake Heenan     |             12 |
+|              0 | Ben Meehan          |      90.08 |                72 |       21 |                31 |      71.13 | Andy Uren       |             20 |
+|             23 | Billy Twelvetrees   |     128.66 |                98 |       22 |                92 |     111.88 | Sam Bedlow      |             22 |
+|              6 | Alex Hearle         |     108.03 |                93 |       23 |               nan |      89.28 | Piers O'Conor   |             15 |
 

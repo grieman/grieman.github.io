@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: La Rochelle by 20.0
+## Prediction with Player Minutes: La Rochelle by 23.6
 
 
-La Rochelle by 24.0 on a neutral field
+La Rochelle by 27.6 on a neutral field
 
-There were 3 large changes in win probability in this match
-## Prediction without Player Minutes: La Rochelle by 20.9
+There were 2 large changes in win probability in this match
+## Prediction without Player Minutes: La Rochelle by 23.6
 
 
-La Rochelle by 24.9 on a neutral pitch
+La Rochelle by 27.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             26 | Joel Sclavi               |      90.34 |                76 |        1 |                19 |      61.47 | Dany Priso          |             49 |
-|             50 | Pierre Bourgarit          |      97.82 |                86 |        2 |                32 |      70.7  | Christopher Tolofua |             49 |
-|             44 | Uini Atonio               |     104.45 |                93 |        3 |                67 |      84.09 | Beka Gigashvili     |             49 |
-|             55 | Thomas Lavault            |      99.72 |                85 |        4 |                51 |      76.66 | Mathieu Tanguy      |             52 |
-|             80 | William Skelton           |      98.95 |                86 |        5 |                 5 |      45.6  | Brian Alainu'uese   |             80 |
-|             64 | Rémi Bourdeau             |      79.57 |                54 |        6 |                 5 |      46.71 | Cornell du Preez    |             69 |
-|             80 | Paul Boudehent            |      84.4  |                57 |        7 |                97 |     122.14 | Charles Ollivon     |             80 |
-|             80 | Gregory Alldritt          |     114.1  |                96 |        8 |                88 |     101.38 | Sergio Parisse      |             52 |
-|             80 | Thomas Berjon             |      72.92 |                39 |        9 |                27 |      66.34 | Baptiste Serin      |             71 |
-|             80 | Antoine Hastoy            |      81.5  |                56 |       10 |                10 |      54.11 | Ihaia West          |             49 |
-|             80 | Dillyn Leyds              |      62.46 |                23 |       11 |                24 |      63.12 | Jiuta Wainiqolo     |             80 |
-|             45 | UJ Seuteni                |     100.79 |                85 |       12 |                10 |      54.14 | Duncan Paia'aua     |             80 |
-|             80 | Raymond Rhule             |     107.05 |                92 |       13 |                60 |      86.73 | Jérémy Sinzelle     |             80 |
-|             26 | Teddy Thomas              |      85.29 |                66 |       14 |                45 |      76.9  | Cheslin Kolbe       |             80 |
-|             73 | Brice Dulin               |      92.57 |                73 |       15 |                64 |      83.05 | Aymeric Luc         |             80 |
-|             54 | Reda Wardi                |      89.04 |                77 |       16 |                42 |      72.4  | Teddy Baubigny      |             31 |
-|             54 | Tawera Kerr-Barlow        |     112.46 |                95 |       17 |               nan |      73.79 | Jean-Baptiste Gros  |             31 |
-|             36 | Georges-Henri Colombe     |      82.79 |                45 |       18 |                63 |      74.71 | Kieran Brookes      |             31 |
-|             35 | Ultan Dillane             |      97.16 |                84 |       19 |                98 |     131.24 | Dan Biggar          |             31 |
-|             30 | Quentin Lespiaucq-Brettes |      88.55 |                73 |       20 |                38 |      71.9  | Mathieu Bastareaud  |             28 |
-|             25 | Romain Sazy               |      81.79 |                61 |       21 |                83 |      97.83 | Adrien Warion       |             28 |
-|             16 | Kyle Hatherell            |      87.35 |                71 |       22 |                83 |      95.94 | Mattéo Le Corvec    |             11 |
-|              7 | Hugo Reus                 |      72.74 |                40 |       23 |                33 |      71.64 | Benoit Paillaugue   |              9 |
+|             26 | Joel Sclavi               |      80.11 |                54 |        1 |                18 |      60.75 | Dany Priso          |             49 |
+|             50 | Pierre Bourgarit          |     109.3  |                95 |        2 |                33 |      69.62 | Christopher Tolofua |             49 |
+|             44 | Uini Atonio               |     106.4  |                94 |        3 |                59 |      80.49 | Beka Gigashvili     |             49 |
+|             55 | Thomas Lavault            |      97.36 |                82 |        4 |                51 |      76.69 | Mathieu Tanguy      |             52 |
+|             80 | William Skelton           |      94.84 |                82 |        5 |                 3 |      42.94 | Brian Alainu'uese   |             80 |
+|             64 | Rémi Bourdeau             |      78.87 |                52 |        6 |                 4 |      44.61 | Cornell du Preez    |             69 |
+|             80 | Paul Boudehent            |      84.38 |                58 |        7 |                97 |     121.82 | Charles Ollivon     |             80 |
+|             80 | Gregory Alldritt          |     113.55 |                96 |        8 |                95 |     111.72 | Sergio Parisse      |             52 |
+|             80 | Thomas Berjon             |      74.42 |                42 |        9 |                18 |      59.59 | Baptiste Serin      |             71 |
+|             80 | Antoine Hastoy            |      82.23 |                57 |       10 |                 9 |      53.88 | Ihaia West          |             49 |
+|             80 | Dillyn Leyds              |      65.22 |                27 |       11 |                16 |      57.99 | Jiuta Wainiqolo     |             80 |
+|             45 | UJ Seuteni                |      98.54 |                82 |       12 |                 5 |      48.31 | Duncan Paia'aua     |             80 |
+|             80 | Raymond Rhule             |     108.15 |                93 |       13 |                53 |      81.37 | Jérémy Sinzelle     |             80 |
+|             26 | Teddy Thomas              |      83.56 |                62 |       14 |                44 |      76.76 | Cheslin Kolbe       |             80 |
+|             73 | Brice Dulin               |      94.67 |                76 |       15 |                54 |      78.07 | Aymeric Luc         |             80 |
+|             54 | Reda Wardi                |      88.62 |                76 |       16 |                60 |      80.49 | Teddy Baubigny      |             31 |
+|             54 | Tawera Kerr-Barlow        |     113.69 |                96 |       17 |               nan |      72.36 | Jean-Baptiste Gros  |             31 |
+|             36 | Georges-Henri Colombe     |      82.41 |                47 |       18 |                60 |      73.06 | Kieran Brookes      |             31 |
+|             35 | Ultan Dillane             |      93.07 |                79 |       19 |                98 |     128.95 | Dan Biggar          |             31 |
+|             30 | Quentin Lespiaucq-Brettes |      87.85 |                71 |       20 |                39 |      70.22 | Mathieu Bastareaud  |             28 |
+|             25 | Romain Sazy               |      91.28 |                77 |       21 |                73 |      89.94 | Adrien Warion       |             28 |
+|             16 | Kyle Hatherell            |      83.6  |                63 |       22 |                83 |      96.3  | Mattéo Le Corvec    |             11 |
+|              7 | Hugo Reus                 |      73.86 |                43 |       23 |                34 |      72.09 | Benoit Paillaugue   |              9 |
 
