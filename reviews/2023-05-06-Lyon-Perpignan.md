@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Perpignan by 14.7
+## Prediction with Player Minutes: Perpignan by 15.6
 
 
-Perpignan by 18.7 on a neutral field
+Perpignan by 19.6 on a neutral field
 
 There were 13 large changes in win probability in this match
-## Prediction without Player Minutes: Perpignan by 14.3
+## Prediction without Player Minutes: Perpignan by 15.1
 
 
-Perpignan by 18.3 on a neutral pitch
+Perpignan by 19.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             63 | Sacha Lotrian       |      67.51 |                24 |        1 |                 2 |      43.59 | Sébastien Taofifenua   |             62 |
-|             63 | Victor Montgaillard |      68.88 |                36 |        2 |                 0 |       8.49 | Guillaume Marchand     |             51 |
-|             60 | Ma'afu Fia          |      66.41 |                25 |        3 |                 0 |      23.62 | Demba Bamba            |             60 |
-|             52 | Taniela Ramasibana  |      78.63 |                54 |        4 |                28 |      65.82 | Killian Geraci         |             15 |
-|             52 | Andrei Mahu         |      66.54 |               nan |        5 |                92 |     107.82 | Romain Taofifenua      |             67 |
-|             80 | Lucas Bachelier     |      70.98 |                38 |        6 |                 0 |      21.83 | Dylan Cretin           |             80 |
-|             60 | Alan Brazo          |      66.87 |               nan |        7 |                78 |      92.5  | Beka Saghinadze        |             80 |
-|             80 | Lucas Velarte       |      66.76 |               nan |        8 |                24 |      65.63 | Arno Botha             |             51 |
-|             80 | Tom Ecochard        |      65.27 |               nan |        9 |                 2 |      40.93 | Baptiste Couilloud     |             80 |
-|             72 | Matteo Rodor        |      65.94 |                26 |       10 |                11 |      54.51 | Léo Berdeu             |             25 |
-|             80 | Mathieu Acebes      |      70.06 |                31 |       11 |                93 |     107.77 | Ethan Dumortier        |             80 |
-|             80 | Dorian Laborde      |      67.22 |                29 |       12 |                59 |      82.73 | Josua Tuisova          |             80 |
-|             80 | George Tilsley      |      66.7  |               nan |       13 |                 0 |      25.2  | Kyle Godwin            |             40 |
-|             70 | Nino Seguela        |      66.39 |               nan |       14 |                52 |      77.38 | Tavite Veredamu        |             80 |
-|             80 | Boris Goutard       |      42.6  |                 5 |       15 |                43 |      75.82 | Toby Arnold            |             80 |
-|             28 | Tristan Labouteley  |      73.62 |                43 |       16 |                 9 |      66.38 | Félix Lambey           |             65 |
-|             28 | Victor Moreaux      |      69.53 |                34 |       17 |                 0 |     -24.21 | Jean-Marc Doussain     |             55 |
-|             20 | Akato Fakatika      |      90.85 |                81 |       18 |               nan |      19.49 | Thibaut Regard         |             40 |
-|             20 | Valentin Moro       |      85.2  |                70 |       19 |               nan |       4.36 | Yanis Charcosset       |             29 |
-|             17 | Mike Tadjer         |      69.19 |                35 |       20 |                53 |      78.21 | Liam Allen             |             29 |
-|             17 | Xavier Chiocci      |      68.28 |               nan |       21 |                 0 |      32.66 | Francisco Gomez Kodela |             20 |
-|             10 | Edward Sawailau     |      77.13 |                48 |       22 |               nan |      18.03 | Feao Fotuaika          |             18 |
-|              8 | Alexandre Perez     |      73.32 |                41 |       23 |                 0 |      14.66 | Mickael Guillard       |             13 |
+|             63 | Sacha Lotrian       |      67.39 |                23 |        1 |                 2 |      42.84 | Sébastien Taofifenua   |             62 |
+|             63 | Victor Montgaillard |      67.92 |                34 |        2 |                 0 |       7.39 | Guillaume Marchand     |             51 |
+|             60 | Ma'afu Fia          |      66.25 |                25 |        3 |                 0 |      22.88 | Demba Bamba            |             60 |
+|             52 | Taniela Ramasibana  |      78.68 |                54 |        4 |                27 |      65.47 | Killian Geraci         |             15 |
+|             52 | Andrei Mahu         |      66.24 |               nan |        5 |                92 |     107.21 | Romain Taofifenua      |             67 |
+|             80 | Lucas Bachelier     |      70.47 |                37 |        6 |                 0 |      20.59 | Dylan Cretin           |             80 |
+|             60 | Alan Brazo          |      66.56 |               nan |        7 |                78 |      92.7  | Beka Saghinadze        |             80 |
+|             80 | Lucas Velarte       |      66.43 |               nan |        8 |                23 |      65.17 | Arno Botha             |             51 |
+|             80 | Tom Ecochard        |      64.99 |               nan |        9 |                 2 |      40.24 | Baptiste Couilloud     |             80 |
+|             72 | Matteo Rodor        |      65.69 |                27 |       10 |                10 |      53.86 | Léo Berdeu             |             25 |
+|             80 | Mathieu Acebes      |      69.79 |                31 |       11 |                90 |     103.95 | Ethan Dumortier        |             80 |
+|             80 | Dorian Laborde      |      66.96 |                29 |       12 |                59 |      82.35 | Josua Tuisova          |             80 |
+|             80 | George Tilsley      |      66.39 |               nan |       13 |                 0 |      24.35 | Kyle Godwin            |             40 |
+|             70 | Nino Seguela        |      66.09 |               nan |       14 |                51 |      76.88 | Tavite Veredamu        |             80 |
+|             80 | Boris Goutard       |      42.01 |                 4 |       15 |                42 |      75.46 | Toby Arnold            |             80 |
+|             28 | Tristan Labouteley  |      73.21 |                44 |       16 |                 9 |      65.56 | Félix Lambey           |             65 |
+|             28 | Victor Moreaux      |      69.36 |                34 |       17 |                 0 |     -25.83 | Jean-Marc Doussain     |             55 |
+|             20 | Akato Fakatika      |      90.66 |                80 |       18 |               nan |      18.3  | Thibaut Regard         |             40 |
+|             20 | Valentin Moro       |      84.28 |                67 |       19 |               nan |       3.17 | Yanis Charcosset       |             29 |
+|             17 | Mike Tadjer         |      69.08 |                36 |       20 |                52 |      77.85 | Liam Allen             |             29 |
+|             17 | Xavier Chiocci      |      67.92 |               nan |       21 |                 0 |      31.56 | Francisco Gomez Kodela |             20 |
+|             10 | Edward Sawailau     |      76.95 |                48 |       22 |               nan |      16.94 | Feao Fotuaika          |             18 |
+|              8 | Alexandre Perez     |      73.18 |                42 |       23 |                 0 |      13.18 | Mickael Guillard       |             13 |
 

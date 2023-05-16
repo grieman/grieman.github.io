@@ -28,32 +28,32 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Blue Bulls by 7.6
+## Prediction with Player Minutes: Blue Bulls by 7.4
 
 
-Blue Bulls by 11.6 on a neutral field
-## Prediction without Player Minutes: Blue Bulls by 7.6
+Blue Bulls by 11.4 on a neutral field
+## Prediction without Player Minutes: Blue Bulls by 7.4
 
 
-Blue Bulls by 11.6 on a neutral pitch
+Blue Bulls by 11.4 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                  |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             80 | Gerhardus Cornelis Steenkamp |      78.42 |                54 |        1 |                37 |      71.36 | Kudzwai Dube        |             80 |
-|             80 | Cornelis Johannes Grobbelaar |      89.38 |                76 |        2 |                46 |      74.29 | Janco Uys           |             80 |
-|             80 | Mornay Jan Jakobus Smith     |      87.44 |                73 |        3 |                53 |      78.02 | Janu Botha          |             80 |
-|             80 | Ruan Vermaak                 |      82    |                60 |        4 |                22 |      63.2  | Derrick Pretorius   |             80 |
-|             80 | Ruan Nortje                  |      92.93 |                79 |        5 |               nan |      69.08 | Dylan Sjoblom       |             80 |
-|             80 | Marcell Coetzee              |      84.27 |                64 |        6 |                49 |      76.55 | Thabo Ndimande      |             80 |
-|             80 | Nizaam Carr                  |      68.68 |                33 |        7 |                71 |      87.21 | Hanru Sirgel        |             80 |
-|             80 | Elrigh Louw                  |      91.83 |                78 |        8 |                27 |      67.62 | Carl Els            |             80 |
-|             80 | Embrose Cheldon Papier       |      72.81 |                42 |        9 |                28 |      66.94 | Johan Mulder        |             80 |
-|             80 | Chris Smith                  |      85.21 |                63 |       10 |                51 |      79.51 | Lubabalo Dobela     |             80 |
-|             80 | Marco Jansen van Vuuren      |      80.21 |               nan |       11 |                48 |      75.09 | Sakoyisa Makata     |             80 |
-|             80 | Harold William Vorster       |      93.35 |                76 |       12 |                41 |      73.88 | Tertius Kruger      |             80 |
-|             80 | Stedman-Gee Rivett Gans      |      91.31 |                72 |       13 |                83 |     100    | Jay Cee Nel         |             80 |
-|             80 | Sibongile Vukile Novuka      |      79.78 |                61 |       14 |                25 |      64.31 | Rosco Shane Specman |             80 |
-|             80 | David Kriel                  |      84.65 |                66 |       15 |                81 |      99.64 | Ashlon Davids       |             80 |
+|             80 | Gerhardus Cornelis Steenkamp |      78.18 |                54 |        1 |                38 |      71.49 | Kudzwai Dube        |             80 |
+|             80 | Cornelis Johannes Grobbelaar |      88.87 |                76 |        2 |                46 |      74.25 | Janco Uys           |             80 |
+|             80 | Mornay Jan Jakobus Smith     |      87.17 |                72 |        3 |                55 |      78.55 | Janu Botha          |             80 |
+|             80 | Ruan Vermaak                 |      81.89 |                60 |        4 |                21 |      62.51 | Derrick Pretorius   |             80 |
+|             80 | Ruan Nortje                  |      92.39 |                79 |        5 |               nan |      68.86 | Dylan Sjoblom       |             80 |
+|             80 | Marcell Coetzee              |      83.34 |                62 |        6 |                49 |      76.26 | Thabo Ndimande      |             80 |
+|             80 | Nizaam Carr                  |      68.6  |                32 |        7 |                71 |      87.04 | Hanru Sirgel        |             80 |
+|             80 | Elrigh Louw                  |      91.29 |                77 |        8 |                26 |      67.36 | Carl Els            |             80 |
+|             80 | Embrose Cheldon Papier       |      72.55 |                40 |        9 |                29 |      67.33 | Johan Mulder        |             80 |
+|             80 | Chris Smith                  |      84.94 |                61 |       10 |                52 |      79.31 | Lubabalo Dobela     |             80 |
+|             80 | Marco Jansen van Vuuren      |      79.8  |               nan |       11 |                48 |      74.95 | Sakoyisa Makata     |             80 |
+|             80 | Harold William Vorster       |      93.17 |                75 |       12 |                42 |      73.66 | Tertius Kruger      |             80 |
+|             80 | Stedman-Gee Rivett Gans      |      90.77 |                71 |       13 |                82 |      98.89 | Jay Cee Nel         |             80 |
+|             80 | Sibongile Vukile Novuka      |      78.74 |                59 |       14 |                25 |      64.02 | Rosco Shane Specman |             80 |
+|             80 | David Kriel                  |      84.12 |                65 |       15 |                79 |      97.71 | Ashlon Davids       |             80 |
 

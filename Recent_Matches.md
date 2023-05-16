@@ -28,13 +28,13 @@ Last Round Error: 14.82 points per match
 
 [In depth model review and projections for Major League Rugby 2023](comp_files/Major_League_Rugby_2023)
 
-Competition Accuracy: 46 of 61 (75.41%)
+Competition Accuracy: 47 of 61 (77.05%)
 
-Competition Error: 12.08 points per match
+Competition Error: 12.06 points per match
 
 Last Round Accuracy: 6 of 6 (100.0%)
 
-Last Round Error: 7.82 points per match
+Last Round Error: 7.77 points per match
 
 [2023-05-07 Chicago Hounds at Rugby ATL; 12-27](reviews//2023-05-07-RugbyATL-ChicagoHounds)
 
@@ -97,8 +97,6 @@ Competition Error: 10.87 points per match
 Last Round Accuracy: 4 of 7 (57.14%)
 
 Last Round Error: 11.68 points per match
-
-[2023-05-06 Stade Francais Paris at Clermont Auvergne; 16-32](reviews//2023-05-06-ClermontAuvergne-StadeFrancaisParis)
 
 [2023-05-06 Perpignan at Lyon; 31-41](reviews//2023-05-06-Lyon-Perpignan)
 
