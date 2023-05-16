@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Nevers by 13.7
+## Prediction with Player Minutes: Nevers by 14.0
 
 
-Nevers by 9.7 on a neutral field
+Nevers by 10.0 on a neutral field
 
 There were 13 large changes in win probability in this match
 ## Prediction without Player Minutes: Nevers by 14.9
@@ -43,26 +43,26 @@ Nevers by 10.9 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             58 | Andy Bordelai         |      99.69 |                88 |        1 |                69 |      85.23 | Kamaliele Tufele    |             51 |
-|             52 | Cyril Blanchard       |      75.7  |                46 |        2 |                86 |      97.49 | Elia Elia           |             41 |
-|             52 | John Afoa             |      79.67 |                57 |        3 |                38 |      71.32 | Cleopas Kundiona    |             47 |
-|             59 | Éric Marks            |      90.71 |                76 |        4 |                94 |     112.15 | Maxence Barjaud     |             80 |
-|             80 | Ewan Thomas Johnson   |      89.79 |                71 |        5 |                33 |      68.61 | Maka Polutele       |             58 |
-|             55 | Léon Boulier          |      87.01 |                70 |        6 |                57 |      80.1  | Luka Plataret       |             58 |
-|             80 | Francisco Gorrisen    |      89.38 |                74 |        7 |                96 |     120.96 | Hugues Bastide      |             60 |
-|             80 | Myles Edwards         |      63.98 |                25 |        8 |                22 |      64.44 | Steven David        |             80 |
-|             80 | Michael Ruru          |      90.63 |                74 |        9 |                76 |      91.62 | Yoan Cottin         |             80 |
-|             80 | Maxime Lafage         |      78.69 |                48 |       10 |                59 |      83.02 | Yohan Le Bourhis    |             80 |
-|             80 | Romaric Camou         |      69.63 |                35 |       11 |                59 |      81.05 | Lucas Blanc         |             80 |
-|             80 | Andres Vilaseca       |      97.1  |                80 |       12 |                72 |      94.25 | Mattéo Faucher      |             76 |
-|             44 | Sacha Valleau         |      81.47 |                57 |       13 |                93 |     112.4  | Alifereti Loaloa    |             80 |
-|             80 | Nathanael Hulleu      |      80.31 |                54 |       14 |                62 |      82.47 | Christian Ambadiang |             80 |
-|             80 | Gwenaël Duplenne      |      91.04 |                71 |       15 |                84 |     102.2  | Kylian Jaminet      |             80 |
-|             36 | Théo Bastardie        |      93.65 |                79 |       16 |                57 |      84.96 | Issam Hamel         |             39 |
-|             28 | Théo Beziat           |      97.33 |                86 |       17 |                77 |      89.99 | Ilia Kaikatsishvili |             33 |
-|             28 | Phil Kite             |      74.96 |                42 |       18 |                82 |      91.9  | Aitor Kitutu        |             29 |
-|             25 | Karl Chateau          |      88.22 |                73 |       19 |                91 |     111.15 | Senio Toleafoa      |             22 |
-|             22 | Charles-Henri Berguet |      56.8  |                12 |       20 |                78 |      94    | Jason-Collin Fraser |             22 |
-|             21 | Edoardo Iachizzi      |      85.79 |                69 |       21 |                79 |      97.86 | Kevin Noah          |             20 |
-|            nan | nan                   |     nan    |               nan |       22 |                62 |      84.95 | Thomas Zenon        |              4 |
+|             58 | Andy Bordelai         |      99.85 |                88 |        1 |                68 |      84.95 | Kamaliele Tufele    |             51 |
+|             52 | Cyril Blanchard       |      77.61 |                49 |        2 |                88 |      98.79 | Elia Elia           |             41 |
+|             52 | John Afoa             |      79.37 |                56 |        3 |                33 |      69.94 | Cleopas Kundiona    |             47 |
+|             59 | Éric Marks            |      89.58 |                75 |        4 |                96 |     118.84 | Maxence Barjaud     |             80 |
+|             80 | Ewan Thomas Johnson   |      90.54 |                73 |        5 |                33 |      68.93 | Maka Polutele       |             58 |
+|             55 | Léon Boulier          |      88.55 |                72 |        6 |                54 |      78.36 | Luka Plataret       |             58 |
+|             80 | Francisco Gorrisen    |      90.15 |                75 |        7 |                95 |     117.5  | Hugues Bastide      |             60 |
+|             80 | Myles Edwards         |      63.31 |                23 |        8 |                20 |      63.06 | Steven David        |             80 |
+|             80 | Michael Ruru          |      90.87 |                74 |        9 |                79 |      93.64 | Yoan Cottin         |             80 |
+|             80 | Maxime Lafage         |      78.46 |                47 |       10 |                58 |      83.12 | Yohan Le Bourhis    |             80 |
+|             80 | Romaric Camou         |      69.8  |                35 |       11 |                58 |      80.71 | Lucas Blanc         |             80 |
+|             80 | Andres Vilaseca       |      96.11 |                79 |       12 |                75 |      96.43 | Mattéo Faucher      |             76 |
+|             44 | Sacha Valleau         |      81.63 |                56 |       13 |                93 |     111.37 | Alifereti Loaloa    |             80 |
+|             80 | Nathanael Hulleu      |      80.1  |                53 |       14 |                62 |      82.68 | Christian Ambadiang |             80 |
+|             80 | Gwenaël Duplenne      |      89.83 |                69 |       15 |                83 |     101.83 | Kylian Jaminet      |             80 |
+|             36 | Théo Bastardie        |      93.74 |                80 |       16 |                49 |      81.18 | Issam Hamel         |             39 |
+|             28 | Théo Beziat           |      96.87 |                85 |       17 |                86 |      95.99 | Ilia Kaikatsishvili |             33 |
+|             28 | Phil Kite             |      75.12 |                41 |       18 |                70 |      85.35 | Aitor Kitutu        |             29 |
+|             25 | Karl Chateau          |      88.28 |                73 |       19 |                90 |     109.61 | Senio Toleafoa      |             22 |
+|             22 | Charles-Henri Berguet |      57.8  |                13 |       20 |                78 |      93.63 | Jason-Collin Fraser |             22 |
+|             21 | Edoardo Iachizzi      |      82.87 |                62 |       21 |                82 |      99.77 | Kevin Noah          |             20 |
+|            nan | nan                   |     nan    |               nan |       22 |                54 |      81.41 | Thomas Zenon        |              4 |
 

@@ -34,36 +34,36 @@ Treating teams instead as an entity made up of the currently active players, I h
 Leinster by 11.6 on a neutral field
 
 There were 2 large changes in win probability in this match
-## Prediction without Player Minutes: Leinster by 15.2
+## Prediction without Player Minutes: Leinster by 14.9
 
 
-Leinster by 11.2 on a neutral pitch
+Leinster by 10.9 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             59 | Retshegofaditswe Nche      |      78.16 |                53 |        1 |                63 |      79.15 | Michael Milne        |             57 |
-|             59 | Mbongeni Mbonambi          |      77.31 |                53 |        2 |                89 |     100.34 | Dan Sheehan          |             58 |
-|             25 | Thomas Joubert du Toit     |      77.6  |                52 |        3 |                90 |      99.57 | Tadhg Furlong        |             40 |
-|             80 | Corne Rahl                 |      91.11 |                77 |        4 |                83 |      96.02 | Ryan Baird           |             80 |
-|             68 | Douw Gerbrandt Grobler     |      72.94 |                42 |        5 |                55 |      80.37 | Jason Howell Jenkins |             80 |
-|             80 | James Venter               |      85.43 |                68 |        6 |                46 |      76.04 | Max Deegan           |             80 |
-|             80 | Vincent Tshikaya Tshituka  |      81.75 |                60 |        7 |                59 |      79.53 | Scott Penny          |             36 |
-|             57 | Sikhumbuzo Notshe          |      84.82 |                66 |        8 |                92 |     107.23 | Caelan Doris         |             67 |
-|             80 | Grant Williams             |      74.59 |                45 |        9 |                49 |      76.71 | Luke McGrath         |             67 |
-|             57 | Boeta Chamberlain          |      69.73 |                33 |       10 |                47 |      76.16 | Harry Byrne          |             80 |
-|             80 | Makazole Mapimpi           |      79    |                56 |       11 |                44 |      73.61 | Dave Kearney         |             80 |
-|             56 | Ben Tapuai                 |      78.73 |                51 |       12 |                70 |      88.71 | Charlie Ngatai       |             57 |
-|             80 | Lukhanyo Am                |      79.49 |                53 |       13 |                41 |      75.9  | Ciaran Frawley       |             80 |
-|             72 | Marnus Potgieter           |      95.69 |                82 |       14 |                33 |      68.53 | Jordan Larmour       |             54 |
-|             80 | Aphelele Onke Okuhle Fassi |      72.74 |                48 |       15 |                96 |     123.34 | Hugo Keenan          |             80 |
-|             55 | Carlu Johann Sadie         |      80.63 |                53 |       16 |                98 |     127.65 | Jack Conan           |             44 |
-|             24 | Rohan Janse van Rensburg   |      79.34 |                55 |       17 |               nan |      89.09 | Cian Healy           |             40 |
-|             23 | Phendulani Buthelezi       |      79.35 |                55 |       18 |                46 |      75.35 | Liam Turner          |             26 |
-|             23 | Nevaldo Fleurs             |      91.4  |                71 |       19 |                63 |      85.33 | Ross Byrne           |             23 |
-|             21 | Ntuthuko Mchunu            |      74.86 |                45 |       20 |                70 |      85.93 | Andrew Porter        |             23 |
-|             21 | Fezokuhle Mbatha           |      83.52 |                66 |       21 |                51 |      77.1  | John McKee           |             22 |
-|             12 | Jeandre Labuschagne        |      59.57 |                16 |       22 |                80 |      94.56 | Jamison Gibson-Park  |             13 |
-|              8 | Cameron Robin Wright       |      70.49 |                34 |       23 |               nan |      80.29 | Joe McCarthy         |             13 |
+|             59 | Retshegofaditswe Nche      |      78.79 |                55 |        1 |                59 |      77.22 | Michael Milne        |             57 |
+|             59 | Mbongeni Mbonambi          |      77.57 |                53 |        2 |                89 |     100.3  | Dan Sheehan          |             58 |
+|             25 | Thomas Joubert du Toit     |      77    |                51 |        3 |                90 |     100.2  | Tadhg Furlong        |             40 |
+|             80 | Corne Rahl                 |      91.05 |                77 |        4 |                82 |      95.47 | Ryan Baird           |             80 |
+|             68 | Douw Gerbrandt Grobler     |      74.07 |                44 |        5 |                59 |      81.92 | Jason Howell Jenkins |             80 |
+|             80 | James Venter               |      87.74 |                72 |        6 |                47 |      76.08 | Max Deegan           |             80 |
+|             80 | Vincent Tshikaya Tshituka  |      80.32 |                58 |        7 |                46 |      73.7  | Scott Penny          |             36 |
+|             57 | Sikhumbuzo Notshe          |      80.81 |                55 |        8 |                93 |     107.63 | Caelan Doris         |             67 |
+|             80 | Grant Williams             |      77.16 |                50 |        9 |                49 |      76.6  | Luke McGrath         |             67 |
+|             57 | Boeta Chamberlain          |      70.34 |                34 |       10 |                61 |      85.41 | Harry Byrne          |             80 |
+|             80 | Makazole Mapimpi           |      80.44 |                57 |       11 |                49 |      75.8  | Dave Kearney         |             80 |
+|             56 | Ben Tapuai                 |      83.94 |                61 |       12 |                71 |      89.4  | Charlie Ngatai       |             57 |
+|             80 | Lukhanyo Am                |      79.81 |                54 |       13 |                41 |      76.01 | Ciaran Frawley       |             80 |
+|             72 | Marnus Potgieter           |      96.08 |                83 |       14 |                39 |      71.41 | Jordan Larmour       |             54 |
+|             80 | Aphelele Onke Okuhle Fassi |      76.66 |                55 |       15 |                96 |     124.39 | Hugo Keenan          |             80 |
+|             55 | Carlu Johann Sadie         |      81.22 |                54 |       16 |                99 |     129.53 | Jack Conan           |             44 |
+|             24 | Rohan Janse van Rensburg   |      78.21 |                52 |       17 |               nan |      89.54 | Cian Healy           |             40 |
+|             23 | Phendulani Buthelezi       |      79.17 |                53 |       18 |                49 |      77.47 | Liam Turner          |             26 |
+|             23 | Nevaldo Fleurs             |      92.04 |                72 |       19 |                65 |      86.61 | Ross Byrne           |             23 |
+|             21 | Ntuthuko Mchunu            |      77.32 |                49 |       20 |                66 |      83.62 | Andrew Porter        |             23 |
+|             21 | Fezokuhle Mbatha           |      88.86 |                76 |       21 |                59 |      80.74 | John McKee           |             22 |
+|             12 | Jeandre Labuschagne        |      59.74 |                17 |       22 |                75 |      91.43 | Jamison Gibson-Park  |             13 |
+|              8 | Cameron Robin Wright       |      70.26 |                34 |       23 |               nan |      80.36 | Joe McCarthy         |             13 |
 

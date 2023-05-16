@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Chiefs by 17.5
+## Prediction with Player Minutes: Chiefs by 16.9
 
 
-Chiefs by 13.5 on a neutral field
+Chiefs by 12.9 on a neutral field
 
 There were 10 large changes in win probability in this match
-## Prediction without Player Minutes: Chiefs by 17.7
+## Prediction without Player Minutes: Chiefs by 17.3
 
 
-Chiefs by 13.7 on a neutral pitch
+Chiefs by 13.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:-----------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             37 | George Blake     |      84.72 |               nan |        1 |                61 |      83.59 | Jared Proffit          |             52 |
-|             37 | Richie Asiata    |     105.1  |               nan |        2 |                93 |     106.87 | Bradley Slater         |             57 |
-|             37 | Peni Ravai       |      83.89 |                58 |        3 |                91 |     101.1  | John Ryan              |             64 |
-|             74 | Angus Blyth      |     106.33 |                91 |        4 |                48 |      75.29 | Tupou Vaa'i            |             80 |
-|             80 | Connor Vest      |      86.27 |                69 |        5 |                81 |      95.06 | Josh Lord              |             13 |
-|             80 | Liam Wright      |     107.78 |                92 |        6 |                94 |     110.27 | Samipeni Finau         |             80 |
-|             80 | Fraser McReight  |      68.66 |                33 |        7 |                99 |     133.27 | Luke Jacobson          |             80 |
-|             52 | Seru Uru         |      75    |                49 |        8 |               nan |      79.03 | Simon Parker           |             62 |
-|             80 | Tate McDermott   |      95.78 |                81 |        9 |                88 |     104.88 | Cortez Ratima          |             63 |
-|             41 | Lawson Creighton |      90.34 |                71 |       10 |                74 |      92.32 | Damian McKenzie        |             80 |
-|             80 | Mac Grealy       |      83.64 |               nan |       11 |                91 |     104.81 | Etene Nanai-Seturo     |             80 |
-|             78 | James O'Connor   |      81.28 |                56 |       12 |                79 |      95.96 | Rameka Poihipi         |             80 |
-|             80 | Filipo Daugunu   |     102.4  |                89 |       13 |                97 |     120.91 | Anton Lienert-Brown    |             64 |
-|             80 | Suliasi Vunivalu |      94.2  |                80 |       14 |                81 |      95.58 | Emoni Narawa           |             80 |
-|             80 | Jock Campbell    |      85.53 |                68 |       15 |                77 |      95.56 | Shaun Stevenson        |             52 |
-|             43 | Matt Faessler    |      78.05 |                54 |       16 |                73 |      88.68 | Tyrone Thompson        |             23 |
-|             43 | Sef Fa'agase     |      84.61 |                67 |       17 |                85 |      95.14 | Ollie Norris           |             28 |
-|             43 | Zane Nonggorr    |      87.95 |                74 |       18 |               nan |      93.36 | Atu Moli               |             16 |
-|              6 | Ryan Smith       |      89.77 |                75 |       19 |                63 |      83.03 | Manaaki Selby-Rickit   |             67 |
-|             28 | Harry Wilson     |      99.16 |                86 |       20 |                91 |     106.33 | Naitoa Ah Kuoi         |             18 |
-|              0 | Louis Werchon    |      85.34 |               nan |       21 |                79 |      93.93 | Te Toiroa Tahuriorangi |             17 |
-|             39 | Tom Lynagh       |      92.59 |                71 |       22 |                79 |      96.97 | Josh Ioane             |             28 |
-|              2 | Patrick James    |      93.14 |               nan |       23 |                87 |     103.53 | Alex Nankivell         |             16 |
+|             37 | George Blake     |      84.29 |               nan |        1 |                58 |      82.28 | Jared Proffit          |             52 |
+|             37 | Richie Asiata    |     102.89 |               nan |        2 |                92 |     105.57 | Bradley Slater         |             57 |
+|             37 | Peni Ravai       |      84.02 |                59 |        3 |                90 |     101.23 | John Ryan              |             64 |
+|             74 | Angus Blyth      |     105.72 |                91 |        4 |                47 |      75.1  | Tupou Vaa'i            |             80 |
+|             80 | Connor Vest      |      72.87 |                41 |        5 |                81 |      95.08 | Josh Lord              |             13 |
+|             80 | Liam Wright      |     110.41 |                93 |        6 |                92 |     106.79 | Samipeni Finau         |             80 |
+|             80 | Fraser McReight  |      67.94 |                32 |        7 |                99 |     133.3  | Luke Jacobson          |             80 |
+|             52 | Seru Uru         |      75.92 |                51 |        8 |               nan |      79.95 | Simon Parker           |             62 |
+|             80 | Tate McDermott   |      97.62 |                82 |        9 |                88 |     104.57 | Cortez Ratima          |             63 |
+|             41 | Lawson Creighton |      88.97 |                70 |       10 |                66 |      87.22 | Damian McKenzie        |             80 |
+|             80 | Mac Grealy       |      83.3  |               nan |       11 |                87 |     100.69 | Etene Nanai-Seturo     |             80 |
+|             78 | James O'Connor   |      80.54 |                55 |       12 |                77 |      95.2  | Rameka Poihipi         |             80 |
+|             80 | Filipo Daugunu   |     103    |                90 |       13 |                97 |     119.82 | Anton Lienert-Brown    |             64 |
+|             80 | Suliasi Vunivalu |      91.82 |                77 |       14 |                77 |      91.98 | Emoni Narawa           |             80 |
+|             80 | Jock Campbell    |      87.57 |                71 |       15 |                76 |      94.32 | Shaun Stevenson        |             52 |
+|             43 | Matt Faessler    |      77.78 |                54 |       16 |                75 |      89.35 | Tyrone Thompson        |             23 |
+|             43 | Sef Fa'agase     |      85.22 |                68 |       17 |                84 |      94.21 | Ollie Norris           |             28 |
+|             43 | Zane Nonggorr    |      88.98 |                76 |       18 |               nan |      92.66 | Atu Moli               |             16 |
+|              6 | Ryan Smith       |      86.45 |                69 |       19 |                65 |      84.34 | Manaaki Selby-Rickit   |             67 |
+|             28 | Harry Wilson     |      99.3  |                86 |       20 |                91 |     105.19 | Naitoa Ah Kuoi         |             18 |
+|              0 | Louis Werchon    |      84.65 |               nan |       21 |                79 |      94.8  | Te Toiroa Tahuriorangi |             17 |
+|             39 | Tom Lynagh       |      92.52 |                71 |       22 |                80 |      98.36 | Josh Ioane             |             28 |
+|              2 | Patrick James    |      93.2  |               nan |       23 |                90 |     106.41 | Alex Nankivell         |             16 |
 

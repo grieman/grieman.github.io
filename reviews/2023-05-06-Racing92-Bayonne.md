@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Racing 92 by 2.8
+## Prediction with Player Minutes: Racing 92 by 7.8
 
 
-Bayonne by 1.2 on a neutral field
+Racing 92 by 3.8 on a neutral field
 
-There were 6 large changes in win probability in this match
-## Prediction without Player Minutes: Racing 92 by 0.7
+There were 8 large changes in win probability in this match
+## Prediction without Player Minutes: Racing 92 by 5.6
 
 
-Bayonne by 3.3 on a neutral pitch
+Racing 92 by 1.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             48 | Matis Perchaud        |      85.92 |                79 |        1 |                 6 |      50.03 | Guram Gogichashvili   |             50 |
-|             55 | Facundo Bosch         |      66.63 |                31 |        2 |                24 |      62.24 | Janick Tarrit         |             50 |
-|             48 | Pascal Cotet          |      75.03 |                47 |        3 |                53 |      78.11 | Trevor Ntando Nyakane |             54 |
-|             55 | Denis Marchois        |      70.28 |                37 |        4 |                43 |      73.23 | Anthime Hemery        |             52 |
-|             80 | Thomas Ceyte          |     106.51 |                91 |        5 |                25 |      63.94 | Fabien Sanconnie      |             80 |
-|             80 | Pierre Huguet         |      80.84 |                59 |        6 |                10 |      53.6  | Ibrahim Diallo        |             59 |
-|             80 | Baptiste Heguy        |      58.22 |                16 |        7 |                48 |      75.89 | Baptiste Chouzenoux   |             80 |
-|             59 | Uzair Cassiem         |      69.99 |                32 |        8 |                16 |      65.01 | Kitione Kamikamica    |             80 |
-|             80 | Maxime Machenaud      |      74.17 |                44 |        9 |                69 |      87.09 | Nolann Le Garrec      |             71 |
-|             80 | Camille Lopez         |      58.35 |                14 |       10 |                90 |     105.2  | Finn Russell          |             80 |
-|             32 | Rémy Baget            |      76.73 |                51 |       11 |                69 |      86.2  | Juan Imhoff           |             80 |
-|             80 | Guillaume Martocq     |      70.26 |                35 |       12 |                29 |      67.29 | Henry Chavancy        |             65 |
-|             55 | Sireli Maqala         |     101.34 |                85 |       13 |                77 |      94.41 | Gael Fickou           |             80 |
-|             80 | Marland Yarde         |      62.05 |                26 |       14 |                24 |      63.58 | Vinaya Habosi         |             80 |
-|             59 | Tom Spring            |      67.53 |                29 |       15 |                41 |      74.1  | Max Spring            |             65 |
-|             48 | Arthur Duhau          |      72.45 |               nan |       16 |                43 |      76.15 | Eddy Ben Arous        |             30 |
-|             32 | Quentin Béthune       |      81.05 |                67 |       17 |               nan |      69.32 | Camille Chat          |             30 |
-|             32 | Pieter Ernst Scholtz  |      71.07 |                38 |       18 |                38 |      67.89 | Cameron Woki          |             28 |
-|             25 | Torsten van Jaarsveld |      81.64 |               nan |       19 |                28 |      68.23 | Ali Oz                |             26 |
-|             25 | Manuel Leindekar      |      80.82 |               nan |       20 |                53 |      77.99 | Wenceslas Lauret      |             21 |
-|             25 | Peyo Muscarditz       |      80.96 |                56 |       21 |                28 |      66.32 | Warrick Wayne Gelant  |             15 |
-|             21 | Thomas Dolhagaray     |      85.63 |                67 |       22 |                59 |      79.83 | Francis Saili         |             15 |
-|             21 | Olajuwon Noah         |      72.74 |               nan |       23 |                32 |      68.96 | Antoine Gibert        |              9 |
+|             48 | Matis Perchaud        |      83.4  |                79 |        1 |                 7 |      51.37 | Guram Gogichashvili   |             50 |
+|             55 | Facundo Bosch         |      61.29 |                21 |        2 |                20 |      60.29 | Janick Tarrit         |             50 |
+|             48 | Pascal Cotet          |      75.02 |                46 |        3 |                49 |      76.44 | Trevor Ntando Nyakane |             54 |
+|             55 | Denis Marchois        |      69.95 |                35 |        4 |                44 |      74.3  | Anthime Hemery        |             52 |
+|             80 | Thomas Ceyte          |     101.89 |                88 |        5 |                22 |      63.1  | Fabien Sanconnie      |             80 |
+|             80 | Pierre Huguet         |      72.92 |                42 |        6 |                14 |      56.99 | Ibrahim Diallo        |             59 |
+|             80 | Baptiste Heguy        |      54.95 |                12 |        7 |                45 |      74.52 | Baptiste Chouzenoux   |             80 |
+|             59 | Uzair Cassiem         |      63.57 |                22 |        8 |                12 |      60.91 | Kitione Kamikamica    |             80 |
+|             80 | Maxime Machenaud      |      65.61 |                25 |        9 |                71 |      88.29 | Nolann Le Garrec      |             71 |
+|             80 | Camille Lopez         |      52.57 |                 9 |       10 |                92 |     106.16 | Finn Russell          |             80 |
+|             32 | Rémy Baget            |      71.69 |                40 |       11 |                72 |      87.8  | Juan Imhoff           |             80 |
+|             80 | Guillaume Martocq     |      74.35 |                43 |       12 |                38 |      71.97 | Henry Chavancy        |             65 |
+|             55 | Sireli Maqala         |     104.86 |                89 |       13 |                80 |      97.71 | Gael Fickou           |             80 |
+|             80 | Marland Yarde         |      62.87 |                27 |       14 |                22 |      62.26 | Vinaya Habosi         |             80 |
+|             59 | Tom Spring            |      62.03 |                20 |       15 |                35 |      70.63 | Max Spring            |             65 |
+|             48 | Arthur Duhau          |      69.54 |               nan |       16 |                41 |      75.3  | Eddy Ben Arous        |             30 |
+|             32 | Quentin Béthune       |      74.75 |                52 |       17 |               nan |      69.43 | Camille Chat          |             30 |
+|             32 | Pieter Ernst Scholtz  |      68.87 |                31 |       18 |                39 |      68.61 | Cameron Woki          |             28 |
+|             25 | Torsten van Jaarsveld |      81.08 |               nan |       19 |                30 |      68.49 | Ali Oz                |             26 |
+|             25 | Manuel Leindekar      |      73.97 |               nan |       20 |                49 |      76.53 | Wenceslas Lauret      |             21 |
+|             25 | Peyo Muscarditz       |      74.11 |                42 |       21 |                31 |      67.42 | Warrick Wayne Gelant  |             15 |
+|             21 | Thomas Dolhagaray     |      87.47 |                72 |       22 |                57 |      78.75 | Francis Saili         |             15 |
+|             21 | Olajuwon Noah         |      73.07 |               nan |       23 |                35 |      70.08 | Antoine Gibert        |              9 |
 

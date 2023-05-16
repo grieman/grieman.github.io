@@ -28,39 +28,39 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Yacare XV by 0.6
+## Prediction with Player Minutes: Yacare XV by 1.3
 
 
-Yacare XV by 4.6 on a neutral field
+Yacare XV by 5.3 on a neutral field
 
 There were 9 large changes in win probability in this match
-## Prediction without Player Minutes: Yacare XV by 1.0
+## Prediction without Player Minutes: Yacare XV by 1.7
 
 
-Yacare XV by 5.0 on a neutral pitch
+Yacare XV by 5.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             56 | Lucas Noguera Paz      |      53.79 |                 9 |        1 |                28 |      66.97 | Payton Telea-Ilalio      |             65 |
-|             56 | Mariano Muntaner       |      37.77 |                 2 |        2 |                52 |      77.08 | Diego Fortuny            |             80 |
-|             67 | Facundo Pomponio       |      68.59 |                31 |        3 |                 7 |      52.87 | Ma'ake Muti              |             80 |
-|             70 | Lucas Sommer           |      88.71 |                73 |        4 |                 7 |      49.53 | Diego Magno              |             80 |
-|             80 | Mariano Garcete Elli   |      51.4  |                 8 |        5 |                 0 |      31.26 | Will Crawford            |             65 |
-|             80 | Felipe Villagran       |      45.6  |                 5 |        6 |                 6 |      49.46 | Shawn Clark              |             80 |
-|             80 | Felipe Puertas         |      86.37 |                70 |        7 |               nan |      50.82 | Mo Vainikolo             |             47 |
-|             80 | Juan Cruz Perez Rachel |      36.15 |                 2 |        8 |                24 |      63.8  | Ronan Murphy             |             80 |
-|             80 | Ignacio Inchauspe      |      81.65 |                58 |        9 |                 1 |      41.28 | Martin Landajo           |             56 |
-|             80 | Federico Cacciabúe     |      42.58 |                 4 |       10 |                10 |      52.12 | Lucas Gonzalez Amorosino |             80 |
-|             80 | Juan Daniel Gonzalez   |      28.67 |                 1 |       11 |                 5 |      44.42 | Ramiro Moyano            |             80 |
-|             80 | Sebastian Urbieta      |      66.45 |                28 |       12 |                16 |      59.01 | Aki Pulu                 |             80 |
-|             80 | Ramiro Amarilla        |      55.31 |                12 |       13 |                 8 |      50.48 | Watson Filikitonga       |             80 |
-|             80 | Arturo Lopez           |      55.42 |                12 |       14 |                 6 |      46.69 | Ryan James               |             80 |
-|             17 | Tomas McCall           |      44.85 |                 7 |       15 |                14 |      57.13 | Line Latu                |             80 |
-|             63 | Federico Gauna         |      57.78 |                15 |       16 |                 4 |      44.04 | Mikey Grandy             |             33 |
-|             24 | Julian Martin          |      38.02 |                 1 |       17 |                42 |      73.45 | Ethan McVeigh            |             24 |
-|             24 | Emilio Gorostiaga      |      62.22 |                22 |       18 |               nan |      54.39 | Sebastian Otero          |             15 |
-|             13 | Rolando Edgar Portillo |      46.78 |               nan |       19 |               nan |      48.84 | Tavius Sykora-Matthess   |             15 |
-|             10 | Ignacio Martinez       |      43.11 |                 3 |       20 |               nan |     nan    | nan                      |            nan |
+|             56 | Lucas Noguera Paz      |      53.21 |                 8 |        1 |                28 |      67.41 | Payton Telea-Ilalio      |             65 |
+|             56 | Mariano Muntaner       |      38.42 |                 2 |        2 |                51 |      76.21 | Diego Fortuny            |             80 |
+|             67 | Facundo Pomponio       |      68.97 |                31 |        3 |                10 |      54.98 | Ma'ake Muti              |             80 |
+|             70 | Lucas Sommer           |      94.07 |                81 |        4 |                 6 |      48.05 | Diego Magno              |             80 |
+|             80 | Mariano Garcete Elli   |      51.52 |                 8 |        5 |                 0 |      30.55 | Will Crawford            |             65 |
+|             80 | Felipe Villagran       |      46.74 |                 5 |        6 |                 6 |      49.69 | Shawn Clark              |             80 |
+|             80 | Felipe Puertas         |      89.32 |                74 |        7 |               nan |      50.95 | Mo Vainikolo             |             47 |
+|             80 | Juan Cruz Perez Rachel |      35.82 |                 2 |        8 |                27 |      65.37 | Ronan Murphy             |             80 |
+|             80 | Ignacio Inchauspe      |      81.16 |                58 |        9 |                 1 |      39.35 | Martin Landajo           |             56 |
+|             80 | Federico Cacciabúe     |      42.73 |                 4 |       10 |                 9 |      51.35 | Lucas Gonzalez Amorosino |             80 |
+|             80 | Juan Daniel Gonzalez   |      29.82 |                 1 |       11 |                 5 |      45.33 | Ramiro Moyano            |             80 |
+|             80 | Sebastian Urbieta      |      66.49 |                27 |       12 |                17 |      59.34 | Aki Pulu                 |             80 |
+|             80 | Ramiro Amarilla        |      55.32 |                12 |       13 |                 8 |      50.96 | Watson Filikitonga       |             80 |
+|             80 | Arturo Lopez           |      55.44 |                12 |       14 |                 6 |      48.12 | Ryan James               |             80 |
+|             17 | Tomas McCall           |      44.55 |                 5 |       15 |                14 |      56.99 | Line Latu                |             80 |
+|             63 | Federico Gauna         |      57.78 |                15 |       16 |                 5 |      45.26 | Mikey Grandy             |             33 |
+|             24 | Julian Martin          |      37.12 |                 1 |       17 |                43 |      73.51 | Ethan McVeigh            |             24 |
+|             24 | Emilio Gorostiaga      |      62.79 |                22 |       18 |               nan |      53.88 | Sebastian Otero          |             15 |
+|             13 | Rolando Edgar Portillo |      46.58 |               nan |       19 |               nan |      48.93 | Tavius Sykora-Matthess   |             15 |
+|             10 | Ignacio Martinez       |      42.59 |                 3 |       20 |               nan |     nan    | nan                      |            nan |
 

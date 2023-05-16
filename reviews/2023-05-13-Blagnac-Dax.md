@@ -28,34 +28,34 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Dax by 1.8
+## Prediction with Player Minutes: Dax by 2.4
 
 
-Dax by 5.8 on a neutral field
+Dax by 6.4 on a neutral field
 
 There were 4 large changes in win probability in this match
-## Prediction without Player Minutes: Dax by 1.8
+## Prediction without Player Minutes: Dax by 2.4
 
 
-Dax by 5.8 on a neutral pitch
+Dax by 6.4 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             80 | Louis Mary        |      92.67 |                82 |        1 |                73 |      87.8  | Jean-Baptiste Martin |             80 |
-|             80 | Louis Barrere     |      91.74 |                83 |        2 |                78 |      90.34 | Gabin Villerouge     |             80 |
-|             80 | Thibaud Dréan     |      87.84 |                74 |        3 |                38 |      71.4  | Fabien Lorenzon      |             80 |
-|             80 | Mattieu Bidau     |      62.56 |                22 |        4 |                86 |      98.71 | Vincent Mutel        |             80 |
-|             80 | Étienne Loiret    |      83.43 |                63 |        5 |                42 |      72.78 | Lilian Rousset       |             80 |
-|             80 | Arnaud Aletti     |     103.44 |                89 |        6 |                78 |      92.56 | Nikita Bekov         |             80 |
-|             80 | Jean Despiau      |      75.05 |                43 |        7 |                56 |      79.56 | Benjamin Collet      |             80 |
-|             80 | Brice Ferrer      |      80.17 |                54 |        8 |                83 |      96.82 | Mathieu Vachon       |             80 |
-|             80 | Simon Garrouteigt |      90.18 |                73 |        9 |                56 |      79.38 | Paul Ravier          |             80 |
-|             80 | Hugo Cerisier     |      83.34 |                59 |       10 |                79 |      95.5  | Ugo Seunes           |             80 |
-|             80 | Théo Gatelier     |      78.37 |                55 |       11 |                76 |      90.28 | Thibault Moleana     |             80 |
-|             80 | Ilikena Bolakoro  |      79.56 |                53 |       12 |                32 |      69.17 | Aurelien Labau       |             80 |
-|             80 | Rodrigo Marta     |      70.11 |                34 |       13 |                11 |      54.55 | Clément Vareilles    |             80 |
-|             80 | Guillaume Bouche  |     109.82 |                91 |       14 |                24 |      63.39 | Lukas Doyhenard      |             80 |
-|             80 | Théo Duprat       |      91.61 |                73 |       15 |                51 |      79.44 | Antoine Renaud       |             80 |
+|             80 | Louis Mary        |      95.43 |                86 |        1 |                73 |      87.88 | Jean-Baptiste Martin |             80 |
+|             80 | Louis Barrere     |      90.68 |                81 |        2 |                79 |      91.33 | Gabin Villerouge     |             80 |
+|             80 | Thibaud Dréan     |      89.63 |                77 |        3 |                39 |      72.27 | Fabien Lorenzon      |             80 |
+|             80 | Mattieu Bidau     |      68.72 |                32 |        4 |                85 |      98.3  | Vincent Mutel        |             80 |
+|             80 | Étienne Loiret    |      81.65 |                60 |        5 |                44 |      74.36 | Lilian Rousset       |             80 |
+|             80 | Arnaud Aletti     |     107.54 |                92 |        6 |                78 |      92.2  | Nikita Bekov         |             80 |
+|             80 | Jean Despiau      |      75.21 |                44 |        7 |                58 |      79.92 | Benjamin Collet      |             80 |
+|             80 | Brice Ferrer      |      80.05 |                55 |        8 |                82 |      96.22 | Mathieu Vachon       |             80 |
+|             80 | Simon Garrouteigt |      84.91 |                66 |        9 |                56 |      79.47 | Paul Ravier          |             80 |
+|             80 | Hugo Cerisier     |      80.98 |                54 |       10 |                82 |      97.91 | Ugo Seunes           |             80 |
+|             80 | Théo Gatelier     |      83.09 |                63 |       11 |                73 |      88.34 | Thibault Moleana     |             80 |
+|             80 | Ilikena Bolakoro  |      79.88 |                53 |       12 |                33 |      69.7  | Aurelien Labau       |             80 |
+|             80 | Rodrigo Marta     |      70.26 |                34 |       13 |                14 |      56.88 | Clément Vareilles    |             80 |
+|             80 | Guillaume Bouche  |     111.97 |                91 |       14 |                24 |      63.52 | Lukas Doyhenard      |             80 |
+|             80 | Théo Duprat       |      94.15 |                76 |       15 |                56 |      82.34 | Antoine Renaud       |             80 |
 

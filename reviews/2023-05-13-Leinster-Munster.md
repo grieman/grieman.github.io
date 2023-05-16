@@ -28,34 +28,34 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Leinster by 16.9
+## Prediction with Player Minutes: Leinster by 17.0
 
 
-Leinster by 12.9 on a neutral field
+Leinster by 13.0 on a neutral field
 
 There were 7 large changes in win probability in this match
-## Prediction without Player Minutes: Leinster by 16.9
+## Prediction without Player Minutes: Leinster by 17.0
 
 
-Leinster by 12.9 on a neutral pitch
+Leinster by 13.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player     |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:----------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             80 | Jeremy Loughman |      89.54 |                77 |        1 |                64 |      82.76 | Michael Milne        |             80 |
-|             80 | Diarmuid Barron |      86.41 |                72 |        2 |                94 |     109.27 | Ronan Kelleher       |             80 |
-|             80 | Stephen Archer  |     102.14 |                91 |        3 |                54 |      79.06 | Michael Ala'alatoa   |             80 |
-|             80 | Jean Kleyn      |      89.5  |                75 |        4 |                84 |      96.92 | Ryan Baird           |             80 |
-|             80 | Tadhg Beirne    |      86.72 |                71 |        5 |                68 |      85.45 | Jason Howell Jenkins |             80 |
-|             80 | Peter O'Mahony  |      62.97 |                22 |        6 |                59 |      81.11 | Max Deegan           |             80 |
-|             80 | John Hodnett    |      75.8  |                34 |        7 |                63 |      83.08 | Will Connors         |             80 |
-|             80 | Gavin Coombes   |      87.59 |                70 |        8 |                99 |     128.14 | Jack Conan           |             80 |
-|             80 | Craig Casey     |      97.01 |                81 |        9 |                59 |      80.96 | Luke McGrath         |             80 |
-|             80 | Ben Healy       |      92.2  |               nan |       10 |                55 |      81.23 | Harry Byrne          |             80 |
-|             80 | Sean French     |      58.21 |                16 |       11 |                56 |      78.69 | Dave Kearney         |             80 |
-|             80 | Jack Crowley    |      81.85 |                56 |       12 |                74 |      92.32 | Charlie Ngatai       |             80 |
-|             80 | Antoine Frisch  |      93.2  |                75 |       13 |                99 |     148.38 | Robbie Henshaw       |             80 |
-|             80 | Keith Earls     |      76.4  |               nan |       14 |                51 |      76.57 | Tommy O'Brien        |             80 |
-|             80 | Michael Haley   |      84.48 |                60 |       15 |                73 |      88.88 | Jimmy O'Brien        |             80 |
+|             80 | Jeremy Loughman |      90.15 |                78 |        1 |                60 |      80.83 | Michael Milne        |             80 |
+|             80 | Diarmuid Barron |      90.17 |                77 |        2 |                94 |     109.06 | Ronan Kelleher       |             80 |
+|             80 | Stephen Archer  |      92.92 |                82 |        3 |                50 |      77.31 | Michael Ala'alatoa   |             80 |
+|             80 | Jean Kleyn      |      85.88 |                68 |        4 |                83 |      96.37 | Ryan Baird           |             80 |
+|             80 | Tadhg Beirne    |      86.85 |                70 |        5 |                71 |      86.99 | Jason Howell Jenkins |             80 |
+|             80 | Peter O'Mahony  |      64.42 |                25 |        6 |                60 |      81.15 | Max Deegan           |             80 |
+|             80 | John Hodnett    |      73.56 |                29 |        7 |                50 |      76.69 | Will Connors         |             80 |
+|             80 | Gavin Coombes   |      88.84 |                73 |        8 |                99 |     130.02 | Jack Conan           |             80 |
+|             80 | Craig Casey     |      97.5  |                81 |        9 |                58 |      80.84 | Luke McGrath         |             80 |
+|             80 | Ben Healy       |      97.59 |               nan |       10 |                72 |      90.48 | Harry Byrne          |             80 |
+|             80 | Sean French     |      59.5  |                18 |       11 |                58 |      80.87 | Dave Kearney         |             80 |
+|             80 | Jack Crowley    |      82.87 |                58 |       12 |                75 |      93.01 | Charlie Ngatai       |             80 |
+|             80 | Antoine Frisch  |      98.15 |                80 |       13 |                99 |     146.3  | Robbie Henshaw       |             80 |
+|             80 | Keith Earls     |      77.23 |               nan |       14 |                49 |      76.11 | Tommy O'Brien        |             80 |
+|             80 | Michael Haley   |      83.79 |                60 |       15 |                79 |      92.92 | Jimmy O'Brien        |             80 |
 
