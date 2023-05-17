@@ -28,34 +28,34 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Valence Romans Drome Rugby by 10.8
+## Prediction with Player Minutes: Valence Romans Drome Rugby by 11.8
 
 
-Valence Romans Drome Rugby by 14.8 on a neutral field
+Valence Romans Drome Rugby by 15.8 on a neutral field
 
 There were 1 large changes in win probability in this match
-## Prediction without Player Minutes: Valence Romans Drome Rugby by 10.8
+## Prediction without Player Minutes: Valence Romans Drome Rugby by 11.8
 
 
-Valence Romans Drome Rugby by 14.8 on a neutral pitch
+Valence Romans Drome Rugby by 15.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                   |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                 |   Home Minutes |
 |---------------:|:------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------|---------------:|
-|             80 | Sami Zouhair                  |      74.97 |                45 |        1 |                73 |      85.16 | Antoine Soave               |             80 |
-|             80 | Dorian Marco Pena             |     106.48 |                94 |        2 |                68 |      84.61 | Reinach Venter              |             80 |
-|             80 | John Henry Fincham            |      84.67 |                73 |        3 |                35 |      70.22 | Dimitri Tchapnga            |             80 |
-|             80 | Darrell Dyer                  |     115.6  |                95 |        4 |                32 |      68.6  | Pierre Roussel              |             80 |
-|             80 | John Adriaan (Ian) Groenewald |      71.79 |                39 |        5 |                24 |      63.9  | Jacques Jacobus Engelbrecht |             80 |
-|             80 | Alexis Armary                 |      97.39 |                84 |        6 |                41 |      72.15 | Vincent Calas               |             80 |
-|             80 | Sven Bernat Girlando          |      95.48 |                82 |        7 |                84 |      96.96 | Lucas Guillaume             |             80 |
-|             80 | Ioane Iashagashvili           |      82.93 |                68 |        8 |                37 |      70.81 | Camille Jarreau             |             80 |
-|             80 | Tim Menzel                    |      49.99 |                 7 |        9 |                12 |      56.16 | Théo Vidal                  |             80 |
-|             80 | Joris Moura                   |     104.44 |                89 |       10 |                72 |      90.54 | Benjamin Pehau              |             80 |
-|             80 | Adam Vargas                   |      89.12 |                74 |       11 |                28 |      65.76 | Luca Sperandio              |             80 |
-|             80 | Ben Neiceru                   |     110.05 |                93 |       12 |                99 |     133.87 | Baptiste Couchinave         |             80 |
-|             80 | Charles Bouldoire             |      73.89 |                49 |       13 |                21 |      62.32 | James Haydn Tedder          |             80 |
-|             80 | Mason Emerson                 |      78.26 |                54 |       14 |                43 |      73.03 | Charly Vicenzo Trussardi    |             80 |
-|             80 | Quentin Gobet                 |      83.74 |                60 |       15 |                45 |      76.55 | Enzo Marzocca               |             80 |
+|             80 | Sami Zouhair                  |      75.66 |                47 |        1 |                71 |      84.35 | Antoine Soave               |             80 |
+|             80 | Dorian Marco Pena             |     107.15 |                94 |        2 |                63 |      82.64 | Reinach Venter              |             80 |
+|             80 | John Henry Fincham            |      85.24 |                75 |        3 |                35 |      70.53 | Dimitri Tchapnga            |             80 |
+|             80 | Darrell Dyer                  |     118.21 |                96 |        4 |                33 |      68.8  | Pierre Roussel              |             80 |
+|             80 | John Adriaan (Ian) Groenewald |      71.92 |                39 |        5 |                24 |      63.83 | Jacques Jacobus Engelbrecht |             80 |
+|             80 | Alexis Armary                 |      98.06 |                85 |        6 |                34 |      69.15 | Vincent Calas               |             80 |
+|             80 | Sven Bernat Girlando          |      96.47 |                83 |        7 |                78 |      92.56 | Lucas Guillaume             |             80 |
+|             80 | Ioane Iashagashvili           |      83.67 |                69 |        8 |                39 |      71.72 | Camille Jarreau             |             80 |
+|             80 | Tim Menzel                    |      48.21 |                 6 |        9 |                15 |      57.53 | Théo Vidal                  |             80 |
+|             80 | Joris Moura                   |     104.2  |                89 |       10 |                81 |      96.38 | Benjamin Pehau              |             80 |
+|             80 | Adam Vargas                   |      87.61 |                72 |       11 |                29 |      66.21 | Luca Sperandio              |             80 |
+|             80 | Ben Neiceru                   |     112.78 |                94 |       12 |                99 |     135.63 | Baptiste Couchinave         |             80 |
+|             80 | Charles Bouldoire             |      74.5  |                50 |       13 |                21 |      62.35 | James Haydn Tedder          |             80 |
+|             80 | Mason Emerson                 |      78.88 |                55 |       14 |                43 |      72.99 | Charly Vicenzo Trussardi    |             80 |
+|             80 | Quentin Gobet                 |      83.81 |                58 |       15 |                39 |      73.84 | Enzo Marzocca               |             80 |
 

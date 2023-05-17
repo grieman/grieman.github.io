@@ -28,34 +28,34 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Connacht by 3.9
+## Prediction with Player Minutes: Connacht by 3.6
 
 
-Connacht by 7.9 on a neutral field
+Connacht by 7.6 on a neutral field
 
 There were 11 large changes in win probability in this match
-## Prediction without Player Minutes: Connacht by 3.9
+## Prediction without Player Minutes: Connacht by 3.6
 
 
-Connacht by 7.9 on a neutral pitch
+Connacht by 7.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                  |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------------|---------------:|
-|             80 | Dennis Buckley        |      90.11 |                78 |        1 |                63 |      82.66 | Steven Kitshoff              |             80 |
-|             80 | David Heffernan       |      78.15 |                54 |        2 |                66 |      83.83 | Joseph Dweba                 |             80 |
-|             80 | Finlay Bealham        |     101.9  |                91 |        3 |                61 |      81.49 | Jozua Francois Malherbe      |             80 |
-|             80 | Joshua Daniel Murphy  |      89.42 |                74 |        4 |                86 |     101.1  | Ben-Jason Dixon              |             80 |
-|             80 | Niall Murray          |      86.49 |                69 |        5 |                57 |      79.92 | Ruben van Heerden            |             80 |
-|             80 | Shamus Hurley-Langton |      86.65 |                70 |        6 |                30 |      69.55 | Willem Gerhardus Engelbrecht |             80 |
-|             80 | Conor Oliver          |      90.62 |                76 |        7 |                67 |      84.42 | Hacjivah Dayimani            |             80 |
-|             80 | Cian Prendergast      |      86.39 |                68 |        8 |                60 |      82.47 | Evan Roos                    |             80 |
-|             80 | Caolin Blade          |      84.29 |                64 |        9 |                60 |      82.26 | Herschel Jerome Jantjies     |             80 |
-|             80 | Jack Carty            |      98.73 |                83 |       10 |                68 |      88.82 | Immanuel Libbok              |             80 |
-|             80 | Mack Hansen           |      76.03 |                50 |       11 |                61 |      82.02 | Leolin Lucien Zas            |             80 |
-|             80 | Bundee Aki            |     126.56 |                98 |       12 |                75 |      92.71 | Daniel Michael du Plessis    |             80 |
-|             80 | Thomas Farrell        |      91.01 |                72 |       13 |                20 |      61.3  | Adriaan Ruhan Nel            |             80 |
-|             80 | John Porch            |      82.29 |                62 |       14 |                95 |     112.54 | Angelo Davids                |             80 |
-|             80 | Tiernan O'Halloran    |      83.26 |                57 |       15 |                66 |      87.81 | Damian Willemse              |             80 |
+|             80 | Dennis Buckley        |      88.35 |                75 |        1 |                63 |      82.82 | Steven Kitshoff              |             80 |
+|             80 | David Heffernan       |      78.71 |                56 |        2 |                64 |      83.5  | Joseph Dweba                 |             80 |
+|             80 | Finlay Bealham        |     101.13 |                91 |        3 |                60 |      81.17 | Jozua Francois Malherbe      |             80 |
+|             80 | Joshua Daniel Murphy  |      88.89 |                73 |        4 |                87 |     102.39 | Ben-Jason Dixon              |             80 |
+|             80 | Niall Murray          |      86.48 |                69 |        5 |                56 |      79.73 | Ruben van Heerden            |             80 |
+|             80 | Shamus Hurley-Langton |      88.54 |                73 |        6 |                32 |      69.94 | Willem Gerhardus Engelbrecht |             80 |
+|             80 | Conor Oliver          |      94.07 |                80 |        7 |                67 |      84.82 | Hacjivah Dayimani            |             80 |
+|             80 | Cian Prendergast      |      86.55 |                69 |        8 |                62 |      83.28 | Evan Roos                    |             80 |
+|             80 | Caolin Blade          |      84.09 |                64 |        9 |                62 |      82.3  | Herschel Jerome Jantjies     |             80 |
+|             80 | Jack Carty            |      97.91 |                82 |       10 |                69 |      89.06 | Immanuel Libbok              |             80 |
+|             80 | Mack Hansen           |      75.88 |                49 |       11 |                62 |      82.22 | Leolin Lucien Zas            |             80 |
+|             80 | Bundee Aki            |     125.04 |                98 |       12 |                74 |      92.77 | Daniel Michael du Plessis    |             80 |
+|             80 | Thomas Farrell        |      90.64 |                72 |       13 |                19 |      61.11 | Adriaan Ruhan Nel            |             80 |
+|             80 | John Porch            |      82.09 |                62 |       14 |                95 |     112.82 | Angelo Davids                |             80 |
+|             80 | Tiernan O'Halloran    |      83.86 |                59 |       15 |                66 |      88.11 | Damian Willemse              |             80 |
 

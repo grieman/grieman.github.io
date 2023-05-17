@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: New South Wales Waratahs by 10.3
+## Prediction with Player Minutes: New South Wales Waratahs by 10.5
 
 
-New South Wales Waratahs by 6.3 on a neutral field
+New South Wales Waratahs by 6.5 on a neutral field
 
-There were 8 large changes in win probability in this match
-## Prediction without Player Minutes: New South Wales Waratahs by 9.5
+There were 9 large changes in win probability in this match
+## Prediction without Player Minutes: New South Wales Waratahs by 9.9
 
 
-New South Wales Waratahs by 5.5 on a neutral pitch
+New South Wales Waratahs by 5.9 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:-----------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             64 | Matt Gibbon      |      93.54 |                84 |        1 |                74 |      87.86 | Tetera Faulkner      |             61 |
-|             55 | Jordan Uelese    |      78.25 |                55 |        2 |                92 |     103.46 | Dave Porecki         |             65 |
-|             56 | Sam Talakai      |      90.68 |                79 |        3 |                69 |      85.77 | Harry Johnson-Holmes |             66 |
-|             80 | Josh Canham      |      82.36 |                61 |        4 |                47 |      74.77 | Jed Holloway         |             80 |
-|             70 | Trevor Hosea     |      79.53 |                56 |        5 |                85 |      97.02 | Hugh Sinclair        |             80 |
-|             61 | Vaiolini Ekuasi  |      78.44 |                53 |        6 |                79 |      91.13 | Will Harris          |             61 |
-|             80 | Brad Wilkin      |      85.61 |                68 |        7 |                99 |     141.65 | Michael Hooper       |             80 |
-|             80 | Richard Hardwick |      83.07 |                61 |        8 |                73 |      89.02 | Langi Gleeson        |             77 |
-|             70 | Ryan Louwrens    |     102.26 |                88 |        9 |                94 |     110.54 | Jake Gordon          |             76 |
-|             80 | Carter Gordon    |      87.47 |                66 |       10 |                62 |      85.33 | Ben Donaldson        |             80 |
-|             64 | Monty Ioane      |     115.89 |                96 |       11 |                84 |      97.61 | Dylan Pietsch        |             80 |
-|             41 | David Feliuai    |      88.16 |                70 |       12 |                73 |      91.54 | Lalakai Foketi       |             31 |
-|             80 | Reece Hodge      |     111.82 |                93 |       13 |                50 |      77.85 | Izaia Perese         |             80 |
-|             80 | Lachie Anderson  |      73.65 |                45 |       14 |                76 |      90.77 | Mark Nawaqanitawase  |             80 |
-|             80 | Andrew Kellaway  |      97.84 |                79 |       15 |                84 |     102.5  | Max Jorgensen        |             76 |
-|             25 | Alex Mafi        |      84.98 |                68 |       16 |                 8 |      48.36 | Mahe Vailanu         |             15 |
-|             16 | Cabous Eloff     |      73.56 |                41 |       17 |               nan |      75.57 | Nephi Leatigaga      |             19 |
-|             24 | Pone Fa'amausili |      85.79 |                70 |       18 |                74 |      87.97 | Archer Holz          |             14 |
-|             10 | Tim Cardall      |     101.98 |               nan |       19 |               nan |      85.11 | Tiaan Tauakipulu     |              0 |
-|             19 | Tamati Ioane     |      83.73 |                55 |       20 |                65 |      83.79 | Charlie Gamble       |             19 |
-|             10 | James Tuttle     |      95.2  |                79 |       21 |               nan |      81.1  | Teddy Wilson         |              4 |
-|             39 | Stacey Ili       |      78.33 |                51 |       22 |                63 |      86.87 | Harry Wilson         |              4 |
-|             16 | Joe Pincus       |      81.3  |                54 |       23 |                55 |      80.44 | Joey Walton          |             49 |
+|             64 | Matt Gibbon      |      93.22 |                83 |        1 |                73 |      87.57 | Tetera Faulkner      |             61 |
+|             55 | Jordan Uelese    |      78.5  |                56 |        2 |                93 |     105.32 | Dave Porecki         |             65 |
+|             56 | Sam Talakai      |      90.83 |                79 |        3 |                71 |      86.68 | Harry Johnson-Holmes |             66 |
+|             80 | Josh Canham      |      82.01 |                60 |        4 |                50 |      76.42 | Jed Holloway         |             80 |
+|             70 | Trevor Hosea     |      79.82 |                57 |        5 |                82 |      94.58 | Hugh Sinclair        |             80 |
+|             61 | Vaiolini Ekuasi  |      78.41 |                53 |        6 |                78 |      90.49 | Will Harris          |             61 |
+|             80 | Brad Wilkin      |      84.09 |                65 |        7 |                99 |     140.85 | Michael Hooper       |             80 |
+|             80 | Richard Hardwick |      82.07 |                58 |        8 |                74 |      89.28 | Langi Gleeson        |             77 |
+|             70 | Ryan Louwrens    |     103.32 |                88 |        9 |                94 |     110.5  | Jake Gordon          |             76 |
+|             80 | Carter Gordon    |      86.75 |                64 |       10 |                65 |      87.61 | Ben Donaldson        |             80 |
+|             64 | Monty Ioane      |     116.07 |                96 |       11 |                85 |      98.7  | Dylan Pietsch        |             80 |
+|             41 | David Feliuai    |      88    |                70 |       12 |                74 |      92.7  | Lalakai Foketi       |             31 |
+|             80 | Reece Hodge      |     111.6  |                93 |       13 |                44 |      74.97 | Izaia Perese         |             80 |
+|             80 | Lachie Anderson  |      72.71 |                41 |       14 |                79 |      92.38 | Mark Nawaqanitawase  |             80 |
+|             80 | Andrew Kellaway  |      98.47 |                80 |       15 |                83 |     101.07 | Max Jorgensen        |             76 |
+|             25 | Alex Mafi        |      87.05 |                72 |       16 |                 7 |      46.97 | Mahe Vailanu         |             15 |
+|             16 | Cabous Eloff     |      72.86 |                40 |       17 |               nan |      74    | Nephi Leatigaga      |             19 |
+|             24 | Pone Fa'amausili |      85.33 |                69 |       18 |                73 |      87.47 | Archer Holz          |             14 |
+|             10 | Tim Cardall      |     101.05 |               nan |       19 |               nan |      85.12 | Tiaan Tauakipulu     |              0 |
+|             19 | Tamati Ioane     |      84.03 |                55 |       20 |                67 |      85.48 | Charlie Gamble       |             19 |
+|             10 | James Tuttle     |      96.12 |                81 |       21 |               nan |      81.92 | Teddy Wilson         |              4 |
+|             39 | Stacey Ili       |      80.52 |                55 |       22 |                63 |      86.72 | Harry Wilson         |              4 |
+|             16 | Joe Pincus       |      80.65 |                53 |       23 |                53 |      79.54 | Joey Walton          |             49 |
 

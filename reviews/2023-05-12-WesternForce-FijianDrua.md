@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Fijian Drua by 5.8
+## Prediction with Player Minutes: Fijian Drua by 5.3
 
 
-Fijian Drua by 9.8 on a neutral field
+Fijian Drua by 9.3 on a neutral field
 
 There were 9 large changes in win probability in this match
-## Prediction without Player Minutes: Fijian Drua by 3.8
+## Prediction without Player Minutes: Fijian Drua by 3.4
 
 
-Fijian Drua by 7.8 on a neutral pitch
+Fijian Drua by 7.4 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             62 | Haereiti Hetet          |      97.11 |                88 |        1 |                62 |      81.49 | Angus Wagner          |             41 |
-|             68 | Tevita Ikanivere        |     115.04 |                97 |        2 |                95 |     110.76 | Folau Fainga'a        |             66 |
-|             51 | Jone Koroiduadua        |      89.58 |                75 |        3 |                97 |     112.95 | Tom Robertson         |             64 |
-|             76 | Isoa Nasilasila         |     115.17 |                95 |        4 |                27 |      65.43 | Jeremy Williams       |             80 |
-|             51 | Te Ahiwaru Cirikidaveta |     102.59 |                89 |        5 |                67 |      88.57 | Ryan McCauley         |             47 |
-|             80 | Joseva Tamani           |      74.84 |                47 |        6 |                76 |      90.7  | Michael Wells         |             76 |
-|             80 | Vilive Miramira         |      82.4  |                62 |        7 |                63 |      82.91 | Carlo Tizzano         |             80 |
-|             80 | Ratu Meli Derenalagi    |     101.2  |                83 |        8 |                80 |      97.78 | Rahboni Vosayaco      |             51 |
-|             60 | Frank Lomani            |      76.01 |                48 |        9 |                73 |      90.25 | Issak Fines-Leleiwasa |             69 |
-|             80 | Teti Tela               |      99.25 |                84 |       10 |                45 |      74.84 | Max Burey             |             80 |
-|             80 | Taniela Rakuro          |      85.6  |                68 |       11 |                90 |     103.29 | Manasa Mataele        |             54 |
-|             60 | Kalaveti Ravouvou       |     138.83 |                99 |       12 |                97 |     120.57 | Hamish Stewart        |             80 |
-|             80 | Iosefo Masi             |      89.41 |                70 |       13 |                68 |      88.1  | Sam Spink             |             80 |
-|             49 | Eroni Sau               |      77.64 |                52 |       14 |                18 |      59.66 | Zach Kibirige         |             80 |
-|             80 | Ilaisa Droasese         |      97.86 |                79 |       15 |                63 |      86.57 | Chase Tiatia          |             80 |
-|             12 | Zuriel Togiatama        |      76.66 |                51 |       16 |                87 |      97.53 | Tom Horton            |             14 |
-|             18 | Livai Natave            |      86.86 |                71 |       17 |               nan |      79.12 | Marley Pearce         |             39 |
-|             29 | Jone Tiko               |      82.08 |                69 |       18 |               nan |      86.77 | Siosifa Amone         |             16 |
-|             29 | Etonia Waqa             |      83.72 |               nan |       19 |                 1 |      34.04 | Felix Kalapu          |             33 |
-|              4 | Elia Canakaivata        |      79.53 |                54 |       20 |                35 |      69.58 | Tim Anstee            |             29 |
-|             31 | Peni Matawalu           |      88.99 |                71 |       21 |                36 |      72.02 | Isi Naisarani         |              4 |
-|             20 | Caleb Muntz             |      75.72 |                46 |       22 |                80 |      93.58 | Ian Prior             |             11 |
-|             20 | Tuidraki Samusamuvodre  |      46.57 |                 6 |       23 |               nan |      85.13 | George Poolman        |             26 |
+|             62 | Haereiti Hetet          |      96.91 |                87 |        1 |                62 |      81.05 | Angus Wagner          |             41 |
+|             68 | Tevita Ikanivere        |     113.33 |                96 |        2 |                96 |     113.49 | Folau Fainga'a        |             66 |
+|             51 | Jone Koroiduadua        |      90.34 |                77 |        3 |                97 |     112.47 | Tom Robertson         |             64 |
+|             76 | Isoa Nasilasila         |     115.97 |                95 |        4 |                33 |      68.96 | Jeremy Williams       |             80 |
+|             51 | Te Ahiwaru Cirikidaveta |     102.47 |                89 |        5 |                67 |      89.03 | Ryan McCauley         |             47 |
+|             80 | Joseva Tamani           |      76.78 |                50 |        6 |                77 |      92.2  | Michael Wells         |             76 |
+|             80 | Vilive Miramira         |      82.46 |                62 |        7 |                66 |      84.3  | Carlo Tizzano         |             80 |
+|             80 | Ratu Meli Derenalagi    |     101.66 |                83 |        8 |                79 |      97.57 | Rahboni Vosayaco      |             51 |
+|             60 | Frank Lomani            |      75.44 |                47 |        9 |                72 |      89.87 | Issak Fines-Leleiwasa |             69 |
+|             80 | Teti Tela               |      98.32 |                83 |       10 |                45 |      74.96 | Max Burey             |             80 |
+|             80 | Taniela Rakuro          |      85.89 |                69 |       11 |                89 |     102.49 | Manasa Mataele        |             54 |
+|             60 | Kalaveti Ravouvou       |     140.4  |                99 |       12 |                97 |     120.87 | Hamish Stewart        |             80 |
+|             80 | Iosefo Masi             |      89.91 |                71 |       13 |                68 |      87.87 | Sam Spink             |             80 |
+|             49 | Eroni Sau               |      75.94 |                49 |       14 |                16 |      58.14 | Zach Kibirige         |             80 |
+|             80 | Ilaisa Droasese         |      98    |                80 |       15 |                63 |      86.46 | Chase Tiatia          |             80 |
+|             12 | Zuriel Togiatama        |      77.11 |                52 |       16 |                86 |      97.62 | Tom Horton            |             14 |
+|             18 | Livai Natave            |      86.69 |                71 |       17 |               nan |      79.42 | Marley Pearce         |             39 |
+|             29 | Jone Tiko               |      82.11 |                69 |       18 |               nan |      87.3  | Siosifa Amone         |             16 |
+|             29 | Etonia Waqa             |      83.75 |               nan |       19 |                 2 |      37.12 | Felix Kalapu          |             33 |
+|              4 | Elia Canakaivata        |      79.71 |                54 |       20 |                35 |      69.28 | Tim Anstee            |             29 |
+|             31 | Peni Matawalu           |      89.02 |                71 |       21 |                35 |      72.01 | Isi Naisarani         |              4 |
+|             20 | Caleb Muntz             |      76.82 |                49 |       22 |                80 |      93.88 | Ian Prior             |             11 |
+|             20 | Tuidraki Samusamuvodre  |      47.39 |                 6 |       23 |               nan |      85.1  | George Poolman        |             26 |
 

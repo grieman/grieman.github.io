@@ -18,8 +18,6 @@ Last Round Accuracy: 5 of 7 (71.43%)
 
 Last Round Error: 14.82 points per match
 
-[2023-05-06 Newcastle Falcons at Sale Sharks; 12-54](reviews//2023-05-06-SaleSharks-NewcastleFalcons)
-
 [2023-05-13 Northampton Saints at Saracens; 15.0-38.0](reviews//2023-05-13-Saracens-NorthamptonSaints)
 
 [2023-05-14 Leicester Tigers at Sale Sharks; 13.0-21.0](reviews//2023-05-14-SaleSharks-LeicesterTigers)
@@ -30,13 +28,11 @@ Last Round Error: 14.82 points per match
 
 Competition Accuracy: 47 of 61 (77.05%)
 
-Competition Error: 12.06 points per match
+Competition Error: 12.08 points per match
 
 Last Round Accuracy: 6 of 6 (100.0%)
 
-Last Round Error: 7.77 points per match
-
-[2023-05-07 Chicago Hounds at Rugby ATL; 12-27](reviews//2023-05-07-RugbyATL-ChicagoHounds)
+Last Round Error: 7.75 points per match
 
 [2023-05-14 San Diego Legion at NOLA Gold; 26-12](reviews//2023-05-14-NOLAGold-SanDiegoLegion)
 
@@ -54,8 +50,6 @@ Last Round Accuracy: 2 of 4 (50.0%)
 
 Last Round Error: 7.26 points per match
 
-[2023-05-06 Cobras at Selknam; 17-33](reviews//2023-05-06-Selknam-Cobras)
-
 [2023-05-07 Yacare XV at American Raptors; 44-37](reviews//2023-05-07-AmericanRaptors-YacareXV)
 
 [2023-05-13 Selknam at Pampas XV; 23-19](reviews//2023-05-13-PampasXV-Selknam)
@@ -71,8 +65,6 @@ Competition Error: 12.33 points per match
 Last Round Accuracy: 5 of 6 (83.33%)
 
 Last Round Error: 12.66 points per match
-
-[2023-05-07 Brumbies at Melbourne Rebels; 33.0-26.0](reviews//2023-05-07-MelbourneRebels-Brumbies)
 
 [2023-05-12 Queensland Reds at Chiefs; 25.0-22.0](reviews//2023-05-12-Chiefs-QueenslandReds)
 
@@ -98,27 +90,17 @@ Last Round Accuracy: 4 of 7 (57.14%)
 
 Last Round Error: 11.68 points per match
 
-[2023-05-06 Perpignan at Lyon; 31-41](reviews//2023-05-06-Lyon-Perpignan)
-
-[2023-05-06 Brive at Montpellier Herault; 27-26](reviews//2023-05-06-MontpellierHerault-Brive)
-
-[2023-05-06 Castres Olympique at Pau; 3-40](reviews//2023-05-06-Pau-CastresOlympique)
-
-[2023-05-06 Bayonne at Racing 92; 14-55](reviews//2023-05-06-Racing92-Bayonne)
-
-[2023-05-06 La Rochelle at Toulon; 23-8](reviews//2023-05-06-Toulon-LaRochelle)
-
 [2023-05-07 Bordeaux Begles at Stade Toulousain; 17-31](reviews//2023-05-07-StadeToulousain-BordeauxBegles)
 
 [2023-05-13 Stade Toulousain at Perpignan; 21-26](reviews//2023-05-13-Perpignan-StadeToulousain)
 
-[2023-05-13 La Rochelle at Montpellier Herault; 31-42](reviews//2023-05-13-MontpellierHerault-LaRochelle)
-
-[2023-05-13 Castres Olympique at Brive; 16-13](reviews//2023-05-13-Brive-CastresOlympique)
+[2023-05-13 Clermont Auvergne at Bayonne; 18-21](reviews//2023-05-13-Bayonne-ClermontAuvergne)
 
 [2023-05-13 Pau at Bordeaux Begles; 0-28](reviews//2023-05-13-BordeauxBegles-Pau)
 
-[2023-05-13 Clermont Auvergne at Bayonne; 18-21](reviews//2023-05-13-Bayonne-ClermontAuvergne)
+[2023-05-13 Castres Olympique at Brive; 16-13](reviews//2023-05-13-Brive-CastresOlympique)
+
+[2023-05-13 La Rochelle at Montpellier Herault; 31-42](reviews//2023-05-13-MontpellierHerault-LaRochelle)
 
 [2023-05-13 Toulon at Racing 92; 7-43](reviews//2023-05-13-Racing92-Toulon)
 
@@ -135,12 +117,6 @@ Competition Error: 11.81 points per match
 Last Round Accuracy: 4 of 8 (50.0%)
 
 Last Round Error: 11.82 points per match
-
-[2023-05-06 Bulls at Stormers; 21-33](reviews//2023-05-06-Stormers-Bulls)
-
-[2023-05-06 Sharks at Leinster; 5-35](reviews//2023-05-06-Leinster-Sharks)
-
-[2023-05-06 Munster at Glasgow Warriors; 14-5](reviews//2023-05-06-GlasgowWarriors-Munster)
 
 [2023-05-13 Connacht at Stormers; 25-43](reviews//2023-05-13-Stormers-Connacht)
 
@@ -179,10 +155,6 @@ Competition Error: 10.39 points per match
 Last Round Accuracy: 5 of 7 (71.43%)
 
 Last Round Error: 9.25 points per match
-
-[2023-05-06 Bourgoin-Jallieu at Blagnac; 16-27](reviews//2023-05-06-Blagnac-Bourgoin-Jallieu)
-
-[2023-05-06 US Bressane at Albi; 6-19](reviews//2023-05-06-Albi-USBressane)
 
 [2023-05-13 Valence Romans Drome Rugby at Albi; 20-7](reviews//2023-05-13-Albi-ValenceRomansDromeRugby)
 

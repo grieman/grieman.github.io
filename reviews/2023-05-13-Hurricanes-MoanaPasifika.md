@@ -43,27 +43,27 @@ Hurricanes by 24.8 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             41 | Ezekiel Lindenmuth  |      74.57 |                44 |        1 |                88 |      92.56 | Tevita Mafileo       |             51 |
-|             80 | Luteru Tolai        |      98.07 |                86 |        2 |               nan |      85.29 | Jacob Devery         |             55 |
-|             41 | Isileli Tu'ungafasi |      52.79 |                 7 |        3 |                99 |     135.94 | Tyrel Lomax          |             58 |
-|             80 | Alex McRobbie       |      66.64 |                28 |        4 |                65 |      83.95 | James Blackwell      |             80 |
-|             61 | Mahroni Ngakuru     |      54.12 |                10 |        5 |                90 |     103.99 | Isaia Walker-Leawere |             51 |
-|             56 | Sione Tu'ipulotu    |      77.29 |               nan |        6 |                58 |      80.41 | Devan Flanders       |             80 |
-|             80 | Penitoa Finau       |      74.2  |               nan |        7 |                74 |      88.74 | Du'Plessis Kirifi    |             67 |
-|             67 | Lotu Inisi          |      92.01 |                78 |        8 |                98 |     121.56 | Ardie Savea          |             80 |
-|             80 | Jonathan Taumateine |      64.96 |                24 |        9 |                11 |      54.25 | Jamie Booth          |             61 |
-|             80 | Lincoln McClutchie  |      92.43 |                75 |       10 |                57 |      82.56 | Aidan Morgan         |             70 |
-|             54 | Anzelo Tuitavuki    |      44.47 |                 5 |       11 |                93 |     107.09 | Kini Naholo          |             61 |
-|             80 | Henry Taefu         |      52.67 |                 9 |       12 |                91 |     107.48 | Jordie Barrett       |             80 |
-|             67 | Danny Toala         |      93.45 |                76 |       13 |                92 |     108.88 | Billy Proctor        |             80 |
-|             65 | Tima Fainga'anuku   |     104.26 |                91 |       14 |                65 |      82.96 | Salesi Rayasi        |             80 |
-|             80 | Tomasi Alosio       |      74.58 |               nan |       15 |                33 |      69.79 | Harry Godfrey        |             80 |
-|             13 | Joe Royal           |      74.38 |               nan |       16 |                50 |      75.73 | Hame Faiva           |             25 |
-|             39 | Tau Koloamatangi    |     111.44 |                96 |       17 |                63 |      83.2  | Pouri Rakete-Stones  |             29 |
-|             39 | Chris Apoua         |      74.73 |                45 |       18 |               nan |      90.29 | Pasilio Tosi         |             22 |
-|             19 | Potu Leavasa        |      67.99 |                36 |       19 |                81 |      93.91 | Caleb Delany         |             29 |
-|             24 | Jonah Mau'u         |      84.72 |                64 |       20 |                10 |      53    | Brayden Iose         |             13 |
-|             13 | Sam Wye             |      74.02 |               nan |       21 |               nan |      85.02 | Logan Henry          |             19 |
-|             15 | William Havili      |     106.45 |                87 |       22 |                62 |      84.25 | Peter Umaga-Jensen   |             10 |
-|             26 | Lolagi Visinia      |      73.85 |               nan |       23 |                57 |      83.01 | Joshua Moorby        |             19 |
+|             41 | Ezekiel Lindenmuth  |      74.59 |                44 |        1 |                88 |      93.28 | Tevita Mafileo       |             51 |
+|             80 | Luteru Tolai        |      94.98 |                83 |        2 |               nan |      85.58 | Jacob Devery         |             55 |
+|             41 | Isileli Tu'ungafasi |      51.45 |                 7 |        3 |                99 |     137.41 | Tyrel Lomax          |             58 |
+|             80 | Alex McRobbie       |      67.44 |                30 |        4 |                65 |      84.24 | James Blackwell      |             80 |
+|             61 | Mahroni Ngakuru     |      54.77 |                11 |        5 |                88 |     100.91 | Isaia Walker-Leawere |             51 |
+|             56 | Sione Tu'ipulotu    |      77.44 |               nan |        6 |                63 |      82.75 | Devan Flanders       |             80 |
+|             80 | Penitoa Finau       |      74.41 |               nan |        7 |                75 |      89.59 | Du'Plessis Kirifi    |             67 |
+|             67 | Lotu Inisi          |      91.44 |                77 |        8 |                98 |     121.48 | Ardie Savea          |             80 |
+|             80 | Jonathan Taumateine |      65.03 |                24 |        9 |                 9 |      51.63 | Jamie Booth          |             61 |
+|             80 | Lincoln McClutchie  |      93.83 |                77 |       10 |                56 |      82.33 | Aidan Morgan         |             70 |
+|             54 | Anzelo Tuitavuki    |      43.9  |                 5 |       11 |                92 |     106.09 | Kini Naholo          |             61 |
+|             80 | Henry Taefu         |      49.05 |                 6 |       12 |                91 |     107.4  | Jordie Barrett       |             80 |
+|             67 | Danny Toala         |      95.08 |                78 |       13 |                92 |     109.39 | Billy Proctor        |             80 |
+|             65 | Tima Fainga'anuku   |     104.67 |                91 |       14 |                57 |      79.49 | Salesi Rayasi        |             80 |
+|             80 | Tomasi Alosio       |      73.88 |               nan |       15 |                32 |      69.49 | Harry Godfrey        |             80 |
+|             13 | Joe Royal           |      74.61 |               nan |       16 |                49 |      75.06 | Hame Faiva           |             25 |
+|             39 | Tau Koloamatangi    |     111.91 |                96 |       17 |                63 |      83.04 | Pouri Rakete-Stones  |             29 |
+|             39 | Chris Apoua         |      74.81 |                45 |       18 |               nan |      89.61 | Pasilio Tosi         |             22 |
+|             19 | Potu Leavasa        |      72.12 |                45 |       19 |                81 |      93.47 | Caleb Delany         |             29 |
+|             24 | Jonah Mau'u         |      83.91 |                62 |       20 |                18 |      59.08 | Brayden Iose         |             13 |
+|             13 | Sam Wye             |      74.23 |               nan |       21 |               nan |      85    | Logan Henry          |             19 |
+|             15 | William Havili      |     107.2  |                88 |       22 |                63 |      84.13 | Peter Umaga-Jensen   |             10 |
+|             26 | Lolagi Visinia      |      74.05 |               nan |       23 |                56 |      82.87 | Joshua Moorby        |             19 |
 
