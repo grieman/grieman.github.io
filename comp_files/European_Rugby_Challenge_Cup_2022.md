@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 2022 Status"  
-date: 2023-05-11 6:00:00 -0500  
+date: 2023-05-18 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -13,25 +13,21 @@ aside:
 
 | Club                 |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Toulon               |        7 |      7 |                  109 |                     0 |                  5 |                   33 |
-| Glasgow Warriors     |        7 |      6 |                   93 |                     0 |                  5 |                   31 |
-| Benetton Treviso     |        8 |      6 |                   75 |                     0 |                  5 |                   29 |
-| Scarlets             |        7 |      6 |                   63 |                     0 |                  3 |                   27 |
-| Cardiff Blues        |        6 |      4 |                   94 |                     1 |                  3 |                   20 |
-| Bristol Rugby        |        5 |      4 |                   60 |                     1 |                  3 |                   20 |
-| Lions                |        6 |      3 |                   26 |                     0 |                  3 |                   17 |
-| Connacht             |        6 |      3 |                   19 |                     0 |                  2 |                   14 |
-| Dragons              |        5 |      1 |                  -45 |                     2 |                  3 |                   11 |
-| Lyon                 |        3 |      2 |                    9 |                     0 |                  2 |                   10 |
-| Cheetahs             |        5 |      2 |                  -29 |                     1 |                  1 |                   10 |
-| Stade Francais Paris |        6 |      2 |                  -35 |                     1 |                  1 |                   10 |
-| Clermont Auvergne    |        2 |      1 |                    5 |                     1 |                  2 |                    7 |
+| Bristol Rugby        |        4 |      4 |                   67 |                     0 |                  3 |                   19 |
+| Toulon               |        4 |      4 |                   46 |                     0 |                  3 |                   19 |
+| Scarlets             |        4 |      4 |                   67 |                     0 |                  2 |                   18 |
+| Glasgow Warriors     |        4 |      3 |                   25 |                     0 |                  2 |                   16 |
+| Cardiff Blues        |        4 |      3 |                   97 |                     0 |                  3 |                   15 |
+| Benetton Treviso     |        4 |      3 |                   50 |                     0 |                  3 |                   15 |
+| Connacht             |        4 |      3 |                   63 |                     0 |                  2 |                   14 |
+| Lions                |        4 |      2 |                   13 |                     0 |                  2 |                   12 |
+| Stade Francais Paris |        4 |      2 |                   -1 |                     1 |                  1 |                   10 |
+| Dragons              |        4 |      1 |                   -5 |                     2 |                  2 |                   10 |
+| Cheetahs             |        4 |      2 |                  -14 |                     1 |                  1 |                   10 |
 | Pau                  |        4 |      1 |                   -8 |                     3 |                  0 |                    7 |
-| Brive                |        5 |      1 |                 -103 |                     1 |                  1 |                    6 |
+| Brive                |        4 |      1 |                  -91 |                     1 |                  1 |                    6 |
 | Newcastle Falcons    |        4 |      1 |                  -69 |                     0 |                  1 |                    5 |
 | Bath Rugby           |        4 |      0 |                  -37 |                     1 |                  0 |                    3 |
-| Sale Sharks          |        1 |      0 |                   -1 |                     1 |                  0 |                    1 |
-| Racing 92            |        1 |      0 |                  -23 |                     0 |                  1 |                    1 |
 | Perpignan            |        4 |      0 |                  -50 |                     0 |                  1 |                    1 |
 | Zebre                |        4 |      0 |                  -51 |                     1 |                  0 |                    1 |
 | Bayonne              |        4 |      0 |                 -102 |                     0 |                  0 |                    0 |
@@ -43,8 +39,8 @@ aside:
 
 |                  | Reach Final   | Win Final   |
 |:-----------------|:--------------|:------------|
-| Toulon           | 100.0 %       | 56.9 %      |
-| Glasgow Warriors | 100.0 %       | 43.1 %      |
+| Toulon           | 100.0 %       | 60.0 %      |
+| Glasgow Warriors | 100.0 %       | 40.0 %      |
 
 
 
@@ -53,9 +49,9 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 62.0% | 13.4 |
-| Player Level: Lineup | 60.0% | 18.2 |
-| Player Level: Minutes | 58.0% | 19.1 |
+| Club Level | 61.1% | 13.9 |
+| Player Level: Lineup | 58.3% | 16.0 |
+| Player Level: Minutes | 58.3% | 16.2 |
 
 
 # Future Predictions
@@ -65,10 +61,10 @@ aside:
 ### Toulon V Glasgow Warriors on 2023/05/19
 
 
-Average Margin: Toulon by 0.6
+Average Margin: Toulon by 0.5
 
 <p float="left">
-<img src="plots/performances_Toulon_V_Glasgow Warriors_9.png" width="32%" />
-<img src="plots/resultbar_Toulon_V_Glasgow Warriors_9.png" width="32%" />
-<img src="plots/spreads_Toulon_V_Glasgow Warriors_9.png" width="32%" />
+<img src="plots/performances_Toulon_V_Glasgow Warriors_5.png" width="32%" />
+<img src="plots/resultbar_Toulon_V_Glasgow Warriors_5.png" width="32%" />
+<img src="plots/spreads_Toulon_V_Glasgow Warriors_5.png" width="32%" />
 </p>
